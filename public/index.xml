@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>useR! 2018</title>
+    <link>/</link>
+    <description>Recent content on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Apr 2017 15:21:22 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About the conference</title>
+      <link>/home/index/</link>
+      <pubDate>Mon, 17 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/home/index/</guid>
+      <description>Location Brisbane is the capital city of Queensland. The temperature in June/July is a comfortable 21C, on average, and it is the ideal time to visit the tropical north including the Great Barrier Reef. There are direct flights to Brisbane from Asia, the Middle East, Pacific nations and the USA. An extensive public transport network makes it possible to access the city centre from Brisbane suburbs, and the Gold Coast, by train, bus or ferry.</description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>/programme/index/</link>
+      <pubDate>Mon, 17 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/programme/index/</guid>
+      <description>Scientific More to come
+Social More to come here</description>
+    </item>
+    
+    <item>
+      <title>Important dates</title>
+      <link>/important-dates/index/</link>
+      <pubDate>Mon, 17 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/important-dates/index/</guid>
+      <description> Conference; July 11-13, 2018 Tutorials: July 10, 2018 Early registration deadline: Abstract submissions by:  </description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>/sponsors/index/</link>
+      <pubDate>Mon, 17 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/sponsors/index/</guid>
+      <description>Monash Business School</description>
+    </item>
+    
+    <item>
+      <title>About the conference</title>
+      <link>/index/</link>
+      <pubDate>Mon, 17 Apr 2017 15:21:22 +0200</pubDate>
+      
+      <guid>/index/</guid>
+      <description>Location Brisbane is the capital city of Queensland. The temperature in June/July is a comfortable 21C, on average, and it is the ideal time to visit the tropical north including the Great Barrier Reef. There are direct flights to Brisbane from Asia, the Middle East, Pacific nations and the USA. An extensive public transport network makes it possible to access the city centre from Brisbane suburbs, and the Gold Coast, by train, bus or ferry.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/home/index/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/programme/index/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/important-dates/index/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sponsors/index/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/index/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/important-dates/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/programme/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/sponsors/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
