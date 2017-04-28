@@ -1,37 +1,150 @@
 baseurl = "https://useR-2018.github.io/"
-languageCode = "en-us"
-metadataformat = "yaml"
 title = "useR! 2018"
-theme = "hugo-alabaster-theme"
-
-disqusShortname = "visnut"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Programme"
+    url  = "/programme/"
+    weight = 2
+
+[[menu.main]]
+    name = "Registration"
+    url  = "/registration/"
+    weight = 3
+
+[[menu.main]]
+    name = "News"
+    url  = "/blog/"
+    weight = 4
+
+[[menu.main]]
+    name = "FAQ"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 6
+
 [params]
-	name = "July 10-13, 2018"
-	description = "The conference for users of R"
+    viewMorePostLink = "/blog/"
+    author = "useR! 2018"
+    defaultKeywords = ["useR", "hugo", "conference"]
+    defaultDescription = "Powered by Hugo and site template made with Universal."
 
-	github_user   = "useR-2018"
-	github_repo   = "useR-2018.github.io"
-	github_banner = false
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
 
-	custom_css = []
-	custom_js  = []
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
 
-	highlightjs = "css/highlight.css"
-	favicon = "user_au_logo.png"
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "your@email.com"
 
-[params.sidebar]
-	logo = "user_au_logo.png"
+    about_us = """<p><strong>Di Cook (Monash, chair)</strong>, Rob J Hyndman (Monash), 
+      <br>Nick Tierney (Monash), Earo Wang (Monash), 
+      <br>Thomas Lumley (Auckland), Paul Murrell (Auckland), 
+      <br>Bill Venables (Brisbane), Simon Blomberg (UQ), 
+      <br>Kerrie Mengersen (QUT), Goknur Giner (WEHI), 
+      <br>Jessie Roberts (QUT), Miles McBain (QUT), 
+      <br>Eun-kyung Lee (EWHA, Korea), Paula Andrea (UQ) 
+      <br>Wenjing Wang (RUC, China), Soroor Hediyehzadeh (WEHI)
+    </p>
+    """
+    copyright = "<p>Copyright &copy; 2017, <strong><a href='https://www.r-project.org/foundation'>R Foundation</a></strong></p>"
 
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
 
-	github_button  = false
-	travis_button  = false
-	codecov_button = false
-	gratipay = ""
+    logo = "img/user_au_logo.png"
+    address = """<p><strong>Brisbane convention & exhibition center.</strong>
+        <br>Cnr Merivale and Glenelg Streets
+        <br>South Bank, Brisbane
+        <br>Queensland 4101
+        <br>
+        <strong>Australia</strong>
+      </p>
+      """
+    latitude = "-27.4785009"
+    longitude = "153.0188608"
 
-	show_relations = true
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
 
-[params.footer]
-	copyright = "[R Foundation](https://www.r-project.org/foundation/)"
-	show_powered_by = true
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Invited speakers"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-users"
+    title = "Register now!"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url  = "/registration/"
+    link_text = "Check register page"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Sponsors"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "News"
+    subtitle = ""
