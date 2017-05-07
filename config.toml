@@ -126,13 +126,13 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Invited speakers"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = "We are delighted to have the invited speakers including Kangaroo, Koala, Echidna, Wombat."
 
 [params.see_more]
     enable = true
     icon = "fa fa-users"
     title = "Register now!"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    subtitle = "We expect very high demand. Quick registration and secure your ticket."
     link_url  = "/registration/"
     link_text = "Check register page"
 
