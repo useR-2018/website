@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>/blog/2017/06/13/registration/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -30,13 +35,19 @@
   </url>
   
   <url>
-    <loc>/registration/</loc>
+    <loc>/categories/registration/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/survey/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>/tags/registration/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/registration/</loc>
   </url>
   
   <url>
@@ -46,8 +57,14 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/survey/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
