@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on useR! 2018</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;p&gt;Copyright &amp;copy; 2017, &lt;strong&gt;&lt;a href=&#39;https://www.r-project.org/foundation&#39;&gt;R Foundation&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</copyright>
+    <lastBuildDate>Tue, 13 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Registration</title>
+      <link>/tags/registration/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/registration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey</title>
+      <link>/tags/survey/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

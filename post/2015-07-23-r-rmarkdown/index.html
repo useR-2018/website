@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head lang="en-us">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+	<meta name="description" content="The conference for users of R">
+	<meta name="generator" content="Hugo 0.20.1" />
+	
+	<title>Hello R Markdown &mdash; useR! 2018</title>
+	
+	<link rel="stylesheet" href="/css/alabaster.css" type="text/css" />
+	<link rel="stylesheet" href="/css/highlight.css" type="text/css" />
+
+	
+
+	<link rel="shortcut icon" href="/user_au_logo.png" type="image/x-icon"/>
+</head>
+
+	<body role="document">
+		<div class="document">
+			<div class="documentwrapper">
+				<div class="bodywrapper">
+					<div class="body" role="main">
+						
+	<h1>Hello R Markdown</h1>
+	
+	<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+
+
+
+						<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'visnut';
+    var disqus_identifier = '\/post\/2015-07-23-r-rmarkdown\/';
+    var disqus_title = 'Hello R Markdown';
+    var disqus_url = '\/post\/2015-07-23-r-rmarkdown\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+	<div class="sphinxsidebarwrapper">
+		<p class="logo">
+			<a href="/">
+				<img class="logo" src="/user_au_logo.png" alt="Logo"/>
+				<h1 class="logo logo-name">July 10-13, 2018</h1>
+			</a>
+		</p>
+		
+		<p class="blurb">The conference for users of R</p>
+
+		
+
+	
+
+	
+
+	
+		
+
+		
+
+<ul>
+	
+	<li class="toctree-l1">
+		<a class="reference internal" href="/getting-started/index/">Getting Started</a>
+	</li>
+	
+	<li class="toctree-l1">
+		<a class="reference internal" href="/adding-content/index/">Adding content</a>
+	</li>
+	
+	<li class="toctree-l1">
+		<a class="reference internal" href="/roadmap/index/">Roadmap</a>
+	</li>
+	
+	<li class="toctree-l1">
+		<a class="reference internal" href="/index/">About the conference</a>
+	</li>
+	
+</ul>
+
+
+		<h3>Related Topics</h3>
+<ul>
+  <li><a href="/">Documentation overview</a><ul>
+  
+  
+</ul>
+
+	</div>
+</div>
+<div class="clearer"></div>
+</div>
+			<div class="footer">
+	&copy; 2017 <a href="https://github.com/digitalcraftsman">Digitalcraftsman</a>
+	|
+	Powered by <a href="http://gohugo.io/">Hugo 0.20.1</a>
+	&amp; <a href="https://github.com/digitalcraftsman/hugo-alabaster-theme">Alabaster</a>
+	
+</div>
+
+
+
+
+			
+
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+			<script>hljs.initHighlightingOnLoad();</script>
+			
+
+			
+		</div>
+	</body>
+</html>

@@ -2,28 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/home/index/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <loc>/blog/2017/06/14/survey/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/programme/index/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <loc>/blog/2017/06/13/registration/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/important-dates/index/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/registration/index/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/index/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -32,37 +23,54 @@
   </url>
   
   <url>
-    <loc>/home/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>/important-dates/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/faq/</loc>
   </url>
   
   <url>
     <loc>/programme/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/registration/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/registration/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/registration/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/survey/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/survey/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-17T15:21:22+02:00</lastmod>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

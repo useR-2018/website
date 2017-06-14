@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on useR! 2018</title>
+    <link>/tags/go/</link>
+    <description>Recent content in Go on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;p&gt;Copyright &amp;copy; 2017, &lt;strong&gt;&lt;a href=&#39;https://www.r-project.org/foundation&#39;&gt;R Foundation&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</copyright>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>/blog/2015/09/17/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+  </channel>
+</rss>

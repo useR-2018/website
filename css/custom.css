@@ -1,0 +1,37 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.bar.background-pentagon {
+  background: url('../img/bg-pkgs.png') center center repeat;
+  border-top: solid 1px #999999;
+  border-bottom: solid 1px #999999;
+}
+
+.lead {
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.bar.background-image-fixed-2 {
+  background: url('../img/user2018.png') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.home-carousel {
+  position: relative;
+  background: url('../img/bg.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 2.0s ease-out;
+  -moz-transition: all 2.0s ease-out;
+  transition: all 2.0s ease-out;
+}
