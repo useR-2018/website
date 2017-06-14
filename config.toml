@@ -72,14 +72,15 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = """<p><strong>Di Cook (Monash, chair)</strong>, Rob J Hyndman (Monash), 
-      <br>Nick Tierney (Monash), Earo Wang (Monash), 
-      <br>Thomas Lumley (Auckland), Paul Murrell (Auckland), 
-      <br>Bill Venables (Brisbane), Simon Blomberg (UQ), 
-      <br>Kerrie Mengersen (QUT), Goknur Giner (WEHI), 
-      <br>Jessie Roberts (QUT), Miles McBain (QUT), 
-      <br>Eun-kyung Lee (EWHA, Korea), Paula Andrea (UQ) 
-      <br>Wenjing Wang (RUC, China), Soroor Hediyehzadeh (WEHI)
+    about_us = """<p><strong>Di Cook (Monash, chair)</strong>, Rob J Hyndman (Monash),
+      Nick Tierney (Monash), Earo Wang (Monash),
+      Thomas Lumley (Auckland), Paul Murrell (Auckland),
+      Bill Venables (Brisbane), Simon Blomberg (UQ),
+      Kerrie Mengersen (QUT), Goknur Giner (WEHI),
+      Jessie Roberts (QUT), Miles McBain (QUT),
+      Eun-kyung Lee (EWHA, Korea), Paula Andrea (UQ)
+      Wenjing Wang (RUC, China), Soroor Hediyehzadeh (WEHI),
+      Miles McBain (QUT), Paula Andrea (UQ), Rhydwyn McGuire (NSW DOH)
     </p>
     """
     copyright = "<p>Copyright &copy; 2017, <strong><a href='https://www.r-project.org/foundation'>R Foundation</a></strong></p>"
