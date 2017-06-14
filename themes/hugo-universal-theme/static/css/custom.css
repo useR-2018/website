@@ -29,7 +29,7 @@
 
 .home-carousel {
   position: relative;
-  background: url('../img/bg-pkgs.png') center center repeat;
+  background: url('../img/bg.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 2.0s ease-out;
   -moz-transition: all 2.0s ease-out;
