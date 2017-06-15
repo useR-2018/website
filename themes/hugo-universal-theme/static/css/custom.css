@@ -35,3 +35,10 @@
   -moz-transition: all 2.0s ease-out;
   transition: all 2.0s ease-out;
 }
+
+.home-carousel h1 {
+  font-weight: 700;
+  text-transform: none;
+  font-size: 46px;
+  letter-spacing: 0.08em;
+}

@@ -20,21 +20,21 @@
                 {{ range first 4 $posts.Pages }}
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
-                        <div class="top">
-                            <div class="image" style="overflow:hidden">
-                                {{ if isset .Params "banner" }}
-                                <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="" >
-                                {{ else }}
-                                <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
-                                {{ end }}
-                            </div>
-                            <div class="bg"></div>
-                            <div class="text">
-                                <p class="buttons">
-                                    <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> {{ i18n "readMore" }}</a>
-                                </p>
-                            </div>
-                        </div>
+                        <!-- <div class="top"> -->
+                            <!-- <div class="image" style="overflow:hidden"> -->
+                            <!--     {{ if isset .Params "banner" }} -->
+                            <!--     <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img&#45;responsive" alt="" > -->
+                            <!--     {{ else }} -->
+                            <!--     <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img&#45;responsive" alt=""> -->
+                            <!--     {{ end }} -->
+                            <!-- </div> -->
+                            <!-- <div class="bg"></div> -->
+                            <!-- <div class="text"> -->
+                            <!--     <p class="buttons"> -->
+                            <!--         <a href="{{ .Permalink }}" class="btn btn&#45;template&#45;transparent&#45;primary"><i class="fa fa&#45;link"></i> {{ i18n "readMore" }}</a> -->
+                            <!--     </p> -->
+                            <!-- </div> -->
+                        <!-- </div> -->
 
                         <div class="content">
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
@@ -44,7 +44,7 @@
                             {{ end }}
                             on {{ .Date.Format .Site.Params.date_format }}
                             </p>
-                            <p class="intro">{{ .Summary }}</p>
+                            <p>{{ .Description }}</p>
                             <p class="read-more">
                               <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                             </p>
