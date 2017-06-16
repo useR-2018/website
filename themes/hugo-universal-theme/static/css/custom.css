@@ -42,3 +42,9 @@
   font-size: 46px;
   letter-spacing: 0.08em;
 }
+
+#heading-breadcrumbs {
+  background: url('../img/bg-pkgs.png') center center repeat;
+  padding: 20px 0;
+  margin-bottom: 40px;
+}

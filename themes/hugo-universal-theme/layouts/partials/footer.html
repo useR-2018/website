@@ -19,7 +19,7 @@
             <h4>{{ i18n "recentPosts" }}</h4>
 
             <div class="blog-entries">
-                {{ range first 2 (where .Site.Pages "Type" "blog") }}
+                {{ range first 5 (where .Site.Pages "Type" "blog") }}
                 <!-- <div class="item same&#45;height&#45;row clearfix"> -->
                 <!--     <div class="image same&#45;height&#45;always"> -->
                 <!--         <a href="{{ .Permalink }}"> -->

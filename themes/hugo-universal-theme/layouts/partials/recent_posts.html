@@ -40,7 +40,7 @@
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                             <p class="author-category">
                             {{ with .Params.author }}
-                            By <a href="#">{{ . }}</a>
+                            By <strong> {{ . }} </strong>
                             {{ end }}
                             on {{ .Date.Format .Site.Params.date_format }}
                             </p>
