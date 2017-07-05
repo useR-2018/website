@@ -1,4 +1,4 @@
-baseurl = "https://user2018.netlify.com/"
+baseurl = "https://user-2018.netlify.com/"
 title = "useR! 2018"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
