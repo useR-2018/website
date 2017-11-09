@@ -127,8 +127,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Invited speakers"
-    subtitle = "We are delighted to announce the Keynote Speakers are Jenny Bryan, Steph De Silva, Heike Hofmann, Thomas Lin Pedersen, Roger Peng, Bill Venables"
+    title = "Keynote speakers"
+    subtitle = "We are delighted to announce the Keynote Speakers are Jenny Bryan, Steph De Silva, Heike Hofmann, Thomas Lin Pedersen, Roger Peng and Bill Venables"
 
 [params.see_more]
     enable = true
