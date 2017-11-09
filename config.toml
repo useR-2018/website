@@ -128,7 +128,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Invited speakers"
-    subtitle = "We are delighted to have the invited speakers including Kangaroo, Koala, Echidna, Wombat."
+    subtitle = "We are delighted to announce the Keynote Speakers are Jenny Bryan, Steph De Silva, Heike Hofmann, Thomas Lin Pedersen, Roger Peng, Bill Venables"
 
 [params.see_more]
     enable = true
