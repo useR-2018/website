@@ -43,8 +43,12 @@
   letter-spacing: 0.08em;
 }
 
-#heading-breadcrumbs {
-  background: url('../img/bg-pkgs.png') center center repeat;
-  padding: 20px 0;
-  margin-bottom: 40px;
+.testimonials .item .testimonial .name-picture {
+  float: right;
+  width: 100%;
+  text-align: right;
+}
+
+.testimonials .item .testimonial .icon {
+    display: none;
 }
