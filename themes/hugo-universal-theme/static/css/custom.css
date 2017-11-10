@@ -46,7 +46,7 @@
 .testimonials .item .testimonial .name-picture {
   float: right;
   width: 100%;
-  text-align: right;
+  text-align: left;
 }
 
 .testimonials .item .testimonial .icon {
