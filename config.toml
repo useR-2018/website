@@ -133,8 +133,8 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-users"
-    title = "Register now!"
-    subtitle = "We expect very high demand. Quick registration and secure your ticket."
+    title = "Register coming soon!"
+    subtitle = "Abstract and tutorial submission deadlines coming soon"
     link_url  = "/registration/"
     link_text = "Check register page"
 
