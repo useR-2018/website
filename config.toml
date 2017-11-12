@@ -70,7 +70,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "Buseco-UseR2018@monash.edu"
 
     about_us = """<p><strong>Di Cook (Monash, chair)</strong>, Rob J Hyndman (Monash),
       Nick Tierney (Monash), Earo Wang (Monash),
