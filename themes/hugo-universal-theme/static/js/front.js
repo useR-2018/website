@@ -102,6 +102,8 @@ function sliders () {
 
     $('.testimonials').owlCarousel({
       items: 4,
+      autoPlay: true,
+      loop: true,
       itemsDesktopSmall: [990, 3],
       itemsTablet: [768, 2],
       itemsMobile: [480, 1]
@@ -120,11 +122,12 @@ function sliders () {
     })
 
     $('.homepage').owlCarousel({
-      navigation: false, // Show next and prev buttons
+      nav: false, // Show next and prev buttons
       navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
       slideSpeed: 2000,
       paginationSpeed: 1000,
       autoPlay: true,
+      loop: true,
       stopOnHover: true,
       singleItem: true,
       lazyLoad: false,
