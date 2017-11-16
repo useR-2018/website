@@ -81,7 +81,7 @@ function sliderHomepage () {
     // var owl = $('#slider')
 
     $('#slider').owlCarousel({
-      autoPlay: 3000,
+      autoplay: 3000,
       items: 4,
       itemsDesktopSmall: [900, 3],
       itemsTablet: [600, 3],
@@ -102,7 +102,7 @@ function sliders () {
 
     $('.testimonials').owlCarousel({
       items: 4,
-      autoPlay: true,
+      autoplay: true,
       loop: true,
       itemsDesktopSmall: [990, 3],
       itemsTablet: [768, 2],
@@ -114,7 +114,7 @@ function sliders () {
       navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
       slideSpeed: 300,
       paginationSpeed: 400,
-      autoPlay: true,
+      autoplay: true,
       stopOnHover: true,
       singleItem: true,
       afterInit: '',
@@ -127,7 +127,7 @@ function sliders () {
       navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
       slideSpeed: 2000,
       paginationSpeed: 1000,
-      autoPlay: true,
+      autoplay: true,
       loop: true,
       stopOnHover: true,
       singleItem: true,
