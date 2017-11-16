@@ -101,6 +101,7 @@ function sliders () {
     })
 
     $('.testimonials').owlCarousel({
+      dots: true,
       items: 4,
       autoplay: true,
       loop: true,
@@ -122,6 +123,7 @@ function sliders () {
     })
 
     $('.homepage').owlCarousel({
+      dots: true,
       items: 1,
       nav: false, // Show next and prev buttons
       navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
@@ -129,8 +131,7 @@ function sliders () {
       paginationSpeed: 1000,
       autoplay: true,
       loop: true,
-      stopOnHover: true,
-      singleItem: true,
+      autoplayHoverPause: true,
       lazyLoad: false,
       addClassActive: true,
       afterInit: function () {
