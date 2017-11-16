@@ -122,6 +122,7 @@ function sliders () {
     })
 
     $('.homepage').owlCarousel({
+      items: 1,
       nav: false, // Show next and prev buttons
       navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
       slideSpeed: 2000,
