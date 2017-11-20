@@ -1,6 +1,5 @@
-text: ""
+text: "Heike Hofmann is a Fellow of the American Statistics Association and Professor in Statistics at Iowa State University. Her research interests center around  data visualization, data exploration, learning from data and statistical computing.  She has been involved in the programming of several interactive graphics platforms: MANET, ggobi, and cranvas, and is the author of several R packages."
 name: "Heike Hofmann"
 position: "Professor, Iowa State University"
 avatar: "img/testimonials/heike.png"
 
-Heike Hofmann is a Fellow of the American Statistics Association and Professor in Statistics at Iowa State University. Her research interests center around  data visualization, data exploration, learning from data and statistical computing.  She has been involved in the programming of several interactive graphics platforms: MANET, ggobi, and cranvas, and is the author of several R packages. A main focus of her work is visual inference - the toolset that allows us to quantify the significance of visual findings - in particular to allow for rigorous visual diagnostics for statistical models. Prof Hofmann is affiliated with CSAFE, the Center for Statistics and Applications in Forensic Evidence, where she is mainly working on methods for bullet matching. Her graphics working group at ISU has been very successful in getting paper awards and data visualization and exploration awards.
