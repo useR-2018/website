@@ -35,15 +35,20 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
+    name = "Visit Brisbane"
+    url  = "/visit/"
+    weight = 5
+
+[[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 6
+    weight = 7
 
 [params]
     viewMorePostLink = "/blog/"

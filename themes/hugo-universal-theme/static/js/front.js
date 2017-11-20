@@ -105,6 +105,8 @@ function sliders () {
       items: 4,
       autoplay: true,
       loop: true,
+      autoplayHoverPause: true,
+      slideBy: 2,
       itemsDesktopSmall: [990, 3],
       itemsTablet: [768, 2],
       itemsMobile: [480, 1]
@@ -126,7 +128,7 @@ function sliders () {
       dots: true,
       items: 1,
       nav: false, // Show next and prev buttons
-      navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+      // navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
       slideSpeed: 2000,
       paginationSpeed: 1000,
       autoplay: true,

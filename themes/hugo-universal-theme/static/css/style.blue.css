@@ -1113,20 +1113,20 @@ fieldset[disabled] .btn-template-primary.active {
 .ribbon.gift .theribbon:after {
   border-color: #357935 #357935 transparent transparent;
 }
-.owl-carousel .owl-controls .owl-page.active span,
-.owl-theme .owl-controls .owl-page.active span,
-.owl-carousel .owl-controls.clickable .owl-page:hover span,
-.owl-theme .owl-controls.clickable .owl-page:hover span {
+.owl-carousel .owl-dots .owl-page.active span,
+.owl-theme .owl-dots .owl-page.active span,
+.owl-carousel .owl-dots.clickable .owl-page:hover span,
+.owl-theme .owl-dots.clickable .owl-page:hover span {
   background: #467fbf;
 }
-.owl-carousel .owl-controls .owl-buttons,
-.owl-theme .owl-controls .owl-buttons {
+.owl-carousel .owl-dots .owl-buttons,
+.owl-theme .owl-dots .owl-buttons {
   position: absolute;
   top: 5px;
   right: 0;
 }
-.owl-carousel .owl-controls .owl-buttons div,
-.owl-theme .owl-controls .owl-buttons div {
+.owl-carousel .owl-dots .owl-buttons div,
+.owl-theme .owl-dots .owl-buttons div {
   width: 26px;
   height: 26px;
   line-height: 25px;
@@ -1163,13 +1163,13 @@ fieldset[disabled] .btn-template-primary.active {
   padding-top: 60px;
   padding-bottom: 20px;
 }
-.home-carousel .owl-theme .owl-controls .owl-page span {
+.home-carousel .owl-theme .owl-dots .owl-nav span {
   background: #666;
 }
-.home-carousel .owl-theme .owl-controls .owl-page.active span {
+.home-carousel .owl-theme .owl-dots .owl-nav.active span {
   background: #fff;
 }
-.home-carousel .owl-theme .owl-controls .owl-page:hover span {
+.home-carousel .owl-theme .owl-dots .owl-nav:hover span {
   background: #fff;
 }
 @media (max-width: 767px) {
