@@ -34,3 +34,8 @@ Partners can enjoy a relaxing day out commencing with an exquisite high tea at S
 
 Declared in 1915, Lamington National Park covers 21,176 ha and boasts extensive walking tracks along the McPherson Range, which allow visitors to explore the area's forests, creeks and waterfalls. Dramatic lookouts in Lamington afford views over the Gold Coast, south-east Queensland and northern New South Wales. Lamington is part of the Gondwana Rainforests of Australia World Heritage Area, which includes the most extensive areas of subtropical rainforest in the world, most of the world's warm temperate rainforest and nearly all of the Antarctic beech Nothofagus moorei cool temperate rainforest. Lamington National Park offers a wide range of walking opportunities ranging from easy strolls to challenging full-day hikes. At dusk pademelons graze on the grass, and bowerbirds can be frequently seen. [More information can be found at the National Park web site](https://www.npsr.qld.gov.au/parks/lamington/)
 
+# North Stradbroke Island
+
+North Stradbroke Island is a place to exhale. Spend a day, a week or a month here and you will feel the importance of this cultural paradise. Known as Minjerribah to the traditional owners (the Quandamooka People), Straddie has a natural beauty not often seen and a spiritual connection not often felt. Just a hop, skip and jump (drive or train and ferry) from Brisbane’s CBD and you’ll feel a million miles away from the hustle and bustle of life. Mobile phone coverage is patchy, the ocean is a twinkling turquoise blue and the waves roll in day in, day out.
+
+[More information](http://www.visitbrisbane.com.au/information/articles/destinations/things-to-do-north-stradbroke-island?sc_lang=en-au)
