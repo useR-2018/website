@@ -1,10 +1,10 @@
 +++
-title = "Interested in sponsoring"
+title = "Interested in sponsoring useR! 2018 ?"
 date = "2017-12-2"
 tags = ["sponsor"]
 categories = ["sponsor"]
 author = "Di Cook"
-description = "Interested in sponsoring useR! 2018"
+description = "This is an opportunity to visibly support the R community."
 +++
 
 useR! is the main annual meeting of the R community, and has been growing in attendance along with the language. This is the first time that the conference will be held outside Europe and the USA, and it will be an opportunity for a new cohort of the R community to come along, improve their skills and make connections across Australiasia and beyond.
