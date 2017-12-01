@@ -86,7 +86,7 @@ paginate = 10
       Eun-kyung Lee (EWHA, Korea), Paula Andrea (UQ),
       Wenjing Wang (RUC, China), Soroor Hediyehzadeh (WEHI),
       Miles McBain (QUT), Paula Andrea (UQ), Rhydwyn McGuire (NSW DOH), 
-      Alex Whan (CSIRO), Tal Galili (Tel Aviv U.)
+      Alex Whan (CSIRO), Tal Galili (Tel Aviv U.), Steph de Silva (Rex Analytics)
     </p>
     """
     copyright = "<p>Copyright &copy; 2017, <strong><a href='https://www.r-project.org/foundation'>R Foundation</a></strong></p>"
