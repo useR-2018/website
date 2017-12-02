@@ -1,5 +1,5 @@
 +++
-title = "Interested in sponsoring useR! 2018 ?"
+title = "Interested in sponsoring useR! 2018?"
 date = "2017-12-02"
 tags = ["sponsor"]
 categories = ["sponsor"]
