@@ -6,6 +6,6 @@ The closest airport is [Brisbane International Airport](http://www.bne.com.au). 
 
 The airport is serviced by Brisbane’s airport rail link, Airtrain, which provides a cost effective and efficient service to travellers transferring to the City and the Convention Centre.
 
-International visitors most likely will need a visa to enter Australia. Information on the type of visa to get can be found on the [Australian Department of Immigration and Boarder Protection International Event Co-ordinator Network website](http://www.homeaffairs.gov.au/Busi/Trav/Conf). They can provide advice if needed.
+International visitors most likely will need a visa to enter Australia. Information on the type of visa to get can be found on the [Australian Department of Immigration and Boarder visitor information website](http://www.homeaffairs.gov.au/Trav/Visi/Visi). They can provide advice if needed. The Electronic Travel Authority (ETA) may be the best option.
 
 To request an invitation letter, go to the [contact page](contact) and enter your request.
