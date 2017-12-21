@@ -30,25 +30,30 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
+    name = "Travel"
+    url  = "/travel/"
+    weight = 4
+
+[[menu.main]]
     name = "News"
     url  = "/blog/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Visit Brisbane"
     url  = "/visit/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 8
 
 [params]
     viewMorePostLink = "/blog/"
