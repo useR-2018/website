@@ -102,14 +102,31 @@ function sliders () {
 
     $('.testimonials').owlCarousel({
       dots: true,
-      items: 4,
       autoplay: true,
       loop: true,
       autoplayHoverPause: true,
       slideBy: 2,
-      itemsDesktopSmall: [990, 3],
-      itemsTablet: [768, 2],
-      itemsMobile: [480, 1]
+      responsive : {
+        // breakpoint from 0 up
+        0 : {
+            items: 1,
+        },
+        // breakpoint from 480 up
+        480 : {
+            items: 2,
+        },
+        // breakpoint from 768 up
+        768 : {
+            items: 3,
+        },
+        // breakpoint from 990 up
+        990 : {
+            items: 4,
+        }
+      }
+      // itemsDesktopSmall: [990, 3],
+      // itemsTablet: [768, 2],
+      // itemsMobile: [480, 1]
     })
 
     $('.project').owlCarousel({
