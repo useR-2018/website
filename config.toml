@@ -30,19 +30,23 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    name = "Travel"
-    url  = "/travel/"
-    weight = 4
-
-[[menu.main]]
     name = "News"
     url  = "/blog/"
     weight = 5
 
 [[menu.main]]
+    name = "Travel"
+    weight = 6
+
+[[menu.main]]
+    parent = "Travel"
     name = "Visit Brisbane"
     url  = "/visit/"
-    weight = 6
+
+[[menu.main]]
+    parent = "Travel"
+    name = "Travel advice"
+    url  = "/travel/"
 
 [[menu.main]]
     name = "FAQ"
