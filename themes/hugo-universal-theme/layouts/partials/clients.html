@@ -20,7 +20,7 @@
                 <!-- <ul class="owl&#45;carousel customers"> -->
                   <ul>
                       {{ range .Site.Data.clients.platinum }}
-                      <li style="list-style-type: none; float: left; width: 620px; min-height: 120px; max-height: auto; padding: 20px;" title="{{ .name }}">
+                      <li style="list-style-type: none; float: left; width: 620px; min-height: 120px; max-height: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
                           {{ if .url }}
                             <a href="{{ .url }}" target="_blank">
                               <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
@@ -40,7 +40,7 @@
                 <!-- <ul class="owl&#45;carousel customers"> -->
                   <ul>
                       {{ range .Site.Data.clients.gold }}
-                      <li style="list-style-type: none; float: left; width: 320px; min-height: 120px; max-height: auto; padding: 20px;" title="{{ .name }}">
+                      <li style="list-style-type: none; float: left; width: 320px; min-height: 120px; max-height: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
                           {{ if .url }}
                             <a href="{{ .url }}" target="_blank">
                               <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
