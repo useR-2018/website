@@ -47,6 +47,6 @@ Response team:
 - Jessie Roberts (jessie.roberts@qut.edu.au)
 - Nicholas Tierney (nicholas.tierney@gmail.com)
 
-They can be identified by the red Code of Conduct badges and conference organiser shirts. Any conference organiser and volunteer will be happy to contact a CoC response member on your behalf. (NOTE: Phone numbers will be added to the CoC for the conference.)
+They can be identified by the Code of Conduct badges and conference organiser shirts. Any conference organiser and volunteer will be happy to contact a response member on your behalf. (NOTE: Phone numbers will be added to the code of conduct for the conference.)
 
 Adapted from user2016.r-project.org, and http://ropensci.org/coc
