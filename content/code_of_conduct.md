@@ -37,15 +37,16 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 UseR! 2018 staff may also be contacted, and can put you in direct contact with a member of the response team, or contact them on your behalf.  useR! 2018 staff can be readily identified as they will be wearing distinctively colored useR! 2018 t-shirts.
 
-CoC response team
-Di Cook (dicook@monash.edu)
-Rob Hyndman (robjhyndman@monash.edu)
-Miles McBain (milesmcbain@gmail.com)
-Rhydwyn McGuire (Rhydwyn@rhydwyn.net)
-Kerrie Mengersen (k.mengersen@qut.edu.au)
-Jessie Roberts (jessie.roberts@qut.edu.au)
-Nicholas Tierney (nicholas.tierney@gmail.com)
+Response team:
 
-They can be identified by the red CoC badges and conference organiser shirts. Any conference organiser and volunteer will be happy to contact a CoC response member on your behalf. (NOTE: Phone numbers will be added to the CoC for the conference.)
+- Di Cook (dicook@monash.edu)
+- Rob Hyndman (robjhyndman@monash.edu)
+- Miles McBain (milesmcbain@gmail.com)
+- Rhydwyn McGuire (Rhydwyn@rhydwyn.net)
+- Kerrie Mengersen (k.mengersen@qut.edu.au)
+- Jessie Roberts (jessie.roberts@qut.edu.au)
+- Nicholas Tierney (nicholas.tierney@gmail.com)
+
+They can be identified by the red Code of Conduct badges and conference organiser shirts. Any conference organiser and volunteer will be happy to contact a CoC response member on your behalf. (NOTE: Phone numbers will be added to the CoC for the conference.)
 
 Adapted from user2016.r-project.org, and http://ropensci.org/coc
