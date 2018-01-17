@@ -11,9 +11,9 @@ Early bird registration closes Mar 15. All prices are in AUD.
 |Industry|575|800|
 |Academic (1)|375|500|
 |Student (2) |175|250|
-|Tutorial (3)| 50 each |   max 3pp  |
+|Tutorial (3)| 50 each, max 3pp |     |
 |Dinner| 100|  |
-|Child care| 20/child |  per day  |
+|Child care per day| 20/child |    |
 
 1. Academic registration includes (1) people affiliated with an academic institution, and can use their institution email address (“.edu") to register, and also (2) self-employed or industry self-funded people, who’s company is not paying for their registration. We trust you, but if your registration email is not from a “.edu” domain, we ask that you send an email to buseco-user2018@monash.edu with a few sentences letting us know why you have registered at the academic rate.
 2. Student status covers current or recently graduated undergraduate or graduate students at an academic institution. You need to use your institution email address  (“.edu")  and have a letter from your head of department or academic advisor to upload to the registration page.
