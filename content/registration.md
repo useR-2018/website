@@ -11,11 +11,12 @@ Early bird registration closes Mar 15. All prices are in AUD.
 |Industry|575|800|
 |Academic (1)|375|500|
 |Student (2) |175|250|
-|Tutorial| 50 each |   max 3pp  |
+|Tutorial (3)| 50 each |   max 3pp  |
 |Dinner| 100|  |
-|Child care| 20/child per day |  |
+|Child care| 20/child |  per day  |
 
 1. Academic registration includes (1) people affiliated with an academic institution, and can use their institution email address (“.edu") to register, and also (2) self-employed or industry self-funded people, who’s company is not paying for their registration. We trust you, but if your registration email is not from a “.edu” domain, we ask that you send an email to buseco-user2018@monash.edu with a few sentences letting us know why you have registered at the academic rate.
 2. Student status covers current or recently graduated undergraduate or graduate students at an academic institution. You need to use your institution email address  (“.edu")  and have a letter from your head of department or academic advisor to upload to the registration page.
+3. There are three possible times for tutorials, Tues morning and afternoon, Wed morning. There will be beginner and intermediate tracks, with a range of topics in each. There will be 6 concurrent tutorials in each session. Each person can sign up for a maximum of 3 tutorials, one for each time slot.
 
-Registration is not available on site, and will close in June, or when all places are filled.
+Registration will not available on-site. Registration will close in June, or earlier if all places are filled.
