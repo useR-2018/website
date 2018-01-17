@@ -44,6 +44,11 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
+    name = "Code of Conduct"
+    url  = "/code_of_conduct/"
+    weight = 4
+
+[[menu.main]]
     name = "News"
     url  = "/blog/"
     weight = 5
