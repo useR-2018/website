@@ -20,3 +20,5 @@ Early bird registration closes Mar 15. All prices are in AUD.
 3. There are three possible times for tutorials, Tues morning and afternoon, Wed morning. There will be beginner and intermediate tracks, with a range of topics in each. There will be 6 concurrent tutorials in each session. Each person can sign up for a maximum of 3 tutorials, one for each time slot. Choice of tutorials will be provided when that programme is finalised.
 
 Registration will not available on-site. Registration will close in June, or earlier if all places are filled.
+
+Click here if you are ready to [submit an abstract](https://goo.gl/forms/fWETwXsdfMbkFhJD3) to present a talk, poster or lightning talk.
