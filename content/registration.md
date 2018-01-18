@@ -21,6 +21,6 @@ Early bird registration closes Mar 15. All prices are in AUD.
 4. Contemporary Australian cuisine, three course dinner and unlimited drinks for four hours, with tea/coffee and chocolates. The style will be Underwater World or the great Aussie Outback. $140pp value.
 5. High quality child care will be provided by [Charlton Brown](https://nannies.charltonbrown.com.au). 
 
-Registration will not available on-site. Registration will close in June, or earlier if all places are filled.
+Registration will not be available on-site. Registration will close in June, or earlier if all places are filled.
 
 Click here if you are ready to [submit an abstract](https://goo.gl/forms/fWETwXsdfMbkFhJD3) to present a talk, poster or lightning talk.
