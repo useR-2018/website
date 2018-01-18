@@ -1,4 +1,6 @@
-# Code of Conduct for UseR!2018
++++
+title = "Code of Conduct for UseR!2018"
++++
 
 The organizers of useR! 2018 are dedicated to providing a harassment-free conference experience for everyone regardless of gender, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
 
@@ -27,11 +29,11 @@ If you are asked to stop harassing behaviour you should stop immediately, even i
 
 Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material.
 
-## Requirements for talks
+# Requirements for talks
 
 Talk slides and presentations fall under the code of conduct. Talk slides should not contain offensive of sexualised material. If this material is impossible to avoid given the topic (for example text mining of material from hate sites) the existence of this material should be noted both in the abstract and at the start of the talk.
 
-## Need help?
+# Need help?
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the useR! 2018 code of conduct response team  (listed below).
 
