@@ -115,7 +115,7 @@ paginate = 10
       Wenjing Wang (RUC, China), Soroor Hediyehzadeh (WEHI),
       Paula Andrea (UQ), Rhydwyn McGuire (NSW DOH), 
       Alex Whan (CSIRO), Steph de Silva (Rex Analytics), 
-      Anna Quaglieri (WEHI), Marie Trussart (WEHI)
+      Anna Quaglieri (WEHI), Marie Trussart (WEHI), Kim Fitter (NZ)
     </p>
     """
     copyright = "<p>Copyright &copy; 2017, <strong><a href='https://www.r-project.org/foundation'>R Foundation</a></strong></p>"
