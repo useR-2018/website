@@ -16,6 +16,74 @@ Early bird registration closes Mar 15. All prices are in AUD.
 |Child care per day (5) | 20/child |    |
 
 <br>
+
+<div class = "row" style = "padding: 10px; border: 5px solid #eee; margin: 0; ">
+  <div class = "col-md-4 col-sm-6">
+    <form>
+      <p><b>Level</b></p>
+
+      <label class="checkcontainer">Industry
+        <input type="radio" checked="checked" name="level" value="industry" id="industry">
+        <span class="checkmark"></span>
+      </label>
+      <label class="checkcontainer">Academic
+        <input type="radio" name="level" value="academic" id="academic">
+        <span class="checkmark"></span>
+      </label>
+      <label class="checkcontainer">Student
+        <input type="radio" name="level" value="student" id="student">
+        <span class="checkmark"></span>
+      </label>
+    </form>
+  </div>
+  <div class = "col-md-4 col-sm-6">
+    <form>
+      <p><b>Dinner</b></p>
+
+      <label class="checkcontainer">Yes
+        <input type="radio" checked="checked" name="dinner" value="yes" id="yes">
+        <span class="checkmark"></span>
+      </label>
+      <label class="checkcontainer">No
+        <input type="radio" name="dinner" value="no" id="no">
+        <span class="checkmark"></span>
+      </label>
+    </form>
+  </div>
+
+  <div class = "col-md-4 col-sm-6">
+    <input type="button" class="button" onclick="register()" value="Register">
+  </div>
+
+</div>
+
+<script>
+function register() {
+  var industry = document.getElementById("industry");
+  var academic = document.getElementById("academic");
+  var student = document.getElementById("student");
+  var yes = document.getElementById("yes");
+  var no = document.getElementById("no");
+  if (industry.checked && yes.checked) {
+     window.open('https://shop.monash.edu/user-2018-industry.html', '_blank');
+     return false;
+  } else if (industry.checked && no.checked) {
+     window.open('https://shop.monash.edu/user-2018-industry-no-dinner.html', '_blank');
+     return false;
+  } else if (academic.checked && yes.checked) {
+     window.open('https://shop.monash.edu/user-2018-academic.html', '_blank');
+     return false;
+  } else if (academic.checked && no.checked) {
+     window.open('https://shop.monash.edu/user-2018-academic-no-dinner.html', '_blank');
+     return false;
+  } else {
+     window.open('https://shop.monash.edu/user-2018-student-free-dinner.html', '_blank');
+     return true;
+  }
+}
+</script>
+
+<br>
 Registration includes a free conference t-shirt, if you want one, select the size, when you register. 
 
 1. Academic registration includes (1) people affiliated with an academic institution, and can use their institution email address (“.edu") to register, and also (2) self-employed or industry self-funded people, who’s company is not paying for their registration. We trust you, but if your registration email is not from a “.edu” domain, we ask that you send an email to buseco-user2018@monash.edu with a few sentences letting us know why you have registered at the academic rate.
