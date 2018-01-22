@@ -47,35 +47,35 @@ Early bird registration closes Mar 15, 2018. All prices are in AUD.
 <br>
 Registration includes a free conference t-shirt, if you want one, select the size, when you register.
 
-<div class = "row" style = "padding: 10px; border: 5px solid #eee; margin: 0; ">
+<div class = "row" style = "padding: 10px; border: 5px solid #eee; margin: 0;">
   <div class = "col-md-4 col-sm-6">
-    <form>
+    <form name="level-form">
       <p><b>Level</b></p>
 
       <label class="checkcontainer">Industry
-        <input type="radio" checked="checked" name="level" value="industry" id="industry">
+        <input type="radio" checked="checked" name="level" value="industry">
         <span class="checkmark"></span>
       </label>
       <label class="checkcontainer">Academic
-        <input type="radio" name="level" value="academic" id="academic">
+        <input type="radio" name="level" value="academic">
         <span class="checkmark"></span>
       </label>
       <label class="checkcontainer">Student
-        <input type="radio" name="level" value="student" id="student">
+        <input type="radio" name="level" value="student">
         <span class="checkmark"></span>
       </label>
     </form>
   </div>
   <div class = "col-md-4 col-sm-6">
-    <form>
+    <form name="dinner-form">
       <p><b>Dinner</b></p>
 
       <label class="checkcontainer">Yes
-        <input type="radio" checked="checked" name="dinner" value="yes" id="yes">
+        <input type="radio" checked="checked" name="dinner" value="yes">
         <span class="checkmark"></span>
       </label>
       <label class="checkcontainer">No
-        <input type="radio" name="dinner" value="no" id="no">
+        <input type="radio" name="dinner" value="no">
         <span class="checkmark"></span>
       </label>
     </form>
@@ -86,32 +86,6 @@ Registration includes a free conference t-shirt, if you want one, select the siz
   </div>
 
 </div>
-
-<script>
-function register() {
-  var industry = document.getElementById("industry");
-  var academic = document.getElementById("academic");
-  var student = document.getElementById("student");
-  var yes = document.getElementById("yes");
-  var no = document.getElementById("no");
-  if (industry.checked && yes.checked) {
-     window.open('https://shop.monash.edu/user-2018-industry.html', '_blank');
-     return false;
-  } else if (industry.checked && no.checked) {
-     window.open('https://shop.monash.edu/user-2018-industry-no-dinner.html', '_blank');
-     return false;
-  } else if (academic.checked && yes.checked) {
-     window.open('https://shop.monash.edu/user-2018-academic.html', '_blank');
-     return false;
-  } else if (academic.checked && no.checked) {
-     window.open('https://shop.monash.edu/user-2018-academic-no-dinner.html', '_blank');
-     return false;
-  } else {
-     window.open('https://shop.monash.edu/user-2018-student-free-dinner.html', '_blank');
-     return true;
-  }
-}
-</script>
 
 <br>
 

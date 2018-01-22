@@ -22,6 +22,27 @@ $(function () {
   contactForm()
 })
 
+function register() {
+	var level = document.forms["level-form"]["level"].value;
+	var dinner = document.forms["dinner-form"]["dinner"].value;
+  if (level == "industry" && dinner == "yes") {
+     window.open('https://shop.monash.edu/user-2018-industry.html', '_blank');
+     return false;
+  } else if (level == "industry" && dinner == "no") {
+     window.open('https://shop.monash.edu/user-2018-industry-no-dinner.html', '_blank');
+     return false;
+  } else if (level == "academic" && dinner == "yes") {
+     window.open('https://shop.monash.edu/user-2018-academic.html', '_blank');
+     return false;
+  } else if (level == "academic" && dinner == "no") {
+     window.open('https://shop.monash.edu/user-2018-academic-no-dinner.html', '_blank');
+     return false;
+  } else {
+     window.open('https://shop.monash.edu/user-2018-student-free-dinner.html', '_blank');
+     return true;
+  }
+}
+
 // Ajax contact
 function contactForm () {
   var form = $('.contact-form')
