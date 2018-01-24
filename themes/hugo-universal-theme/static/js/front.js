@@ -23,18 +23,21 @@ $(function () {
 })
 
 function register() {
-	var level = document.forms["level-form"]["level"].value;
-	var dinner = document.forms["dinner-form"]["dinner"].value;
-  if (level == "industry" && dinner == "yes") {
+  var industry = document.getElementById("industry");
+  var academic = document.getElementById("academic");
+  var student = document.getElementById("student");
+  var yes = document.getElementById("yes");
+  var no = document.getElementById("no");
+  if (industry.checked && yes.checked) {
      window.open('https://shop.monash.edu/user-2018-industry.html', '_blank');
      return false;
-  } else if (level == "industry" && dinner == "no") {
+  } else if (industry.checked && no.checked) {
      window.open('https://shop.monash.edu/user-2018-industry-no-dinner.html', '_blank');
      return false;
-  } else if (level == "academic" && dinner == "yes") {
+  } else if (academic.checked && yes.checked) {
      window.open('https://shop.monash.edu/user-2018-academic.html', '_blank');
      return false;
-  } else if (level == "academic" && dinner == "no") {
+  } else if (academic.checked && no.checked) {
      window.open('https://shop.monash.edu/user-2018-academic-no-dinner.html', '_blank');
      return false;
   } else {
