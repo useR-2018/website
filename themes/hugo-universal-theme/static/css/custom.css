@@ -10,7 +10,7 @@
 }
 
 .bar.background-pentagon {
-  background: url('../img/bg-pkgs.png') center center repeat;
+  background: url('https://user2018.r-project.org/img/bg-pkgs.png') center center repeat;
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }

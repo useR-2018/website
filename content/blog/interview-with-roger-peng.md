@@ -69,4 +69,4 @@ Roger: Yeah, I can't give up my coffee. I had to have it American style. I've le
 
 p.s. Roger is playing table tennis at Monash creative ping pong room. 
 
-![roger play pingpong](https://user2018.r-project.org/img/roger-peng.png)
+<img alt="Roger Peng is playing table tennis" src="https://user2018.r-project.org/img/roger-peng.png" class="img-responsive">

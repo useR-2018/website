@@ -40,7 +40,24 @@ paginate = 10
 
 [[menu.main]]
     name = "Registration"
+    weight = 3
+
+[[menu.main]]
+    parent = "Registration"
+    name = "Register"
     url  = "/registration/"
+    weight = 1
+
+[[menu.main]]
+    parent = "Registration"
+    name = "Abstract Submission"
+    url  = "/abstract/"
+    weight = 2
+
+[[menu.main]]
+    parent = "Registration"
+    name = "Scholarship"
+    url  = "/scholarship/"
     weight = 3
 
 [[menu.main]]
