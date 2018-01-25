@@ -95,3 +95,5 @@ Registration includes a free conference t-shirt, if you want one, select the siz
 Registration will not be available on-site. Registration will close in June, or earlier if all places are filled.
 
 Click here if you are ready to [submit an abstract](https://goo.gl/forms/fWETwXsdfMbkFhJD3) to present a talk, poster or lightning talk.
+
+There will be a few scholarships available for travel to useR! 2018. We don't yet know how many.  If you would like to apply for a scholarship please complete the [application form](https://goo.gl/forms/ouNyaldzn95957j32). We expect to make some awards before the early registraton deadline, but if more sponsorship comes in we may be able to offer more at later dates.
