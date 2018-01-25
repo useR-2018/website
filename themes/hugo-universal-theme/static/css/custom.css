@@ -133,8 +133,8 @@
     position: absolute;
     top: 0;
     left: 0;
-    height: 25px;
-    width: 25px;
+    height: 20px;
+    width: 20px;
     background-color: #eee;
     border-radius: 50%;
 }
@@ -146,7 +146,7 @@
 
 /* When the radio button is checked, add a blue background */
 .checkcontainer input:checked ~ .checkmark {
-    background-color: #2196F3;
+    background-color: #467fbf;
 }
 
 /* Create the indicator (the dot/circle - hidden when not checked) */
@@ -163,24 +163,33 @@
 
 /* Style the indicator (dot/circle) */
 .checkcontainer .checkmark:after {
- 	top: 9px;
-	left: 9px;
-	width: 8px;
-	height: 8px;
+ 	top: 6.5px;
+	left: 6.5px;
+	width: 7px;
+	height: 7px;
 	border-radius: 50%;
 	background: white;
 }
 
-.button {
-  background-color: #2196F3;
-  /* background-color: #4CAF50; */
-  border: none;
+#reg-sum {
+  font-family: inherit;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#reg-sum td, #reg-sum th {
+  border: 1px solid #eee;
+  padding: 8px;
+}
+
+#reg-sum tr:nth-child(even){background-color: #f2f2f2;}
+
+#reg-sum tr:hover {background-color: #eee;}
+
+#reg-sum th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #467fbf;
   color: white;
-  padding: 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
 }

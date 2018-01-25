@@ -4,18 +4,48 @@ title = "Registration"
 
 The registration fees for useR! 2018 include access to talks and poster sessions, welcome reception, lunches, morning and afternoon tea each day. There are three levels of registration, industry, academic and student, each with early bird rates. The conference programme will run from Wednesday lunch time through Friday late afternoon. Tutorials are provided at a modest additional cost Tuesday all day and Wednesday morning. The conference dinner and childcare are available for extra fees, and have limited places.
 
-Early bird registration closes Mar 15. All prices are in AUD.
+Early bird registration closes Mar 15, 2018. All prices are in AUD.
 
-| Level | Early bird | Regular |
-|-----|--------|-------|
-|Industry|575|800|
-|Academic (1)|375|500|
-|Student (2) |175|250|
-|Tutorial (3) | 50 each, max 3pp |     |
-|Dinner (4)| 100|  |
-|Child care per day (5) | 20/child |    |
+<table id="reg-sum">
+  <tr>
+    <th>Level</th>
+    <th>Early bird</th>
+    <th>Regular</th>
+  </tr>
+  <tr>
+    <td>Industry</td>
+    <td>575</td>
+    <td>800</td>
+  </tr>
+  <tr>
+		<td>Academic (1)</td>
+    <td>375</td>
+    <td>500</td>
+  </tr>
+  <tr>
+		<td>Student (2)</td>
+    <td>175</td>
+    <td>250</td>
+  </tr>
+  <tr>
+		<td>Tutorial (3)</td>
+    <td>50 each, max 3pp</td>
+    <td></td>
+  </tr>
+  <tr>
+		<td>Dinner (4)</td>
+    <td>100</td>
+    <td></td>
+  </tr>
+  <tr>
+		<td>Child care per day (5)</td>
+    <td>20 per child</td>
+    <td></td>
+  </tr>
+</table>
 
 <br>
+Registration includes a free conference t-shirt, if you want one, select the size, when you register.
 
 <div class = "row" style = "padding: 10px; border: 5px solid #eee; margin: 0; ">
   <div class = "col-md-4 col-sm-6">
@@ -52,41 +82,14 @@ Early bird registration closes Mar 15. All prices are in AUD.
   </div>
 
   <div class = "col-md-4 col-sm-6">
-    <input type="button" class="button" onclick="register()" value="Register">
+    <input type="button" class="btn btn-template-main" onclick="register()" value="Register">
   </div>
 
 </div>
 
-<script>
-function register() {
-  var industry = document.getElementById("industry");
-  var academic = document.getElementById("academic");
-  var student = document.getElementById("student");
-  var yes = document.getElementById("yes");
-  var no = document.getElementById("no");
-  if (industry.checked && yes.checked) {
-     window.open('https://shop.monash.edu/user-2018-industry.html', '_blank');
-     return false;
-  } else if (industry.checked && no.checked) {
-     window.open('https://shop.monash.edu/user-2018-industry-no-dinner.html', '_blank');
-     return false;
-  } else if (academic.checked && yes.checked) {
-     window.open('https://shop.monash.edu/user-2018-academic.html', '_blank');
-     return false;
-  } else if (academic.checked && no.checked) {
-     window.open('https://shop.monash.edu/user-2018-academic-no-dinner.html', '_blank');
-     return false;
-  } else {
-     window.open('https://shop.monash.edu/user-2018-student-free-dinner.html', '_blank');
-     return true;
-  }
-}
-</script>
-
 <br>
-Registration includes a free conference t-shirt, if you want one, select the size, when you register. 
 
-1. Academic registration includes (1) people affiliated with an academic institution, and can use their institution email address (“.edu") to register, and also (2) self-employed or industry self-funded people, who’s company is not paying for their registration. We trust you, but if your registration email is not from a “.edu” domain, we ask that you send an email to buseco-user2018@monash.edu with a few sentences letting us know why you have registered at the academic rate.
+1. Academic registration includes (1) people affiliated with an academic institution, and can use their institution email address (“.edu") to register, and also (2) self-employed or industry self-funded people, who’s company is not paying for their registration. We trust you, but if your registration email is not from a “.edu” domain, we ask that you send an email to <buseco-user2018@monash.edu> with a few sentences letting us know why you have registered at the academic rate.
 2. Student status covers current or recently graduated undergraduate or graduate students at an academic institution. You need to use your institution email address  (“.edu")  and have a letter from your head of department or academic advisor to upload to the registration page.
 3. There are three possible times for tutorials, Tues morning and afternoon, Wed morning. There will be beginner and intermediate tracks, with a range of topics in each. There will be 6 concurrent tutorials in each session. Each person can sign up for a maximum of 3 tutorials, one for each time slot. Choice of tutorials will be provided when that programme is finalised.
 4. Contemporary Australian cuisine, three course dinner and unlimited drinks for four hours, with tea/coffee and chocolates. The style will be Underwater World or the great Aussie Outback. $140pp value.
