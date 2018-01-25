@@ -1,6 +1,6 @@
 +++
 title = "Scholarship applications"
-date = "2018-01-24"
+date = "2018-01-25"
 tags = ["programme","registration"]
 categories = ["programme","registration"]
 author = "Di Cook"
