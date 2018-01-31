@@ -89,7 +89,7 @@ Registration includes a free conference t-shirt, if you want one, select the siz
 
 <br>
 
-Publisher's booths (3mx2m) are also available for a cost of $1500, including one free registration.
+Publisher's booths (3mx2m) are also available for a cost of $1500, including one free registration. Contact organisers for details.
 
 <br>
 
