@@ -15,3 +15,7 @@ The dinner cost pp is $140, and $100 represents a discount price. It covers a co
 > How do I sign up for specific tutorials?
 
 Once you register and purchase tutorial sessions, you will be provided a link to enter your specific choices of tutorial. Tutorials are all half day. About one third of tutorials are for beginners, and the rest for intermediate level R skills. Topics include data wrangling, statistical modeling, machine learning, coding skills, web graphics and docker, with applications in bioinformatics, sports, disease modeling, social media,  agriculture.
+
+> Do I have to register for the conference to sign up for tutorials?
+
+Yes. The cost of tutorials is very small, especially considering the calibre of presenters. Tutorials have been complimentary at previous useR! conferences. We decided to charge a nominal fee this year to help presenters with their travel expenses, and to encourage *sign up*=*show up*.
