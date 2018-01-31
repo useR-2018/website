@@ -11,3 +11,7 @@ Some scholarships for travel and registration expenses will be provided, on a co
 > What does the $100 dinner fee cover?
 
 The dinner cost pp is $140, and $100 represents a discount price. It covers a contemporary Australian cuisine, three course dinner and unlimited drinks for four hours, with tea/coffee and chocolates. The style will be Underwater World or the great Aussie Outback.
+
+> How do I sign up for specific tutorials?
+
+Once you register and purchase tutorial sessions, you will be provided a link to enter your specific choices of tutorial. Tutorials are all half day. About one third of tutorials are for beginners, and the rest for intermediate level R skills. Topics include data wrangling, statistical modeling, machine learning, coding skills, web graphics and docker, with applications in bioinformatics, sports, disease modeling, social media,  agriculture.
