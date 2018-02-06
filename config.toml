@@ -81,7 +81,7 @@ paginate = 10
 
 [[menu.main]]
     parent = "Travel"
-    name = "Travel advice"
+    name = "Hotels and flights"
     url  = "/travel/"
 
 [[menu.main]]
