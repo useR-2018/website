@@ -23,28 +23,33 @@ $(function () {
 })
 
 function register() {
-  var industry = document.getElementById("industry");
-  var academic = document.getElementById("academic");
-  var student = document.getElementById("student");
-  var yes = document.getElementById("yes");
-  var no = document.getElementById("no");
-  if (industry.checked && yes.checked) {
-     window.open('https://shop.monash.edu/user-2018-industry.html', '_blank');
-     return false;
-  } else if (industry.checked && no.checked) {
-     window.open('https://shop.monash.edu/user-2018-industry-no-dinner.html', '_blank');
-     return false;
-  } else if (academic.checked && yes.checked) {
-     window.open('https://shop.monash.edu/user-2018-academic.html', '_blank');
-     return false;
-  } else if (academic.checked && no.checked) {
-     window.open('https://shop.monash.edu/user-2018-academic-no-dinner.html', '_blank');
-     return false;
-  } else {
-     window.open('https://shop.monash.edu/user-2018-student-free-dinner.html', '_blank');
-     return true;
-  }
+   window.open('https://www.trybooking.com/book/event?embed&eid=350579', '_blank');
+   return true;
 }
+
+// function register() {
+//   var industry = document.getElementById("industry");
+//   var academic = document.getElementById("academic");
+//   var student = document.getElementById("student");
+//   var yes = document.getElementById("yes");
+//   var no = document.getElementById("no");
+//   if (industry.checked && yes.checked) {
+//      window.open('https://shop.monash.edu/user-2018-industry.html', '_blank');
+//      return false;
+//   } else if (industry.checked && no.checked) {
+//      window.open('https://shop.monash.edu/user-2018-industry-no-dinner.html', '_blank');
+//      return false;
+//   } else if (academic.checked && yes.checked) {
+//      window.open('https://shop.monash.edu/user-2018-academic.html', '_blank');
+//      return false;
+//   } else if (academic.checked && no.checked) {
+//      window.open('https://shop.monash.edu/user-2018-academic-no-dinner.html', '_blank');
+//      return false;
+//   } else {
+//      window.open('https://shop.monash.edu/user-2018-student-free-dinner.html', '_blank');
+//      return true;
+//   }
+// }
 
 // Ajax contact
 function contactForm () {

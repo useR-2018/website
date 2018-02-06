@@ -46,48 +46,11 @@ Early bird registration closes Mar 15, 2018. All prices are in AUD.
 
 <br>
 Registration includes a free conference t-shirt, if you want one, select the size, when you register.
-
-<div class = "row" style = "padding: 10px; border: 5px solid #eee; margin: 0; ">
-  <div class = "col-md-4 col-sm-6">
-    <form>
-      <p><b>Level</b></p>
-
-      <label class="checkcontainer">Industry
-        <input type="radio" checked="checked" name="level" value="industry" id="industry">
-        <span class="checkmark"></span>
-      </label>
-      <label class="checkcontainer">Academic
-        <input type="radio" name="level" value="academic" id="academic">
-        <span class="checkmark"></span>
-      </label>
-      <label class="checkcontainer">Student
-        <input type="radio" name="level" value="student" id="student">
-        <span class="checkmark"></span>
-      </label>
-    </form>
-  </div>
-  <div class = "col-md-4 col-sm-6">
-    <form>
-      <p><b>Dinner</b></p>
-
-      <label class="checkcontainer">Yes
-        <input type="radio" checked="checked" name="dinner" value="yes" id="yes">
-        <span class="checkmark"></span>
-      </label>
-      <label class="checkcontainer">No
-        <input type="radio" name="dinner" value="no" id="no">
-        <span class="checkmark"></span>
-      </label>
-    </form>
-  </div>
-
-  <div class = "col-md-4 col-sm-6">
-    <input type="button" class="btn btn-template-main" onclick="register()" value="Register">
-  </div>
-
-</div>
-
 <br>
+
+  <div class="reg-button">
+    <input type="button" class="btn btn-template-main" onclick="register()" value="Click to Register">
+  </div>
 
 Publisher's booths (3mx2m) are also available for a cost of $1500, including one free registration. Contact organisers for details.
 
