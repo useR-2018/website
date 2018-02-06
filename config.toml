@@ -130,7 +130,7 @@ paginate = 10
       Jessie Roberts (QUT), Miles McBain (QUT),
       Eun-kyung Lee (EWHA, Korea), Paula Andrea (UQ),
       Wenjing Wang (RUC, China), Soroor Hediyehzadeh (WEHI),
-      Paula Andrea (UQ), Rhydwyn McGuire (NSW DOH), 
+      Rhydwyn McGuire (NSW DOH), 
       Alex Whan (CSIRO), Steph de Silva (Rex Analytics), 
       Anna Quaglieri (WEHI), Marie Trussart (WEHI), Kim Fitter (NZ), Monash Business School Events Team (Kerry, Hannah, Jess and Deb)
     </p>
@@ -185,7 +185,7 @@ paginate = 10
     enable = true
     icon = "fa fa-users"
     title = "Register now!"
-    subtitle = "Abstract submission deadlines coming soon"
+    subtitle = "Abstract submission deadline is March 2, 2018"
     link_url  = "/registration/"
     link_text = "Check register page"
 
