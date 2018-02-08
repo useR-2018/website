@@ -4,11 +4,15 @@ title = "Travel"
 
 # Hotel discounts
 
+***Rates are only available Jul 9-13***
+
 [Mantra Southbank Brisbane](https://www.mantra.com.au/queensland/brisbane-and-surrounds/south-bank/accommodation/hotels/mantra-south-bank/), 5% discount on best day rate, Promo Code "userR Conference". Do search once, gives you best rate, enter the code, then search again, and should be discounted price. Expires 10 June 2018.
 
 [Morgan Suites](http://morgansuites.com.au/ms/) $120 1br apartment per night, promo code "useR!". Bookings can be made by phone or email as well as web site. Subject to availability, as no rooms have been blocked. 
 
 [Parkview Apartments](http://parkviewapartments.com.au) $155 studio,  $175 1br, promo code "MBSPV".  There are 14 studios and 10 1brs.
+
+[The Capitol Apartments](http://www.thecapitolapartments.com.au) 1-2 br apartments, reduced rate available at this [link](http://www.thecapitolapartments.com.au/corporate-partners).
 
 Still a few more hotels to be added. Budget accommodation options are available at one of the many backpackers, hostels or airbnb options.
 
