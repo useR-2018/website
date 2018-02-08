@@ -4,7 +4,7 @@ title = "Travel"
 
 # Hotel discounts
 
-***Rates are only available Jul 9-13***
+**Rates are only available Jul 9-13. Other dates may be available at the discretion of the hotel.**
 
 [Mantra Southbank Brisbane](https://www.mantra.com.au/queensland/brisbane-and-surrounds/south-bank/accommodation/hotels/mantra-south-bank/), 5% discount on best day rate, Promo Code "userR Conference". Do search once, gives you best rate, enter the code, then search again, and should be discounted price. Expires 10 June 2018.
 
@@ -16,7 +16,7 @@ title = "Travel"
 
 Still a few more hotels to be added. Budget accommodation options are available at one of the many backpackers, hostels or airbnb options.
 
-***We recommend booking accommodation as soon as possible.** July 11 is a major event in Brisbane - the state of origin rugby game, and many hotels raise their prices for that night, and fill up quickly. We have several hotels providing discounts, and will post this information on our web site by Jan 24, 2018. 
+**We recommend booking accommodation as soon as possible.** July 11 is a major event in Brisbane - the state of origin rugby game, and many hotels raise their prices for that night, and fill up quickly. We have several hotels providing discounts, and will post this information on our web site by Jan 24, 2018. 
 
 # Airport
 
