@@ -52,12 +52,13 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="77" data-target=".77collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Scott Came</td>
+    <td>Applications with R and Docker</td>
+    <td>Attendees with some exposure to Docker interested in building multi-container networked applications using Docker and R</td>
   </tr>
   <tr class="collapse out budgets 77collapsed">
-    <td colspan="4"><p>
+  <td colspan="4"><p>
+  In this tutorial we will explore several "advanced" scenarios of using Docker and R together to ease deployment of R applications. Attendees will gain hands-on experience building and deploying docker images for Shiny, databases, plumber, and keras. We will also look at cloud deployment and scaling applications with Kubernetes.
     </p></td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="80" data-target=".80collapsed">
@@ -157,12 +158,12 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="70" data-toggle="collapse" data-target=".70collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Matteo Fasiolo</td>
+    <td>QGAMs for electricity demand forecasting: moving beyond Gaussianity</td>
+    <td>This tutorial is aimed at a broad audience of statistical modellers, interested in using GAMs for predictive or inferential purposes. The models which will be presented in the tutorial have a very wide range of applicability, hence they should be of interest to practitioners in business intelligence, ecology, linguistics, epidemiology and geoscience to name a few. The attendees should have a basic understanding of regression models and of the basic concepts underlying statistics and machine learning (e.g. probability densities, quantiles, etc).</td>
   </tr>
   <tr class="collapse out budgets 70collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p>In this tutorial we will explore several "advanced" scenarios of using Docker and R together to ease deployment of R applications. Attendees will gain hands-on experience building and deploying docker images for Shiny, databases, plumber, and keras. We will also look at cloud deployment and scaling applications with Kubernetes. This tutorial is aimed at a broad audience of statistical modellers, interested in using GAMs for predictive or inferential purposes. The models which will be presented in the tutorial have a very wide range of applicability, hence they should be of interest to practitioners in business intelligence, ecology, linguistics, epidemiology and geoscience to name a few.
     </p></td>
   </tr>
   <tr class="clickable" id="73" data-toggle="collapse" data-target=".73collapsed">
