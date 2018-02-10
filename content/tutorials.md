@@ -159,7 +159,7 @@ title = "Tutorials"
   </tr>
   <tr class="clickable" id="70" data-toggle="collapse" data-target=".70collapsed">
     <td>Matteo Fasiolo</td>
-    <td>QGAMs for electricity demand forecasting: moving beyond Gaussianity</td>
+    <td>Quantile Generalized Additive Models: moving beyond Gaussianity</td>
     <td> The attendees should have a basic understanding of regression models and of the basic concepts underlying statistics and machine learning (e.g. probability densities, quantiles, etc).</td>
   </tr>
   <tr class="collapse out budgets 70collapsed">
