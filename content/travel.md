@@ -14,6 +14,8 @@ title = "Travel"
 
 [The Capitol Apartments](http://www.thecapitolapartments.com.au) 1-2 br apartments, reduced rate available at this [link](http://www.thecapitolapartments.com.au/corporate-partners).
 
+[West End Central Apartments](https://www.westendcentral.com.au) studio $190, 1br $210, promo code "useR".
+
 Still a few more hotels to be added. Budget accommodation options are available at one of the many backpackers, hostels or airbnb options.
 
 **We recommend booking accommodation as soon as possible.** July 11 is a major event in Brisbane - the state of origin rugby game, and many hotels raise their prices for that night, and fill up quickly. We have several hotels providing discounts, and will post this information on our web site by Jan 24, 2018. 
