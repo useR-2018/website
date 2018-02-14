@@ -16,7 +16,7 @@ title = "Travel"
 
 [West End Central Apartments](https://www.westendcentral.com.au) studio $190, 1br $210, promo code "useR".
 
-Still a few more hotels to be added. Budget accommodation options are available at one of the many backpackers, hostels or airbnb options.
+[Rydges](https://www.rydges.com/private-page/user-conference/) This hotel is right at the conference centre, and the link takes you to a special web site for conference rates.
 
 **We recommend booking accommodation as soon as possible.** July 11 is a major event in Brisbane - the state of origin rugby game, and many hotels raise their prices for that night, and fill up quickly. We have several hotels providing discounts, and will post this information on our web site by Jan 24, 2018. 
 
