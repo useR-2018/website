@@ -101,21 +101,22 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="72" data-toggle="collapse" data-target=".72collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Kevin Kuo</td>
+    <td>Deep learning with TensorFlow and Keras</td>
+    <td>Anyone interested in deep learning</td>
   </tr>
   <tr class="collapse out budgets 72collapsed">
-    <td colspan="4"><p>
+  <td colspan="4"><p>
+  We begin with a quick introduction of deep learning concepts, just enough to have a working vocabulary to facilitate construction of neural networks during the tutorial. The TensorFlow suite of R packages will be covered, including keras, tfestimators, and tfdatasets. Together with the participants, we build end-to-end workflows to perform classification and regression tasks using neural networks. We discuss the data pre-processing needs specific to neural network models, architectural choices, and best practices. Examples will be chosen to span a wide range of interests, including learning on structured data, time series, and unstructured text and image data.
     </p></td>
   </tr>
   <tr class="clickable" id="75" data-toggle="collapse" data-target=".75collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Johann Gagnon-Bartsch</td>
+    <td>Looking to clean your data? Learn how to Remove Unwanted Variation with R</td>
+    <td>Data analysis, Statistics, Bioinformatics and Computational Biology</td>
   </tr>
   <tr class="collapse out budgets 75collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p>High-dimensional data often suffer from unwanted variation; for example, gene expression data commonly contain batch effects, and fMRI data commonly suffer from various systematic errors as well.  Removing this unwanted variation while preserving the true signal in the data is essential to deriving the right scientific conclusions.  A major complication, however, is that the factors causing the unwanted variation are often unknown and must be inferred from the data.  In this tutorial we present the RUV (remove unwanted variation) package.  RUV methods cover a range of approaches for removing unwanted variation depending on the purpose of the study: differential expression analysis, global data normalisation and visualisation, or classification.  We also demonstrate an R shiny application that provides an overview of the methods, along with interactive options for data visualisation and method diagnostics. 
     </p></td>
   </tr>
   <tr class="clickable" id="81" data-toggle="collapse" data-target=".81collapsed">
@@ -167,12 +168,15 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="73" data-toggle="collapse" data-target=".73collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Maria Prokofieva</td>
+    <td>Follow Me: Introduction to social media analysis in R</td>
+    <td>The tutorial will aim at the broad range of participants from various backgrounds (business, academics, etc.)</td>
   </tr>
   <tr class="collapse out budgets 73collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p>The tutorial will review a range of R packages in social media analysis in R and will aim at teaching general principles of working with social media platforms
+ and analysing information there. The social media platform covered are Facebook, Twitter, Instagram and Youtube. Topics covered during the tutorial include: 1. Structure of the social media data (e.g. user-related data, posting related data, hashtags) 2. Benefits
+ and challenges working with social media data (textual/non-textual information, large data volume, API limitations, 3. Connecting to a social media platform (e.g. authentication) and downloading data 4. Data analysis of the profile information (e.g. followers,
+ likes, dislikes, favorites - platform dependent) 5. Data analysis of textual information (e.g. user posts, comments, dynamics, sentiment analysis, word clouds, etc.) 6. Visualisation of the social media data.
     </p></td>
   </tr>
   <tr class="clickable" id="82" data-toggle="collapse" data-target=".82collapsed">
