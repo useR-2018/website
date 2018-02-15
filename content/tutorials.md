@@ -62,21 +62,21 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="80" data-target=".80collapsed">
+    <td>Przemyslaw Biecek </td>
+    <td>DALEX: Descriptive mAchine Learning EXplanations.  Tools for exploration, validation and explanation of complex machine learning models</td>
     <td>TBA</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr class="collapse out budgets 80collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p>TBA
     </p></td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="83" data-target=".83collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Hanjo Odendaal</td>
+    <td>The ultimate online collection toolbox: Combining RSelenium and Rvest</td>
+    <td>Intermediate R users looking to explore online data collection</td>
   </tr>
   <tr class="collapse out budgets 83collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p>Rvest from Hadley Wickham has become the go to package for all online collection or website interaction (web-scraping) tasks in R. Although the package is amazing, it is not able to interact with a webpage when the page is dynamically loaded through javascript. For the latter, we need to have a browser that we 'drive' around the website to collect/load and interact with objects. Welcome to Rselenium from John Harrison. The package provides the necessary tools that allows the user to drive a web-browser, from R using script commands. In this tutorial, we will be looking at installing RSelenium, learning basic commands, look at javascript tips and how to play well with others like rvest.
     </p></td>
   </tr>
   <tr><th colspan="4">Tuesday Afternoon</th></tr>
@@ -179,15 +179,6 @@ title = "Tutorials"
  likes, dislikes, favorites - platform dependent) 5. Data analysis of textual information (e.g. user posts, comments, dynamics, sentiment analysis, word clouds, etc.) 6. Visualisation of the social media data.
     </p></td>
   </tr>
-  <tr class="clickable" id="82" data-toggle="collapse" data-target=".82collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr class="collapse out budgets 82collapsed">
-    <td colspan="4"><p>
-    </p></td>
-  </tr>
   <tr class="clickable" id="85" data-toggle="collapse" data-target=".85collapsed">
     <td>Tong He</td>
     <td>xgboost and MXNet</td>
@@ -195,6 +186,15 @@ title = "Tutorials"
   </tr>
   <tr class="collapse out budgets 85collapsed">
     <td colspan="4"><p> TBA
+    </p></td>
+  </tr>
+  <tr class="clickable" id="82" data-toggle="collapse" data-target=".82collapsed">
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr class="collapse out budgets 82collapsed">
+    <td colspan="4"><p>
     </p></td>
   </tr>
 </table>
