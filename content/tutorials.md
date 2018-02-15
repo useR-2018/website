@@ -120,12 +120,12 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="81" data-toggle="collapse" data-target=".81collapsed">
+    <td>Stephanie Kovalchik</td>
+    <td>Sports Analytics</td>
     <td>TBA</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr class="collapse out budgets 81collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p>TBA
     </p></td>
   </tr>
   <tr class="clickable" id="84" data-toggle="collapse" data-target=".84collapsed">
@@ -189,12 +189,12 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="85" data-toggle="collapse" data-target=".85collapsed">
+    <td>Tong He</td>
+    <td>xgboost and MXNet</td>
     <td>TBA</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr class="collapse out budgets 85collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p> TBA
     </p></td>
   </tr>
 </table>
