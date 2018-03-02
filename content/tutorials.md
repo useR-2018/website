@@ -129,12 +129,12 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="84" data-toggle="collapse" data-target=".84collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Dale Bryan-Brown</td>
+    <td>Spatial modelling using ‘raster’ package</td>
+    <td>People interested in spatial modelling using satellite images, or other raster data sets. Worked examples will revolve around environmental modelling.</td>
   </tr>
   <tr class="collapse out budgets 84collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p>The topics covered in this workshop include; an introduction to 1) using R as a GIS (5 minutes), 2) point-type data (5 minutes), and 3) raster data (5 minutes). We will then build on the basic knowledge of using R as a GIS by creating raster data (10 minutes) and exploring its basic features (10 minutes). After that we will import raster data into R (10 minutes) and begin to manipulate its extent, resolution, projection and values (45 minutes) and visualise the data (15 minutes). After the group is comfortable with editing the features of raster data we will discuss summarising raster data using point data (45 minutes). Finally, we will use this summarised data in a simple generalised linear model (45 minutes). The outline in dot-points follows. Times are rough estimates.
     </p></td>
   </tr>
   <tr><th colspan="4">Wednesday Morning</th></tr>
@@ -189,12 +189,14 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="82" data-toggle="collapse" data-target=".82collapsed">
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>Dirk Eddelbuettal</td>
+    <td>fasteR: speeding up R code</td>
+    <td>Beginning to untermediate users of R who want to go further and farther</td>
   </tr>
   <tr class="collapse out budgets 82collapsed">
-    <td colspan="4"><p>
+    <td colspan="4"><p> This workshop will cover some intermediate and advanced techniques for optimising pure R code. I will start off by discussing profiling techniques to find out what can be optimised. Other topics will include fast and slow data structures in memory; different disk storage formats for different sorts of dat access; vectorisation, including speed/storage tradeoffs; basic parallel processing, including when memory can be shared.
+
+
     </p></td>
   </tr>
 </table>
