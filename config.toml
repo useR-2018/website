@@ -193,7 +193,7 @@ paginate = 10
     enable = true
     icon = "fa fa-users"
     title = "Register now!"
-    subtitle = "Abstract submission deadline is March 2, 2018"
+    subtitle = "Abstract submission deadline is March 15, 2018"
     link_url  = "/registration/"
     link_text = "Check register page"
 
