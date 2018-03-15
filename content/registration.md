@@ -4,7 +4,7 @@ title = "Registration"
 
 The registration fees for useR! 2018 include access to talks and poster sessions, welcome reception, lunches, morning and afternoon tea each day. There are three levels of registration, industry, academic and student, each with early bird rates. The conference programme will run from Wednesday lunch time through Friday late afternoon. Tutorials are provided at a modest additional cost Tuesday all day and Wednesday morning. The conference dinner and childcare are available for extra fees, and have limited places.
 
-Early bird registration closes Mar 15, 2018. All prices are in AUD.
+Early bird registration closes Mar 30, 2018. All prices are in AUD.
 
 <table id="reg-sum">
   <tr>
