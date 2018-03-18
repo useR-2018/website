@@ -32,10 +32,10 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="71" data-target=".71collapsed">
-    <td>Heather Turner</td>
-    <td>Generalized  Nonlinear Models using the gnm Package</td>
-    <td>People who wish to find out what generalized nonlinear models are and whether such models might be useful in their field of application</td>
-  </tr>
+   <td>Simon Jackson</td>
+    <td>Wrangling data in the Tidyverse</td>
+    <td>Beginner-to-intermediate R users who want to improve the day-to-day quality and efficiency of their data wrangling skills</td>
+</tr>
   <tr class="collapse out budgets 71collapsed">
     <td colspan="4"><p>
     The class of generalized linear models encompasses many tools commonly used in data analysis, including multiple linear regression, logistic regression, log-linear models, etc. But a linear predictor does not always capture the relationship we wish to model. Rather, a nonlinear predictor may provide a better description of the observed data, often with fewer and more interpretable parameters. This tutorial introduces the wider class of generalized nonlinear models (GNMs) and their implementation via the R package `gnm`.
@@ -91,10 +91,10 @@ title = "Tutorials"
     </p></td>
   </tr>
   <tr class="clickable" id="69" data-toggle="collapse" data-target=".69collapsed">
-    <td>Simon Jackson</td>
-    <td>Wrangling data in the Tidyverse</td>
-    <td>Beginner-to-intermediate R users who want to improve the day-to-day quality and efficiency of their data wrangling skills</td>
-  </tr>
+     <td>Heather Turner</td>
+    <td>Generalized  Nonlinear Models using the gnm Package</td>
+    <td>People who wish to find out what generalized nonlinear models are and whether such models might be useful in their field of application</td>
+ </tr>
   <tr class="collapse out budgets 69collapsed">
     <td colspan="4"><p>
     This hands-on tutorial will help beginner-to-intermediate R users take their data wrangling skills to the next level with an introduction to the Tidyverse: a collection of data science packages including dplyr, tidyr, purrr, ggplot2, and more. Using provided data sets and practical examples, you will learn how to efficiently import, tidy, and transform data to more quickly focus on tasks like visualization and modeling.
