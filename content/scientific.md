@@ -27,7 +27,7 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   <td> 3:15 </td> <td> Afternoon tea </td> <td> </td>
   </tr>
  <tr>
-  <td> 3:45 </td> <td> Talks </td> <td> Parallel sessions </td>
+  <td> 3:45 </td> <td> Talks </td> <td> Parallel sessions (6)  </td>
   </tr>
   <tr>
   <td> 5:15 </td> <td> Break </td> <td> </td>
@@ -36,6 +36,42 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   <td> 5:30 </td> <td> Opening reception </td> <td> Poster session 1 </td>
   </tr>
   <tr><th colspan="4">Thursday </th></tr>
+  <tr>
+  <td> 8:45 </td> <td> Gather and mingle </td> <td> </td>
+  </tr>
+  <tr>
+  <td> 9:05 </td> <td> Keynote: Heike Hofmann </td> <td> TBD </td>
+  </tr>
+ <tr>
+  <td> 10:00 </td> <td> Morning tea </td> <td> </td>
+  </tr>
+   <tr>
+  <td> 10:30 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
+  </tr>
+  <tr>
+  <td> 12:00 </td> <td> Lunch </td> <td> Poster session 2 </td>
+  </tr>
+  <tr>
+  <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  </td>
+  </tr>
+ <tr>
+  <td> 1:55 </td> <td> Break </td> <td> </td>
+  </tr>
+  <tr>
+  <td> 2:00 </td> <td> Talks and lightning talks </td> <td> Parallel sessions (6) </td>
+  </tr>
+  <tr>
+  <td> 3:15 </td> <td> Afternoon tea </td> <td> </td>
+  </tr>
+  <tr>
+  <td> 3:45 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
+  </tr>
+ <tr>
+  <td> 5:15 </td> <td> Break </td> <td> </td>
+  </tr>
+<tr>
+  <td> 6:00 </td> <td> Conference dinner </td> <td> John Mertic: How The Linux Foundation is enabling sustainable open source today </td>
+  </tr>
 </table>
 
 [Tutorial programme can be found here](https://user2018.r-project.org/tutorials/)
