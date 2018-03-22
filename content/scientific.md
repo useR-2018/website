@@ -2,7 +2,7 @@
 title = "Programme"
 +++
 
-useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be half-day tutorials Tuesday morning and afternoon, and Wednesday morning. Lunch, morning and afternoon teas are provided both days. The conference programme will begin after lunch on Wednesday, reception in the evening, and conference dinner Thursday evening. It will close late afternoon on Friday.
+useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [half-day tutorials Tuesday morning and afternoon, and Wednesday morning](https://user2018.r-project.org/tutorials/). Lunch, morning and afternoon teas are provided both days. The conference programme will begin after lunch on Wednesday, reception in the evening, and conference dinner Thursday evening. It will close late afternoon on Friday.
 
 Tentative conference programme. Paralle sessions, based on abstract keywords, will be grouped (roughly) into these themes: applications, models, algorithms, visualisation, community/education, bioinformatics.
 
@@ -108,4 +108,3 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   </tr>
 </table>
 
-[Tutorial programme can be found here](https://user2018.r-project.org/tutorials/)
