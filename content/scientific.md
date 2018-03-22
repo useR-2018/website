@@ -4,4 +4,38 @@ title = "Programme"
 
 useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be half-day tutorials Tuesday morning and afternoon, and Wednesday morning. Lunch, morning and afternoon teas are provided both days. The conference programme will begin after lunch on Wednesday, reception in the evening, and conference dinner Thursday evening. It will close late afternoon on Friday.
 
-[Submit an abstract](https://goo.gl/forms/fWETwXsdfMbkFhJD3) to present a talk, poster or lightning talk. Deadline for abstract submission is Mar 2. Abstracts will be reviewed on a rolling basis, with three acceptance rounds, approx first week of Feb, third week of Feb, and first week of Mar (before early registration deadline). If there are sufficient quality submissions on a topic a session will be formed early, and authors notified. The earlier you submit, the higher the acceptance rate.
+Tentative conference programme. Paralle sessions, based on abstract keywords, will be grouped (roughly) into these themes: applications, models, algorithms, visualisation, community/education, bioinformatics.
+
+<table id="reg-sum">
+  <col width="60">
+  <col width="120">
+  <col width="160">
+  <th>Time</th>
+  <th>Session</th>
+  <th>Title</th>
+  <tr><th colspan="4">Wednesday </th></tr>
+  <tr>
+  <td> 1:25 </td> <td> Opening </td> <td> </td>
+  </tr>
+  <tr>
+  <td> 1:35 </td> <td> Keynote: Steph de Silva </td> <td> Beyond syntax, towards culture: the potentiality of deep open source communities </td>
+  </tr>
+ <tr>
+  <td> 2:30 </td> <td> Poster lightning talks </td> <td> 30sec speed poster advterising </td>
+  </tr>
+  <tr>
+  <td> 3:15 </td> <td> Afternoon tea </td> <td> </td>
+  </tr>
+ <tr>
+  <td> 3:45 </td> <td> Talks </td> <td> Parallel sessions </td>
+  </tr>
+  <tr>
+  <td> 5:15 </td> <td> Break </td> <td> </td>
+  </tr>
+<tr>
+  <td> 5:30 </td> <td> Opening reception </td> <td> Poster session 1 </td>
+  </tr>
+  <tr><th colspan="4">Thursday </th></tr>
+</table>
+
+[Tutorial programme can be found here](https://user2018.r-project.org/tutorials/)
