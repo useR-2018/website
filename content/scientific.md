@@ -52,7 +52,7 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   <td> 12:00 </td> <td> Lunch </td> <td> Poster session 2 </td>
   </tr>
   <tr>
-  <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  </td>
+  <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  TBD </td>
   </tr>
  <tr>
   <td> 1:55 </td> <td> Break </td> <td> </td>
@@ -71,6 +71,40 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   </tr>
 <tr>
   <td> 6:00 </td> <td> Conference dinner </td> <td> John Mertic: How The Linux Foundation is enabling sustainable open source today </td>
+  </tr>
+ <tr><th colspan="4">Friday </th></tr>
+  <tr>
+  <td> 8:45 </td> <td> Gather and mingle </td> <td> </td>
+  </tr>
+  <tr>
+  <td> 9:05 </td> <td> Keynote: Roger Peng </td> <td> Teaching R to New Users: From tapply to Tidyverse </td>
+  </tr>
+ <tr>
+  <td> 10:00 </td> <td> Morning tea </td> <td> </td>
+  </tr>
+   <tr>
+  <td> 10:30 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
+  </tr>
+  <tr>
+  <td> 12:00 </td> <td> Lunch </td> <td>  </td>
+  </tr>
+  <tr>
+  <td> 1:00 </td> <td> Keynote: Thomas Lin Pedersen </td> <td>  The Grammar of Animation </td>
+  </tr>
+ <tr>
+  <td> 1:55 </td> <td> Break </td> <td> </td>
+  </tr>
+  <tr>
+  <td> 2:00 </td> <td> Talks and lightning talks </td> <td> Parallel sessions (6) </td>
+  </tr>
+  <tr>
+  <td> 3:15 </td> <td> Afternoon tea </td> <td> </td>
+  </tr>
+  <tr>
+  <td> 3:45 </td> <td> Keynote: Jenny Bryan </td> <td> TBD </td>
+  </tr>
+ <tr>
+  <td> 4:40 </td> <td> Closing </td> <td> </td>
   </tr>
 </table>
 
