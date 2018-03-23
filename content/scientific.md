@@ -21,7 +21,7 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   <td> 1:35 </td> <td> Keynote: Steph de Silva </td> <td> Beyond syntax, towards culture: the potentiality of deep open source communities </td>
   </tr>
  <tr>
-  <td> 2:30 </td> <td> Poster lightning talks </td> <td> 30sec speed poster advterising </td>
+  <td> 2:30 </td> <td> Poster lightning talks </td> <td> 30sec speed poster advertising </td>
   </tr>
   <tr>
   <td> 3:15 </td> <td> Afternoon tea </td> <td> </td>
