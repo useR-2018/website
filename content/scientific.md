@@ -52,7 +52,7 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   <td> 12:00 </td> <td> Lunch </td> <td> Poster session 2 </td>
   </tr>
   <tr>
-  <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  TBD </td>
+  <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  Adventures with R: Two stories of analyses and a new perspective on data </td>
   </tr>
  <tr>
   <td> 1:55 </td> <td> Break </td> <td> </td>
