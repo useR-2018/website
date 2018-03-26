@@ -121,11 +121,12 @@ title = "Tutorials"
   </tr>
   <tr class="clickable" id="81" data-toggle="collapse" data-target=".81collapsed">
     <td>Stephanie Kovalchik</td>
-    <td>Sports Analytics</td>
-    <td>TBA</td>
+    <td>Statistical Models for Sport in R</td>
+    <td>Beginner to intermediate R users with an interest in sports</td>
   </tr>
   <tr class="collapse out budgets 81collapsed">
-    <td colspan="4"><p>TBA
+    <td colspan="4"><p>The workshop will cover a number of skills and statistical models that are common in sports statistics and show how each can be implemented in R. The workshop will introduce participants to a range of R packages and real sports
+examples.
     </p></td>
   </tr>
   <tr class="clickable" id="84" data-toggle="collapse" data-target=".84collapsed">
@@ -190,13 +191,23 @@ title = "Tutorials"
   </tr>
   <tr class="clickable" id="82" data-toggle="collapse" data-target=".82collapsed">
     <td>Dirk Eddelbuettal</td>
-    <td>fasteR: speeding up R code</td>
-    <td>Beginning to untermediate users of R who want to go further and farther</td>
+    <td>Extending R with C++: Motivation, Introduction and Examples</td>
+    <td> Beginning to untermediate users of R who want to go further and farther </td>
   </tr>
   <tr class="collapse out budgets 82collapsed">
-    <td colspan="4"><p> This workshop will cover some intermediate and advanced techniques for optimising pure R code. I will start off by discussing profiling techniques to find out what can be optimised. Other topics will include fast and slow data structures in memory; different disk storage formats for different sorts of dat access; vectorisation, including speed/storage tradeoffs; basic parallel processing, including when memory can be shared.
-
-
+    <td colspan="4"><p> Rcpp has become the principal venue for extending R with compiled
+code. It makes it easy to extend R with C or C++ spanning the
+range from simple one-liners to larger routines and bindings of
+entire external libraries. We will motivate and introduce Rcpp as
+a natural extension to R that provides an easy-to-use and
+powerful interface.  Helper functions and tools including RStudio
+will be used to easy creation of R extensions.  Several examples
+will introduce basic use cases including writing code with
+RcppArmadillo which is the most widely-used package on top of
+Rcpp.  This provides a natual bridge to the more recent
+RcppMLPACK package (which combines the MLPACK machine learning
+library with the Armadillo linear algebra library) from which we
+will study one or two examples.
     </p></td>
   </tr>
 </table>
