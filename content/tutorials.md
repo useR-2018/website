@@ -38,7 +38,7 @@ title = "Tutorials"
 </tr>
   <tr class="collapse out budgets 71collapsed">
     <td colspan="4"><p>
-    The class of generalized linear models encompasses many tools commonly used in data analysis, including multiple linear regression, logistic regression, log-linear models, etc. But a linear predictor does not always capture the relationship we wish to model. Rather, a nonlinear predictor may provide a better description of the observed data, often with fewer and more interpretable parameters. This tutorial introduces the wider class of generalized nonlinear models (GNMs) and their implementation via the R package `gnm`.
+ 	This hands-on tutorial will help beginner-to-intermediate R users take their data wrangling skills to the next level with an introduction to the Tidyverse: a collection of data science packages including dplyr, tidyr, purrr, ggplot2, and more. Using provided data sets and practical examples, you will learn how to efficiently import, tidy, and transform data to more quickly focus on tasks like visualization and modeling.
     </p></td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="74" data-target=".74collapsed">
@@ -97,7 +97,7 @@ title = "Tutorials"
  </tr>
   <tr class="collapse out budgets 69collapsed">
     <td colspan="4"><p>
-    This hands-on tutorial will help beginner-to-intermediate R users take their data wrangling skills to the next level with an introduction to the Tidyverse: a collection of data science packages including dplyr, tidyr, purrr, ggplot2, and more. Using provided data sets and practical examples, you will learn how to efficiently import, tidy, and transform data to more quickly focus on tasks like visualization and modeling.
+    The class of generalized linear models encompasses many tools commonly used in data analysis, including multiple linear regression, logistic regression, log-linear models, etc. But a linear predictor does not always capture the relationship we wish to model. Rather, a nonlinear predictor may provide a better description of the observed data, often with fewer and more interpretable parameters. This tutorial introduces the wider class of generalized nonlinear models (GNMs) and their implementation via the R package `gnm`.
     </p></td>
   </tr>
   <tr class="clickable" id="72" data-toggle="collapse" data-target=".72collapsed">
