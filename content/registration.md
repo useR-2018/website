@@ -52,6 +52,8 @@ Registration includes a free conference t-shirt, if you want one, select the siz
     <input type="button" class="btn btn-template-main" onclick="register()" value="Click to Register">
   </div>
 
+**When you sign up for tutorials, enter your [preferences for each session here](https://goo.gl/forms/D357bikF1uPkOSDl1)**
+
 Publisher's booths (3mx2m) are also available for a cost of $1500, including one free registration. Contact organisers for details.
 
 <br>
