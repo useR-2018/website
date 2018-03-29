@@ -32,6 +32,25 @@
                       {{ end }}
                   </ul>
                 </div>
+                <div class = "col-md-4 col-sm-6" align = "center">
+                  <h2>Bronze</h2>
+                </div>
+                <div class = "col-md-8 col-sm-6">
+                <!-- <ul class="owl&#45;carousel customers"> -->
+                  <ul>
+                      {{ range .Site.Data.clients.platinum }}
+                      <li style="list-style-type: none; width: 400px; min-height: 120px; max-height: auto; padding-bottom: 60px;" title="{{ .name }}" class = "img-responsive">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                      </li>
+                      {{ end }}
+                  </ul>
+                </div>
                 <!-- /.owl-carousel -->
                 <div class = "col-md-4 col-sm-6" align = "center">
                   <h2>Pro-networker</h2>
