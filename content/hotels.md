@@ -10,5 +10,6 @@ title = "Hotel discounts"
 * [The Capitol Apartments](http://www.thecapitolapartments.com.au) 1-2 br apartments, reduced rate available at this [link](http://www.thecapitolapartments.com.au/corporate-partners).
 * [West End Central Apartments](https://www.westendcentral.com.au) studio $190, 1br $210, promo code "useR".
 * [Rydges](https://www.rydges.com/private-page/user-conference/) This hotel is right at the conference centre, and the link takes you to a special web site for conference rates.
+* [Park Regis North Quay](https://www.parkregisnorthquay.com.au/) Standard hotel room $139 per night (except for 11 July, rate is $399), One bedroom apartment $149 per night (except for 11 July, rate is $519), Promo code "useR".
 
 **We recommend booking accommodation as soon as possible.** July 11 is a major event in Brisbane - the state of origin rugby game, and many hotels raise their prices for that night, and fill up quickly. We have several hotels providing discounts, and will post this information on our web site by Jan 24, 2018. 
