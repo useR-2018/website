@@ -190,9 +190,9 @@ examples.
     </p></td>
   </tr>
   <tr class="clickable" id="82" data-toggle="collapse" data-target=".82collapsed">
-    <td>Dirk Eddelbuettal</td>
+    <td>Dirk Eddelbuettel</td>
     <td>Extending R with C++: Motivation, Introduction and Examples</td>
-    <td> Beginning to untermediate users of R who want to go further and farther </td>
+    <td> Beginning to intermediate users of R who want to go further and farther </td>
   </tr>
   <tr class="collapse out budgets 82collapsed">
     <td colspan="4"><p> Rcpp has become the principal venue for extending R with compiled
