@@ -18,7 +18,7 @@ and positive attitude about just about everything.*
 
 Thomas:
 
-My name is [Thomas Lin Pedersen](https://www.data-imaginist.com/), I live in Denmark, and am currently
+My name is [Thomas Lin Pedersen](https://www.data-imaginist.com/). I live in Denmark, and am currently
 working at [SKAT](https://skat.dk/), the Danish taxation authority, where I’m developing
 tools for our other data scientists. I don’t do a lot of modelling
 myself, but I make sure the framework and the pipeline is up and
@@ -50,16 +50,16 @@ and so on, and then they should be able to put it back into the
 pipeline.
 
 We have a very software centric view in our data science team, so we
-have a continuous delivery platform using jenkins. And we are going to
+have a continuous delivery platform using [Jenkins](https://jenkins.io). And we are going to
 provide all our models as micro-services in docker containers, but still
 we want to make sure that everything is running as it should - so we
-need to build in some monitoring, we need to have full traceability of
+need to build in monitoring, we need to have full traceability of
 every decision that we make. In fact, this year, there are going some
 new regulations from the EU, the GDPR, which requires that every
 decision on citizens that are based on algorithms to be explained to
-citizens that they effect. So, every citizen should be able to say, why
+citizens that they affect. So, every citizen should be able to say, why
 did you do this, why did you choose this? This is one of the reasons why
-I developed [LIME](https://github.com/thomasp85/lime) - to be able to, for any model that we are using, give
+I developed [lime](https://github.com/thomasp85/lime). For any model that we are using, give
 a sense of how this model works for each observation.
 
 There are other ways of explaining machine learning tools, and I think
@@ -80,11 +80,11 @@ framework. Because [lime](https://github.com/thomasp85/lime) uses some metamodel
 
 Thomas:
 
-That’s right, LIME does add some overhead. But, if you have full
+That’s right, lime does add some overhead. But, if you have full
 reproducibility in your framework, then you can reproduce the
-prediction, and then you can run LIME on request, because LIME itself is
-quite heavy - you are training a model to fit for every observation,
-training and adding feature selection, it can add an overhead for each
+prediction, and then you can run lime on request, because lime itself is
+quite heavy --- you are training a model to fit for every observation,
+training and adding feature selection. It can add an overhead for each
 prediction on 1-2 seconds, then if you have 1-2 million rows, it’s going
 to be horrible.
 
@@ -93,10 +93,10 @@ and regulations might seem annoying, but from a public servant point of
 view, sure they are annoying, but we have to keep in mind who we are
 actually trying to help, and these regulations are here for the citizens
 that we actually serving. So, maybe we can’t achieve that extra 0.09%
-accuracy, because we can’t use that model that is really really complex,
+accuracy, because we can’t use that model that is complex,
 but then again, is that really WHY we are doing it? I mean, are we doing
 the modelling for our own academic desire, or we actually trying to
-solve a problem? and if that problem entails an explainable part, well
+solve a problem? And if that problem entails an explainable part, well
 then that’s part of the problem spec, and we’re going to solve it in the
 best way we can.
 
@@ -111,24 +111,16 @@ Thomas:
 So during my bachelor degree, the university I went to had decided a few
 years before that they were going to use R, as their framework for doing
 the base level statistics and mathematics. So, the first mathematics
-course that we had, we were introduced to R.
-
-**Nick:**
-
-**Really? Wow.**
-
-Thomas:
-
-And everyone hated it. Because, well, it’s a capable calculator, but for
+course that we had, we were introduced to R. And everyone hated it. Because, well, it’s a capable calculator, but for
 someone who hasn’t done any programming, it feels kind of horrible. And
 the impact of R was not really apparent, when you’re just doing bachelor
 level mathematics.
 
 We took up R again in the statistics course, and it was kinda cool,
-because you can just type "anova" and "summary", and get all these nice
+because you can just type `anova()` and `summary()`, and get all these nice
 things. And it was not such a huge burden, because we had some of the
 idiosyncrasies put into our head when we did the math. But then after we
-took a few more statistics courses, we sort of drifted away from R,
+took a few more statistics courses, we drifted away from R,
 because we didn’t need to do any statistical analysis with R. It was
 there, but it was not used.
 
@@ -144,18 +136,18 @@ that was better than excel, and he said:
 > *Thomas: "Ah, well, I know R, so no problems."*
 
 And then he showed me the [ggplot2 book](https://www.amazon.com.au/ggplot2-Elegant-Graphics-Data-Analysis/dp/331924275X/ref=dp_ob_title_bk), which had just been released
-there. And so I began learning [ggplot2](https://github.com/tidyverse/ggplot2). And that was really where it
-started. But I think visualisation is a really, really good way to get
+there. I began learning [ggplot2](https://github.com/tidyverse/ggplot2). And that was really where it
+started. But I think visualisation is a good way to get
 introduced to R. It involves a lot of the things that you need to do,
 but you still have this nice feeling of a tangible end product. So you
 need to get your data into R, you need some I/O (reading in and writing
 out), you need to have some transformation of your data before you can
 plot it. So you’ve got all these data transformation steps. You might
 need to model something as well, and then make the visualisation. So,
-there’s a lot of steps, but it’s all with a clear goal of "I want to
+there are a lot of steps, but it’s all with a clear goal of "I want to
 make this graph".
 
-So, it preps you really well for working onwards with R. Also, that’s
+So, it preps you well for working onwards with R. Also, that’s
 the feeling I’ve had when doing all this other stuff with ggplot2, it
 didn’t feel so bad.
 
@@ -164,33 +156,30 @@ didn’t feel so bad.
 **You are renowned for rapid development of R packages. Are there any
 tools or methodologies you attribute this ability to?**
 
-Thomas: I think I had this discussion with [Miles McBain](http://milesmcbain.xyz/).
+Thomas: 
 
-Nick: Oh, really?
-
-Thomas: So, I don't know if I'm renowned, but it's true, that I'm
+I think I had this discussion with [Miles McBain](http://milesmcbain.xyz/).
+I don't know if I'm renowned, but it's true that I'm
 probably rather productive in the sense of publishing R packages. I'm
 horribly unstructured, and I have no system at all. People should not
 follow my lead if they want to do a lot of R packages. I'm a horrible
 front figure for that idea.
 
-Creating an R packages, for me, now, is kind of natural. This comes
+Creating an R package, for me, now is natural. This comes
 after a couple times. I mean, it's just file naming and doing things the
-correct way. So you learn that. So for me, now, it is kind of nice to be
-able to internalize this idea that package development, for me, is
-something that happens in my head while I'm not at the computer, or at
-least a lot of it happens there. So, a lot of the time-consuming part is
-about architecture, it's about what do I want to solve, how do I want to
-solve it? Not kind of problems about programming.
+correct way. So you learn that. It is kind of nice to be
+able to internalize this idea that package development is
+something that happens in my head while I'm not at the computer. So a lot of the time-consuming part is
+about architecture; it's about what I want to solve, how I want to
+solve it. Not kind of problems about programming.
 
 This (package development) is something that can rummage in my head
-while I do everything else. And then, I can sit down at my computer and
-- not that I get my code perfect the first time, but debugging is also
+while I do everything else. I can sit down at my computer --- not that I get my code perfect the first time, but debugging is also
 something that comes easier with time. So I can perfect my idea of what
 I want to do while I'm not in front of the computer, and then make the
 best out of the time that I have in front of the computer.
 
-So a lot of my development happens during my commute or just in the
+A lot of my development happens during my commute or just in the
 evening, because, more or less, everything I do is spare time. I have a
 limited amount of time in front of my computer, self-imposed, of course.
 I could ignore my family but I don't want to do that.
@@ -199,13 +188,13 @@ I could ignore my family but I don't want to do that.
 
 **Yeah, it's funny. At least to me, like, a lot of time, you know, I
 could still be in the shower and be like "ah, okay. I could try things
-this way"**
+this way".**
 
 Thomas:
 
 So I think that's my "methodology". Then, I think I'm a rather creative
-person. Again, we talked about this, that, for me, if I get a good idea,
-it can rummage in my head for a long time. Maybe subconsciously. Like, I
+person. If I get a good idea,
+it can rummage in my head for a long time, maybe subconsciously. Like, I
 wouldn't think about it, but then, at some point, it would be so
 annoying that I haven't made something out of that idea that I'm kinda
 forced to make a package out of it. And this happens quite a lot. So
@@ -230,7 +219,7 @@ wanted to describe my academic goals, it was really to make human data
 interfaces. This is all about API, sometimes about visualizations. But
 APIs and visualization, they are both just interfaces to your data.
 
-So, it concerns me a lot, but it's one of those things that rummage in
+It concerns me a lot, but it's one of those things that rummage in
 my head. I can't really put a kind of a timestamp on how much time has
 been spent. I feel that when I sit down and write the code, there is not
 a lot of iteration. Like, I haven't had a version, a lesser version of
@@ -247,19 +236,19 @@ step before plotting.
 He was kind of annoyed with how that works, so we began talking about
 how a new thing might end up looking. We talked about whether we we
 wanted to make, like, separate functions for edges and nodes. That would
-be another perfectly valid idea, to have mutate\_edges(),
-mutate\_nodes(), transfer all of these things. And it didn't seem as
+be another perfectly valid idea, to have `mutate_edges()`,
+`mutate_nodes()`, transfer all of these things. And it didn't seem as
 elegant in some way, because the code would be very graph specific, in a
 sense.
 
 And then, I don't know who thought of it, we thought about switching the
-context using a verb (activate()). It reinforced the idea that a graph
+context using a verb (`activate()`). It reinforced the idea that a graph
 can just be thought of a two tidy data sets. And also, another kind of
 thing that hasn't really materialized, but we're talking about, that
-this activate() have more general capabilities than just in the graph
+this `activate()` have more general capabilities than just in the graph
 context. So, you could easily think about having a tidy approach to
 working with databases. Because currently that's still just concerned
-with a single table in a database. But with activate() you can have this
+with a single table in a database. But with `activate()` you can have this
 connection to your database and you just activate the different tables,
 work with them. So it would be a more kind of a universal approach to
 that. So that's why we ended there. But I hadn't made any code at that
@@ -277,17 +266,17 @@ add attributes and stuff to your network, but really want to use is the
 network structure for something more than just being there. You want to
 add centralities. You want to have ways to do searches in your graph and
 so on. And how would that translate into something that fit into
-mutate()? Because that's really how you add information in a tidy way.
+`mutate()`? Because that's really how you add information in a tidy way.
 So you want all algorithms to return vectors.
 
 And you wanted the vectors to match with the order of the nodes and
 edges and so on. And then it just kinda became apparent, well, you don't
 really want to specify, "I want this algorithms for these nodes of this
-graph." Inside mutate() that part is there already. And then, because we
-have the n() function in dplyr it is kind of the same as the tidygraph
+graph." Inside `mutate()` that part is there already. And then, because we
+have the `n()` function in dplyr it is kind of the same as the tidygraph
 algorithms, in the sense that it knows its context.
 
-n() knows where it's called from, so it will always just give the number
+`n()` knows where it's called from, so it will always just give the number
 of rows. And it was kind of the schematics that was going forward. You
 know, when you're inside mutate, you know the graph, you know which node
 or edges you're working with, so you don't...you shouldn't need to
@@ -405,9 +394,9 @@ impressed how they can use code to generate impressive or intriguing
 visualization. Not in the sense of a data visualization, but just
 visualizing something. So I got into that, and I have a package not yet
 on CRAN called [particles](https://github.com/thomasp85/particles) (on [CRAN](https://cran.r-project.org/web/packages/particles/index.html) now), which is an implementation of
-the d3-force algorithm and then some. But, more generally, it's just a
+the D3-force algorithm and then some. But, more generally, it's just a
 framework for handling particle interactions, and forces, and
-constraints in a system. And I kind of did that partly because d3-force
+constraints in a system. And I kind of did that partly because D3-force
 would be nice to have in ggraph but also, partly, because I wanted an
 outlet for experimenting with setting up systems that generate something
 interesting. And a lot of the things that I have posted on my generative
@@ -428,7 +417,7 @@ a tool that helped me make it, and I also built a tool that helped me
 put it on paper, and program it." So it's kind of nice. And it's a nice
 way to have an outlet for this creativity that I feel I have inside.
 That when I develop packages that are not purely kind of artistic or
-visual in the sense that it can still help me persuing that.
+visual in the sense that it can still help me pursue that.
 
 And then I have all the stickers and logos, which is kind of my little
 vise of doing at least some graphic design, which I really enjoy. It's
@@ -476,15 +465,7 @@ to the architect that drew the building. And fantastic photography of
 nature is a compliment to Mother Nature. And sometimes it feels like
 every nice spot has been photographed, like, a million times. So the
 feeling of "this is new, this is just me, this is purely me" can be
-difficult to achieve in photography as well.
-
-**Nick: **
-
-**Yeah, I agree.**
-
-Thomas:
-
-You have the immediateness, but you don't have the same sense of
+difficult to achieve in photography as well. You have the immediateness, but you don't have the same sense of
 uniqueness.
 
 **Nick**:
@@ -530,7 +511,7 @@ R. So for me, R really expressive, because it's what my programming mind
 is wired to. So if I decompose a problem, I will decompose it into R.
 
 I think that the second language that I'm mainly familiar with is
-JavaScript because I do some d3 as well. But the vectorized idea of R
+JavaScript because I do some D3 as well. But the vectorized idea of R
 really sticks with me. And when I think about problems, I predominantly
 think about data. That's also why I don’t particularly like Python,
 because I don't think data is particularly elegant, even with pandas and
@@ -551,15 +532,7 @@ Thomas:
 Yeah. And we care about how it looks. It's really an important thing.
 It's not so much about algorithms and how they are implemented. Of
 course, that can have a huge effect, but as a user, as a programmer, we
-want to take care of our data. We are data scientists.
-
-**Nick: **
-
-**Yeah.**
-
-Thomas:
-
-We're not algorithm, we're not computer scientists. We're data
+want to take care of our data. We are data scientists. We're not algorithm, we're not computer scientists. We're data
 scientists. We care about our data.
 
 **Nick: Yeah. Awesome. Okay, can you describe a typical day in your
@@ -577,44 +550,12 @@ We'll have breakfast together.
 And I will either drop them off or my wife will drop them off at
 daycare. And then I will go to work. I will probably either just sit by
 and empty my head or I'll do some R programming on the commute. I take
-the train so I can sit there and fix stuff up.
-
-**Nick**:
-
-**Hmm, that's cool, being able to do some work on the commute**
-
-Thomas:
-
-Then I'll get to work, and my mind will be in what we talked about, so I
+the train so I can sit there and fix stuff up. Then I'll get to work, and my mind will be in what we talked about, so I
 will develop. I will continue developing R packages and whatever, but,
 of course, in a different context. I'll be to not that many meetings,
 but in my mind, sometimes too many meetings. Our group is rather young
-group and we're really fond of tabletop football.
-
-**Nick: **
-
-**Oh, cool! **
-
-Thomas:
-
-So we built a shiny app to keep track of our ranking, powered by the
-Xbox ranking algorithm (TrueSkill).
-
-**Nick**:
-
-**Oh, that's awesome.**
-
-Thomas:
-
-So, yeah. Kind of a nerdy take on it.
-
-**Nick:**
-
-**That is so cool.**
-
-Thomas:
-
-So we have a game during the day and have some nice talks. I'll get
+group and we're really fond of tabletop football. So we built a shiny app to keep track of our ranking, powered by the
+Xbox ranking algorithm (TrueSkill). We have a game during the day and have some nice talks. I'll get
 home, probably begin preparing dinner, and, yeah.
 
 That’s a standard family kind of day. Pick up the kids, potentially.
@@ -681,22 +622,14 @@ that kind of had a bit of feature creep, but not that much.
 
 Then, I really want to make a package wrapping the SNAP library, which
 is a C++ network analysis library. Focused on very high performance.
-Nothing bad about iGraph, but SNAP is really designed to work with
+Nothing bad about igraph, but SNAP is really designed to work with
 networks the size of 100,000 nodes and billions of edges, so it's really
 cool.
 
-David Robinson has also kindly asked me to take over gganimate, which I
+David Robinson has also kindly asked me to take over **gganimate**, which I
 have sort of agreed on, on the terms that I rewrite it completely.
 Because I have some different thoughts on how the best API is going to
-be.
-
-And then I want to write books. I say that a lot.
-
-**Nick**:
-
-**Yeah. Oh, cool.**
-
-Thomas:
+be. And then I want to write books. I say that a lot.
 
 So I think, just around New Year, I made three GitHub repositories for
 three books I want to write. I will never know if...or at some point I
@@ -723,27 +656,21 @@ But a book will be much more than that.
 
 Thomas:
 
-Yeah, so I would like to write a ggplot 2 book. There is a lot of ggplot
-2 books. The reason for this one would be I think ggplot 2 is an amazing
+Yeah, so I would like to write a ggplot2 book. There is a lot of ggplot2 books. 
+The reason for this one would be I think ggplot2 is an amazing
 piece of work, like the code. It's evolved code over a long time, so it
 has not necessarily completely beautiful source code to read, but it's a
 fantastic example of a really, really involved package, where you just
 have, like, a huge system that interacts with each other.
 
-So what I would like to write is actually the mechanics of ggplot 2,
+So what I would like to write is actually the mechanics of ggplot2,
 what actually happens. Not how do you build a plot, but what happen when
 you press enter. Where does your data flow through? Both as a kind of an
 example of a complex R package, how would you approach this problem, but
 also just I feel there is a lot of people that actually want to build
 ggplot2 extensions but it's daunting to kind of poke at.
 
-**Nick**:
-
-**It is.**
-
-Thomas:
-
-And I would like to kind of have a book that really described the nerdy,
+I would like to kind of have a book that really described the nerdy,
 underlying, nitty-gritty details. Not for one that just want to make
 plots, but want to know how this work. So that's one of them. The other
 is I want to write a book about [tidygraph](https://github.com/thomasp85/tidygraph) and [ggraph](https://github.com/thomasp85/ggraph), like a tidy
@@ -758,20 +685,10 @@ and [reqres](https://github.com/thomasp85/reqres) right now, which kind of exten
 add additional functionality. And I would like to write a book about
 back end server architecture, seen from the R perspective.
 
-**Nick: Okay.**
-
-Thomas:
-
 So both because R programmers are not back end developers, they are not
 necessarily very well versed in how the internet works underneath. I
 wasn't, either. I decided to write a server framework so I could learn
 how.
-
-**Nick: **
-
-**That's cool. Wow.**
-
-Thomas:
 
 So, I would like to write a book about just explaining how does the
 internet work. How can you exploit that in R? Both from fiery point of
