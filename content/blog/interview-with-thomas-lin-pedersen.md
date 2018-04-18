@@ -336,7 +336,7 @@ So, I have a lot of favorite R packages, but the ones I use the most are
 those kind of the underlying heroes. [Rcpp](https://github.com/RcppCore/Rcpp), [knitr](https://github.com/yihui/knitr), [rmarkdown](https://github.com/rstudio/rmarkdown) or [devtools](https://github.com/r-lib/devtools) and [roxygen](https://github.com/klutometis/roxygen). They are fantastic.
 
 **Nick: Many of your public R postings have an artistic flavor. Do you explore
-your artistic side using other mediums? **
+your artistic side using other mediums?**
 
 Thomas: Every time I've been asked, "If you weren’t doing what you were now,
 what would you be doing?" My go-to answer is I would be a photographer
@@ -380,9 +380,7 @@ I do now?"
 
 **Nick: It's really hard when you don't have a starting point!**
 
-Thomas:
-
-Yeah. So, it’s really nice to have this idea that I want to have some
+Thomas: Yeah. So, it’s really nice to have this idea that I want to have some
 kind of logo or some kind of visual identity for some of my packages,
 and I can just sit down and fiddle with it. I would like to get more
 into drawing as well. I haven't really had much time for that, but it'd
@@ -439,9 +437,7 @@ It's kind of still difficult for me to put myself in a role.
 numerous times from other people who are very good at R programming.
 Oftentimes they're the only R programmer, or one of a few in an area.
 And it's sort of interesting to see they're by themselves but there's
-this community around them that helps them or gives them drive. **
-
-**OK, next question. What is your favorite thing about R?**
+this community around them that helps them or gives them drive. OK, next question. What is your favorite thing about R?**
 
 Thomas: I love the expressiveness. R is also my first language. So I think
 people, unless they're kind of multilingual in an extreme sense, then
