@@ -12,26 +12,18 @@ January, 2018. Some things cannot be translated from audio to text - and
 one thing that was hard to fully capture is Thomas’s upbeat, friendly,
 and positive attitude about just about everything.*
 
-**Nick: **
+**Nick: What is your name and occupation, and where do you live?**
 
-**What is your name and occupation, and where do you live?**
-
-Thomas:
-
-My name is [Thomas Lin Pedersen](https://www.data-imaginist.com/). I live in Denmark, and am currently
+Thomas: My name is [Thomas Lin Pedersen](https://www.data-imaginist.com/). I live in Denmark, and am currently
 working at [SKAT](https://skat.dk/), the Danish taxation authority, where I’m developing
 tools for our other data scientists. I don’t do a lot of modelling
 myself, but I make sure the framework and the pipeline is up and
 running, so that is really really cool.
 
-**Nick:**
-
-**That’s awesome, so you’re writing tools for other people to use, and
+**Nick: That’s awesome, so you’re writing tools for other people to use, and
 thinking about the framework.**
 
-Thomas:
-
-Yeah, so it’s actually a really really interesting place to be at the
+Thomas: Yeah, so it’s actually a really really interesting place to be at the
 moment. We have access to all this data about everyone in Denmark and
 are in the center of everything that comes through the Danish
 government.
@@ -69,18 +61,14 @@ constrain our model developers to say - you can only use these two or
 three models, otherwise we are going to be hurt by this legal
 requirement.
 
-**Nick:**
-
-**That’s a really interesting approach! I have heard this has happened
+**Nick: That’s a really interesting approach! I have heard this has happened
 in other companies, where they’ve had to pull out certain models that
 they want to use, which to them makes them feel like they are developing
 a product that is "less good". So, it’s interesting to hear that the
 answer to that CAN be in software and it can be in an analytical
 framework. Because [lime](https://github.com/thomasp85/lime) uses some metamodelling framework.**
 
-Thomas:
-
-That’s right, lime does add some overhead. But, if you have full
+Thomas: That’s right, lime does add some overhead. But, if you have full
 reproducibility in your framework, then you can reproduce the
 prediction, and then you can run lime on request, because lime itself is
 quite heavy --- you are training a model to fit for every observation,
@@ -100,15 +88,11 @@ solve a problem? And if that problem entails an explainable part, well
 then that’s part of the problem spec, and we’re going to solve it in the
 best way we can.
 
-**Nick:**
-
-**It is nice to have some grounding - what does this work actually mean,
+**Nick: It is nice to have some grounding - what does this work actually mean,
 and who is using it. That is really cool.** **OK, so, how did you first
 hear about R, and when did you start using it?**
 
-Thomas:
-
-So during my bachelor degree, the university I went to had decided a few
+Thomas: So during my bachelor degree, the university I went to had decided a few
 years before that they were going to use R, as their framework for doing
 the base level statistics and mathematics. So, the first mathematics
 course that we had, we were introduced to R. And everyone hated it. Because, well, it’s a capable calculator, but for
@@ -151,14 +135,10 @@ So, it preps you well for working onwards with R. Also, that’s
 the feeling I’ve had when doing all this other stuff with ggplot2, it
 didn’t feel so bad.
 
-**Nick:**
-
-**You are renowned for rapid development of R packages. Are there any
+**Nick: You are renowned for rapid development of R packages. Are there any
 tools or methodologies you attribute this ability to?**
 
-Thomas: 
-
-I think I had this discussion with [Miles McBain](http://milesmcbain.xyz/).
+Thomas: I think I had this discussion with [Miles McBain](http://milesmcbain.xyz/).
 I don't know if I'm renowned, but it's true that I'm
 probably rather productive in the sense of publishing R packages. I'm
 horribly unstructured, and I have no system at all. People should not
@@ -184,15 +164,11 @@ evening, because, more or less, everything I do is spare time. I have a
 limited amount of time in front of my computer, self-imposed, of course.
 I could ignore my family but I don't want to do that.
 
-**Nick: **
-
-**Yeah, it's funny. At least to me, like, a lot of time, you know, I
+**Nick: Yeah, it's funny. At least to me, like, a lot of time, you know, I
 could still be in the shower and be like "ah, okay. I could try things
 this way".**
 
-Thomas:
-
-So I think that's my "methodology". Then, I think I'm a rather creative
+Thomas: So I think that's my "methodology". Then, I think I'm a rather creative
 person. If I get a good idea,
 it can rummage in my head for a long time, maybe subconsciously. Like, I
 wouldn't think about it, but then, at some point, it would be so
@@ -212,9 +188,7 @@ you have any thoughts or processes that you go through to develop an
 API? Because I feel like that's... So, like, say, for example, with
 ggraph, or tidygraph, did it take a lot of time to arrive at that?**
 
-Thomas:
-
-It probably did. And I do think about it. When I was in academia, when I
+Thomas: It probably did. And I do think about it. When I was in academia, when I
 wanted to describe my academic goals, it was really to make human data
 interfaces. This is all about API, sometimes about visualizations. But
 APIs and visualization, they are both just interfaces to your data.
@@ -286,9 +260,7 @@ specify these.
 pseudo-code for the first pass, and then you sort of work backwards from
 there?**
 
-Thomas: No. Well, I sometimes call a function I haven't defined yet.
-
-Thomas: So I think, for a long time, I was becoming better and better at
+Thomas: No. Well, I sometimes call a function I haven't defined yet. So I think, for a long time, I was becoming better and better at
 not writing a function in a thousand lines, but multiple small
 functions. And the process at the start was to have a long function, and
 then take out code chunks into their own functions. Now, I'm more like I
@@ -306,9 +278,7 @@ mean, I'm always writing a plain R code.
 time doing the small stuff. Once you get practiced with this, you can
 think more broadly about how to solve a task more broadly.**
 
-Thomas:
-
-Yeah, so first you write a horribly long function and you find out that
+Thomas: Yeah, so first you write a horribly long function and you find out that
 that's not a really good idea. And then, the next time, you write a new
 package or a new function, you might start with a thousand line, but
 then you say, "Well, this kinda fits together so we'll refactor it".
@@ -323,14 +293,10 @@ number of files, and "which functions should go where" just in my head,
 and I can just kind of begin materializing these thoughts without
 planning it.
 
-**Nick**:
-
-**Wow, that is amazing, thank you. Changing topic now, have you been to
+**Nick: Wow, that is amazing, thank you. Changing topic now, have you been to
 Australia before?**
 
-Thomas:
-
-No, I have not. But I'm really looking forward to! When I was a kid, I
+Thomas: No, I have not. But I'm really looking forward to! When I was a kid, I
 was traveling in France with my parents a lot, so I've been all over
 France and lying in tents, camping. I've filled out a lot of blanks in
 Europe as well. But I've never really been that much around the globe.
@@ -340,9 +306,7 @@ conferences. Now I'm going to Australia, so that's really cool.
 
 **Nick:** **I was gonna ask, do you have any favorite R packages?**
 
-Thomas:
-
-I think [ggplot2](https://github.com/tidyverse/ggplot2) is probably an obvious answer for me, because a lot of
+Thomas: I think [ggplot2](https://github.com/tidyverse/ggplot2) is probably an obvious answer for me, because a lot of
 my tools are built on top of that. I'm more of a developer than an R
 user. I also use R to solve problems, but being a toolmaker rather than
 a tool user kind of gives you another appreciation of some of the
@@ -352,17 +316,13 @@ gone into writing compiled code had it not been for Rcpp. So these are
 kind of the hidden heroes of R packages. But, if you're just a user, you
 wouldn't really care about them.
 
-**Nick**:
-
-**I feel like I don't appreciate Rcpp as much as I should, because I've
+**Nick: I feel like I don't appreciate Rcpp as much as I should, because I've
 never written C++ code outside of R, and when I did do it, I had to run
 a function on pairs of values in matrices, it wasn’t very complex, and
 it kind of "just worked". I feel like the elegance of everything that
 was going on was really what stunned me, because it was too easy.**
 
-Thomas:
-
-It just shows the greatness of the team around Rcpp. I have not had any
+Thomas: It just shows the greatness of the team around Rcpp. I have not had any
 formal programming training at all. So, the fact that I can get in and
 get comfortable, at least writing rudimentary C++ code, and go "that
 didn't feel so bad, let’s dive in a bit deeper". That's a huge win for a
@@ -375,14 +335,10 @@ that makes the whole compiling step just happens kind of automatically.
 So, I have a lot of favorite R packages, but the ones I use the most are
 those kind of the underlying heroes. [Rcpp](https://github.com/RcppCore/Rcpp), [knitr](https://github.com/yihui/knitr), [rmarkdown](https://github.com/rstudio/rmarkdown) or [devtools](https://github.com/r-lib/devtools) and [roxygen](https://github.com/klutometis/roxygen). They are fantastic.
 
-**Nick**:
-
-**Many of your public R postings have an artistic flavor. Do you explore
+**Nick: Many of your public R postings have an artistic flavor. Do you explore
 your artistic side using other mediums? **
 
-Thomas:
-
-Every time I've been asked, "If you weren’t doing what you were now,
+Thomas: Every time I've been asked, "If you weren’t doing what you were now,
 what would you be doing?" My go-to answer is I would be a photographer
 or graphic designer. I have an artistic side, or a graphic side, at
 least. I've been taking a lot of photographs when I was younger, I hope
@@ -403,15 +359,11 @@ interesting. And a lot of the things that I have posted on my generative
 art has been based on particles, mainly, but also, of course, a lot of
 other packages has helped to put that on paper, in a sense.
 
-**Nick**:
-
-**That's really cool. So it's like there's this awesome meta aspect to
+**Nick: That's really cool. So it's like there's this awesome meta aspect to
 this, you want to make art, but to do that, you have to create the tools
 so you can make art.**
 
-Thomas:
-
-Yeah, that's kind of it. It's fun to be able to say that, "Well, I made
+Thomas: Yeah, that's kind of it. It's fun to be able to say that, "Well, I made
 the algorithm, or I made the system that defines this, but I also built
 a tool that helped me make it, and I also built a tool that helped me
 put it on paper, and program it." So it's kind of nice. And it's a nice
@@ -426,9 +378,7 @@ designer that are handed assignments, then it can be difficult to just
 sit down in front of Illustrator or whatever and say, "Well, what should
 I do now?"
 
-**Nick:**
-
-**It's really hard when you don't have a starting point!**
+**Nick: It's really hard when you don't have a starting point!**
 
 Thomas:
 
@@ -444,9 +394,7 @@ when you're doing it with code because you can write it out and see it
 happen. It's different to have that in a more, I guess, like, permanent
 sense.**
 
-Thomas:
-
-Yes. I get it a bit with the generative work that I'm doing. But there's
+Thomas: Yes. I get it a bit with the generative work that I'm doing. But there's
 still this kind of surprise, even for me, because there's a certain
 randomness built into my algorithm. So I define the system, and I have
 some expectancies about what it will show - I'm putting boundaries,
@@ -468,14 +416,10 @@ feeling of "this is new, this is just me, this is purely me" can be
 difficult to achieve in photography as well. You have the immediateness, but you don't have the same sense of
 uniqueness.
 
-**Nick**:
-
-**OK, changing topic, how do you see your role in the R community, if
+**Nick: OK, changing topic, how do you see your role in the R community, if
 you were to put a name on it?**
 
-Thomas:
-
-Well, I'm a developer of tools. I'm surprised that people care about
+Thomas: Well, I'm a developer of tools. I'm surprised that people care about
 what I do, I would say, and it continues to surprise me. I'm surprised
 that you invited me as keynote speaker. That blew my mind. So my role
 would be a "surprised developer in the corner". I think I'm quite active
@@ -491,9 +435,7 @@ still kind of a guy that has an idea and makes a package. And then,
 people care, somehow. And that's great, of course, but I don't know.
 It's kind of still difficult for me to put myself in a role.
 
-**Nick:**
-
-**I think it is always hard to define that role. I've heard this
+**Nick: I think it is always hard to define that role. I've heard this
 numerous times from other people who are very good at R programming.
 Oftentimes they're the only R programmer, or one of a few in an area.
 And it's sort of interesting to see they're by themselves but there's
@@ -501,9 +443,7 @@ this community around them that helps them or gives them drive. **
 
 **OK, next question. What is your favorite thing about R?**
 
-Thomas:
-
-I love the expressiveness. R is also my first language. So I think
+Thomas: I love the expressiveness. R is also my first language. So I think
 people, unless they're kind of multilingual in an extreme sense, then
 the first language always has special place in their heart. Especially
 if they continue to work with it. When I think programming, I think in
@@ -520,16 +460,12 @@ first-class citizen. I mean, I would even say that it's the main
 citizen. So you have data and then you can do stuff with it. For me,
 that's a really natural approach to doing data science.
 
-**Nick**
-
-**Yeah that makes sense. For me, I feel like R is all about data first.
+**Nick: Yeah that makes sense. For me, I feel like R is all about data first.
 There's this approach strongly reflected in the tidyverse about data
 being first. It's the first argument and it's the thing that comes out
 as well.**
 
-Thomas:
-
-Yeah. And we care about how it looks. It's really an important thing.
+Thomas: Yeah. And we care about how it looks. It's really an important thing.
 It's not so much about algorithms and how they are implemented. Of
 course, that can have a huge effect, but as a user, as a programmer, we
 want to take care of our data. We are data scientists. We're not algorithm, we're not computer scientists. We're data
@@ -538,9 +474,7 @@ scientists. We care about our data.
 **Nick: Yeah. Awesome. Okay, can you describe a typical day in your
 life?**
 
-Thomas:
-
-Yeah. So, I will wake in the morning at around quarter past six. And I
+Thomas: Yeah. So, I will wake in the morning at around quarter past six. And I
 will get up, and I will try to wake my kids and my wife. We're kind of a
 sleepy family, so it's not our kids that wake us up. They have to be
 ruffled out of bed. Our family is particularly fond of eating together,
@@ -563,27 +497,19 @@ Make dinner for the kids. Put the kids to bed. Then I'll have a couple
 of hours to share with my wife, or just relax, or do R programming. So
 that's kind of it.
 
-**Nick**:
-
-**Great, that's cool. We play ping pong at work and a bit, but we
+**Nick: Great, that's cool. We play ping pong at work and a bit, but we
 haven't thought to have a ranking system, that sounds fun!**
 
-Thomas:
-
-So, we have a web app for the phone where you can say which four people
+Thomas: So, we have a web app for the phone where you can say which four people
 will play. And it will generate the teams, and will give a ranking to
 the potential outcome, and how many points will each person get,
 depending on whether they win or lose, and all this. And then will be
 put into our big board where you have all sorts of statistics.
 
-**Nick**:
-
-**That's awesome. Okay. Do you listen to music while you work or code?
+**Nick: That's awesome. Okay. Do you listen to music while you work or code?
 And if so, what sort of music?**
 
-Thomas:
-
-Yes, I do. I listen to a lot of music. It can be anything, really. I
+Thomas: Yes, I do. I listen to a lot of music. It can be anything, really. I
 remember having a Twitter discussion with someone about that. Like, that
 they wanted music without vocal in it, because it kind of distracts
 them. For me, it doesn't really matter. My mind get distracted by
@@ -605,14 +531,10 @@ type of music is everything. I listen to a lot of hip-hop, and a lot of
 electronic music, and rock, and indie, and whatever. So, really, kind of
 broad spectrum.
 
-**Nick**:
+**Nick: Is there anything particularly exciting that you're working on at the
+moment for 2018?**
 
-Is there anything particularly exciting that you're working on at the
-moment for 2018?
-
-Thomas:
-
-So **patchwork** was never meant to be more than a tech demo, but it
+Thomas: So **patchwork** was never meant to be more than a tech demo, but it
 kind of caught on and people seem to be really happy about it. So it's
 almost done, more or less. It's just a lot of my packages are waiting
 for the next ggplot version to be released. So that's just kind of
@@ -640,9 +562,7 @@ packages.
 **Nick: Mm-hmm, sometimes, they can inform each other. Like, as you
 flesh out an idea, you start getting better at it.**
 
-Thomas:
-
-Absolutely, absolutely. No doubt about it. It's just, it's a big
+Thomas: Absolutely, absolutely. No doubt about it. It's just, it's a big
 project. I mean, I blog a bit. Usually, my blog is just package
 announcement right now. I begin to think that my blog will just be that,
 because other people are good at making kind of tutorial blogs, and
@@ -650,13 +570,9 @@ that's not...I'm not as good at that, but I'm good at writing R
 packages. So maybe it's just going to be a collection of announcements.
 But a book will be much more than that.
 
-**Nick**:
+**Nick: So you said three books?**
 
-**So you said three books?**
-
-Thomas:
-
-Yeah, so I would like to write a ggplot2 book. There is a lot of ggplot2 books. 
+Thomas: Yeah, so I would like to write a ggplot2 book. There is a lot of ggplot2 books. 
 The reason for this one would be I think ggplot2 is an amazing
 piece of work, like the code. It's evolved code over a long time, so it
 has not necessarily completely beautiful source code to read, but it's a
@@ -696,6 +612,4 @@ view, but also going to [OpenCPU](https://www.opencpu.org/), and [shiny](http://
 tools, and discuss what the differences are, when you want to use one,
 and the other.
 
-**Nick**:
-
-That's so cool. I think that's it. Thank you for your time!
+**Nick: That's so cool. I think that's it. Thank you for your time!**
