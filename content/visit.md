@@ -38,3 +38,32 @@ North Stradbroke Island is a place to exhale. Spend a day, a week or a month her
 # Pampering
 Enjoy a relaxing day out commencing with an exquisite high tea at Stamford Plaza, followed by a trip out to Sirromet winery for a wine tasting tour and lunch overlooking the scenic countryside. Or try your hand at learning some culinary skills at James Street Cooking School and enjoy your hand-made feast of fresh Australian seafood and produce afterwards. Alternatively enjoy being pampered with a relaxing massage or mud therapy treatment at the luxurious Stephanies Spa Retreat, or shop until you drop in our premier shopping precinct in the Queen Street Mall with VIP private experiences such as a pearl lesson at Paspali Pearls or a luggage packing class at Louis Vuitton.  Recommended by visitor centre. 
 
+# Shopping
+
+[Queen Street Mall](https://www.visitbrisbane.com.au/the-city/things-to-do/shopping/queen-street-mall?sc_lang=en-auX)
+
+This vibrant shopping and lifestyle precinct lies at the heart of Brisbane City and is arguably Australia's most successful pedestrian mall, playing host to over 26 million visitors a year. 
+
+The Queen Street Mall offers an unrivalled mix of local, national and international labels and flagship stores. More than 700 retailers have made their homes here - many enjoy mall and street frontage, others are tucked away inside world-class centres and heritage-listed arcades. Queens Plaza, the latest jewel in the Queen Street Mall crown, is a must visit. Other long-time favourites include Wintergarden, Broadway on the Mall, the magnificent and historically significant Brisbane and Tattersall's Arcades, Queen Adelaide Building, MacArthur Central and The Myer Centre. 
+
+The Queen Street Mall is not merely the state's shopping hotspot, it has long been considered Brisbane's city heart; the place you head with friends and family if it's fun and entertainment you seek. Over 1,000 events take place throughout Queen Street Mall each year. In addition, there is a cinema and casino right on the Mall, and parklands, museums, galleries, salons, day spas, restaurants and bars can be found in the surrounding Brisbane City streets. 
+
+# Art and Culture
+
+South Bank is Brisbane’s cultural epicentre with a thriving precinct of dedicated, world-class theatre, arts and educational institutions. [Find out more](https://www.visitbrisbane.com.au/South-Bank/Things-to-do/Art-and-Culture-in-South-Bank)
+
+# Tours
+
+Take a segway tour along the river, or go for a paddle. [There are lots of adventure tours available.](https://riverlife.com.au)
+
+[Climb the bridge for a fabulous view of Brisbane.](https://storybridgeadventureclimb.com.au)
+
+# Quench your thirst
+
+From drinking cocktails on rooftop bars to sinking beers and billiards in underground music dens – Brisbane City offers no shortage of variety in its nightlife.
+
+During the week, knock off for aperritivo, on Fridays kick on with co-workers and on weekends come in with a date for riverside drinks. Raise your glass to the 5.01pm club! [Great places to unwind with a drink ](https://www.visitbrisbane.com.au/the-city/news/after-work-drinks-in-brisbane-cbd?sc_lang=en-au)
+
+Whether you judge a coffee shop by its machine, the length of a barista’s beard, single origin offering or variety of brew methods – let’s face it, Australians are total coffee snobs. When it comes to good coffee, Brisbane knows its stuff and if you hate to be disappointed – stick to the below list and we promise you’ll be in safe, coffee-tamping hands.
+
+[These are among Brisbane’s best coffee shops.](https://www.visitbrisbane.com.au/information/articles/eat-and-drink/best-coffee-brisbane?sc_lang=en-au)
