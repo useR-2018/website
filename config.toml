@@ -76,7 +76,7 @@ paginate = 10
 
 [[menu.main]]
     parent = "Travel"
-    name = "Visit Brisbane"
+    name = "Things to do"
     url  = "/visit/"
     weight = 3
 
@@ -84,13 +84,13 @@ paginate = 10
     parent = "Travel"
     name = "Hotels"
     url  = "/hotels/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     parent = "Travel"
-    name = "Flights"
+    name = "Travel to/from/around"
     url  = "/travel/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "FAQ"
