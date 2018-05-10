@@ -39,6 +39,11 @@ paginate = 10
     url = "/tutorials/"
 
 [[menu.main]]
+    parent = "Programme"
+    name = "Datathon"
+    url = "/datathon/"
+
+[[menu.main]]
     name = "Registration"
     weight = 3
 
