@@ -11,7 +11,7 @@ title = "Tutorials"
   <th>Presenter</th>
   <th>Title</th>
   <th>Target audience</th>
-  <tr><th colspan="4">Tuesday Morning 9:00-12:30 </th></tr>
+  <tr><th colspan="4">Tuesday Morning 9:00-12:30 </th> <th> Break 10:30-11:00 </th> </tr>
   <tr class="clickable" data-toggle="collapse" id="68" data-target=".68collapsed">
     <td>Paula Moraga</td>
     <td>Disease risk modeling and visualization using R</td>
@@ -79,7 +79,7 @@ title = "Tutorials"
     <td colspan="4"><p>Rvest from Hadley Wickham has become the go to package for all online collection or website interaction (web-scraping) tasks in R. Although the package is amazing, it is not able to interact with a webpage when the page is dynamically loaded through javascript. For the latter, we need to have a browser that we 'drive' around the website to collect/load and interact with objects. Welcome to Rselenium from John Harrison. The package provides the necessary tools that allows the user to drive a web-browser, from R using script commands. In this tutorial, we will be looking at installing RSelenium, learning basic commands, look at javascript tips and how to play well with others like rvest.
     </p></td>
   </tr>
-  <tr><th colspan="4">Tuesday Afternoon 1:30-5:00 </th></tr>
+  <tr><th colspan="4">Tuesday Afternoon 1:30-5:00 </th> <th> Break 3:00-3:30 </th> </tr>
   <tr class="clickable" id="78" data-toggle="collapse" data-target=".78collapsed">
     <td>Thomas Lumley</td>
     <td>fasteR: ways to speed up R code</td>
@@ -138,7 +138,7 @@ examples.
     <td colspan="4"><p>The topics covered in this workshop include; an introduction to 1) using R as a GIS (5 minutes), 2) point-type data (5 minutes), and 3) raster data (5 minutes). We will then build on the basic knowledge of using R as a GIS by creating raster data (10 minutes) and exploring its basic features (10 minutes). After that we will import raster data into R (10 minutes) and begin to manipulate its extent, resolution, projection and values (45 minutes) and visualise the data (15 minutes). After the group is comfortable with editing the features of raster data we will discuss summarising raster data using point data (45 minutes). Finally, we will use this summarised data in a simple generalised linear model (45 minutes). The outline in dot-points follows. Times are rough estimates.
     </p></td>
   </tr>
-  <tr><th colspan="4">Wednesday Morning 9:00-12:30 </th></tr>
+  <tr><th colspan="4">Wednesday Morning 9:00-12:30 </th><th> Break 10:30-11:00 </th> </tr>
   <tr class="clickable" id="76" data-toggle="collapse" data-target=".76collapsed">
     <td>Julie Josse</td>
     <td>Missing values imputation</td>
