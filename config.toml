@@ -27,21 +27,25 @@ paginate = 10
     parent = "Programme"
     name = "Scientific Programme"
     url = "/scientific/"
+    weight = 1
 
 [[menu.main]]
     parent = "Programme"
     name = "Social Programme"
     url = "/social/"
+    weight = 3
 
 [[menu.main]]
     parent = "Programme"
     name = "Tutorials"
     url = "/tutorials/"
+    weight = 2
 
 [[menu.main]]
     parent = "Programme"
     name = "Datathon"
     url = "/datathon/"
+    weight = 4
 
 [[menu.main]]
     name = "Registration"
