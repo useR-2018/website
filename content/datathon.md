@@ -44,4 +44,4 @@ The web site also has:
 - The spatial portal has several case studies of using the portal, access to spatial layers describing the environment.
 - A technical overview of how the ALA processes and manages data quality issues, at (https://www.ala.org.au/uncategorised/data-processing/) and (https://www.ala.org.au/who-we-are/how-we-integrate-data/data-quality-assurance/).
 
-[A pdf copy of the competition is here](img/datathon.pdf)
+[A pdf copy of the competition is here](https://user2018.r-project.org/img/datathon.pdf)
