@@ -2,7 +2,7 @@
 title = "Data challenge"
 +++
 
-Can you tell us something original and surprising about biodiversity in Australia? The Aus- tralian region has a large number of species that occur nowhere else in the world. In Australia, there are regions with many unique species. Where are these regions? Do lyrebirds and gang gang cockatoos occur in the same area?
+Can you tell us something original and surprising about biodiversity in Australia? The Australian region has a large number of species that occur nowhere else in the world. In Australia, there are regions with many unique species. Where are these regions? Do lyrebirds and gang gang cockatoos occur in the same area?
 
 # The data
 
