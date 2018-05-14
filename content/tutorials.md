@@ -64,10 +64,48 @@ title = "Tutorials"
   <tr class="clickable" data-toggle="collapse" id="80" data-target=".80collapsed">
     <td>Przemyslaw Biecek </td>
     <td>DALEX: Descriptive mAchine Learning EXplanations.  Tools for exploration, validation and explanation of complex machine learning models</td>
-    <td>TBA</td>
+    <td>Applied data scientists, analysts interested in machine learning models.</td>
   </tr>
   <tr class="collapse out budgets 80collapsed">
-    <td colspan="4"><p>TBA
+    <td colspan="4"><p>Complex machine learning models are frequently used in predictive modelling. There are a lot of examples for random forest like or boosting like models in medicine, finance, agriculture etc.
+In this workshop we will show why and how one would analyse the structure of the black-box model.
+<p>
+This will be a hands-on workshop with four parts. In each part there will be a short lecture (around 20-25 minutes) and then time for practice and discussion (around 20-25 min).
+<p>
+* Introduction
+<p>
+Here we will show what problems may arise from blind application of black-box models. Also we will show situations in which the understanding of a model structure leads to model improvements, model stability and larger trust in the model.
+<p>
+During the hands-on part we will fit few complex models (like xgboost, randomForest) with the mlr package and discuss basic diagnostic tools for these models.
+<p>
+* Conditional Explainers
+<p>
+In this part we will introduce techniques for understanding of marginal/conditional response of a model given a one- two- variables.
+We will cover PDP (Partial Dependence Plots) and ICE (Individual Conditional Expectations) packages for continuous variables and MPP (Merging Path Plot from factorMerger package) for categorical variables.
+<p>
+* Local Explainers
+<p>
+In this part we will introduce techniques that explain key factors that drive single model predictions. This covers Break Down plots for linear models (lm / glm) and tree-based models (randomForestExplainer, xgboostExplainer) along with model agnostic approaches implemented in the live package (an extension of the LIME method).
+<p>
+* Global Explainers
+<p>
+In this part we will introduce tools for global analysis of the black-box model, like variable importance plots, interaction importance plots and tools for model diagnostic.
+<p>
+* Literature
+<p>
+Staniak, Mateusz, and Przemysław Biecek. 2017. Live: Local Interpretable (Model-Agnostic) Visual Explanations.
+<p>
+Sitko, Agnieszka, and Przemyslaw Biecek. 2017. FactorMerger: Hierarchical Algorithm for Post-Hoc Testing. https://github.com/MI2DataLab/factorMerger.
+<p>
+Greenwell, Brandon M. 2017. “Pdp: An R Package for Constructing Partial Dependence Plots.” The R Journal 9 (1): 421–36. https://journal.r-project.org/archive/2017/RJ-2017-016/index.html.
+<p>
+Goldstein, Alex, Adam Kapelner, Justin Bleich, and Emil Pitkin. 2015. “Peeking Inside the Black Box: Visualizing Statistical Learning with Plots of Individual Conditional Expectation.” Journal of Computational and Graphical Statistics 24 (1): 44–65. doi:10.1080/10618600.2014.907095.
+<p>
+Apley, Dan. 2017. ALEPlot: Accumulated Local Effects (Ale) Plots and Partial Dependence (Pd) Plots. https://CRAN.R-project.org/package=ALEPlot.
+<p>
+Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. 2016. “‘Why Should I Trust You?’: Explaining the Predictions of Any Classifier.” In, 1135–44. ACM Press. doi:10.1145/2939672.2939778.
+<p>
+Biecek, Przemyslaw. 2017. BreakDown: BreakDown Plots. https://CRAN.R-project.org/package=breakDown.
     </p></td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="83" data-target=".83collapsed">
