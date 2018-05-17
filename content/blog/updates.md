@@ -17,7 +17,7 @@ description = "Lots of news and updates about progress with useR! 2018 planning.
 
 - Tutorials: The tutorials by Kevin Kuo, Thomas Lumley, Carson Sievert and Simon Jackson have reached max capacity. If you are just registering now and putting one of these as your first preference, you will get your second preference for the session.
 
-- Swag: Register by May 31 to receive the conference socks. T-shirts are included for everyone, but no guarantees on size if you register later than May 31. Sock design is [here]((https://user2018.r-project.org/img/socks_final.png). 
+- Swag: Register by May 31 to receive the conference socks. T-shirts are included for everyone, but no guarantees on size if you register later than May 31. Sock design is [here](https://user2018.r-project.org/img/socks_final.png). 
 
 - There is a long list of things to do in Brisbane and surrounds is on the web site's Travel menu. Its a terrific place to to hang out, eat, drink, see wildlife, go on side trips to the beach, and the reef and world heritage rainforests. 
 
