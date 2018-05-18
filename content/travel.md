@@ -11,7 +11,7 @@ The airport is serviced by Brisbane’s airport rail link, Airtrain, which provi
 Promocode: UserR2018	
 Travel dates: 8-14 July 2018
 Tickets: $30 Return
-Only redeemable online at [www.airtrain.com.au](www.airtrain.com.au) 
+Only redeemable online at [https://airtrain.com.au](https://airtrain.com.au) 
 
 City Terms and Conditions: Valid for travel from the 8th July 2018 to 14th July 2018. Tickets are non-refundable and non-changeable. Your city ticket is valid for travel to and from all stations between the Airport and South Brisbane, including Eagle Junction, Wooloowin, Albion, Bowen Hills, Fortitude valley, Central and Roma Street stations. Children 14 years and under travel free to city stations when accompanied by a paying adult and using paper ticket or e-ticket purchased from www.airtrain.com.au.
 
