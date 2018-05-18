@@ -9,7 +9,7 @@ description = "Lots of news and updates about progress with useR! 2018 planning.
 
 - FREE Introductory R tutorial, Wed AM: RCurious will run free of charge for whoever is interested, and wants to upskill some before the conference fun starts. Following this there will be a newbies lunch, where you can match up with a conference buddy, if you would like. You still need to sign up for the tutorial, on the Programme menu there is a link to the sign up page. 
 
-- There is a data challenge with prizes. Tell us about Australia's biodiversity using the Atlas of Living Australia data. More information is on the Porgramme menu. 
+- There is a data challenge with prizes. Tell us about Australia's biodiversity using the Atlas of Living Australia data. More information is on the Programme menu. 
 
 - Discount AirTran tickets (to/from airport) are available with a code. Details are on the travel page.
 
