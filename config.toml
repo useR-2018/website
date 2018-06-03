@@ -31,27 +31,33 @@ paginate = 10
 
 [[menu.main]]
     parent = "Programme"
-    name = "Social Programme"
-    url = "/social/"
-    weight = 4
+    name = "Talk Schedule"
+    url = "/schedule/"
+    weight = 2
 
 [[menu.main]]
     parent = "Programme"
     name = "Tutorials"
     url = "/tutorials/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent = "Programme"
     name = "FREE Tutorial"
     url = "/rcurious/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     parent = "Programme"
     name = "Datathon"
     url = "/datathon/"
     weight = 5
+
+[[menu.main]]
+    parent = "Programme"
+    name = "Social Programme"
+    url = "/social/"
+    weight = 6
 
 [[menu.main]]
     name = "Registration"
