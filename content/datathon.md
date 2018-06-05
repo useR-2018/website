@@ -10,7 +10,7 @@ Can you tell us something original and surprising about biodiversity in Australi
 
 # The challenge
 
-The aim of the data challenge is to inform us about biodiversity in Australia, and find exotic patterns. Participants are encouraged to use graphics to convey their findings, and report the methods used to learn about the data. The final product should tell a story about the data, in the form of a paper, or electronic, poster. Building of web apps (e.g. shiny) for communicating the the findings is also encouraged.
+The aim of the data challenge is to inform us about biodiversity in Australia, and find exotic patterns. Participants are encouraged to use graphics to convey their findings, and report the methods used to learn about the data. The final product should tell a story about the data, in the form of a paper, or electronic, poster. Building of web apps (e.g. shiny) for communicating the findings is also encouraged.
 
 Entries can focus on any aspect of the data, and here are a few ideas to get you started:
 
@@ -35,7 +35,7 @@ The challenge is open to anyone who is registered for the conference, particular
 
 # Useful resources
 
-[ALA4R is an R nterface](https://github.com/AtlasOfLivingAustralia/ALA4R), where collections can be pulled based on common names like "red kangaroo". 
+[ALA4R is an R interface](https://github.com/AtlasOfLivingAustralia/ALA4R), where collections can be pulled based on common names like "red kangaroo". 
 
 The web site also has:
 
