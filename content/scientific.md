@@ -4,7 +4,7 @@ title = "Programme"
 
 useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [half-day tutorials Tuesday morning and afternoon, and Wednesday morning](https://user2018.r-project.org/tutorials/). Lunch, morning and afternoon teas are provided both days. The conference programme will begin after lunch on Wednesday, reception in the evening, and conference dinner Thursday evening. It will close late afternoon on Friday.
 
-Tentative conference programme. Paralle sessions, based on abstract keywords, will be grouped (roughly) into these themes: applications, models, algorithms, visualisation, community/education, bioinformatics.
+Tentative conference programme. Parallel sessions, based on abstract keywords, will be grouped (roughly) into these themes: applications, models, algorithms, visualisation, community/education, bioinformatics.
 
 <table id="reg-sum">
   <col width="60">
@@ -61,13 +61,13 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   <td> 2:00 </td> <td> Talks and lightning talks </td> <td> Parallel sessions (6) </td>
   </tr>
   <tr>
-  <td> 3:15 </td> <td> Afternoon tea </td> <td> </td>
+  <td> 3:00 </td> <td> Afternoon tea </td> <td> </td>
   </tr>
   <tr>
-  <td> 3:45 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
+  <td> 3:30 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
   </tr>
  <tr>
-  <td> 5:15 </td> <td> Break </td> <td> </td>
+  <td> 5:00 </td> <td> Break </td> <td> </td>
   </tr>
 <tr>
   <td> 6:00 </td> <td> Conference dinner </td> <td> John Mertic: How The Linux Foundation is enabling sustainable open source today </td>
@@ -98,13 +98,13 @@ Tentative conference programme. Paralle sessions, based on abstract keywords, wi
   <td> 2:00 </td> <td> Talks and lightning talks </td> <td> Parallel sessions (6) </td>
   </tr>
   <tr>
-  <td> 3:15 </td> <td> Afternoon tea </td> <td> </td>
+  <td> 3:00 </td> <td> Afternoon tea </td> <td> </td>
   </tr>
   <tr>
-  <td> 3:45 </td> <td> Keynote: Jenny Bryan </td> <td> TBD </td>
+  <td> 3:30 </td> <td> Keynote: Jenny Bryan </td> <td> TBD </td>
   </tr>
  <tr>
-  <td> 4:40 </td> <td> Closing </td> <td> </td>
+  <td> 4:30 </td> <td> Closing </td> <td> </td>
   </tr>
 </table>
 
