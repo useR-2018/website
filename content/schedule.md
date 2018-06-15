@@ -16,10 +16,9 @@ title = "Talk Schedule"
   <table id="reg-sum">
     <col width="40"> <col width="40"> <col width="40"> <col width=40"> <col width="280"> <col width="40">
     <th>Time</th> <th>Session</th> <th>Presenter</th> <th>Venue</th> <th>Title</th> <th>Keyworkds</th>
-
 <tr class="clickable" data-toggle="collapse" id="36" data-target=".36collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Shinichi Takayanagi</td>
   <td>TBD</td>
   <td>How LINE Corp Use R to Compete in a Data-Driven World</td>
@@ -40,7 +39,7 @@ We also introduce an overview of our R-related data analysis platform along with
 </tr>
 <tr class="clickable" data-toggle="collapse" id="63" data-target=".63collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Mahmoud Ahmed</td>
   <td>TBD</td>
   <td>cRegulome: An R package for accessing microRNA/transcription factor-gene expression correlations in cancer</td>
@@ -51,7 +50,7 @@ We also introduce an overview of our R-related data analysis platform along with
 </tr>
 <tr class="clickable" data-toggle="collapse" id="69" data-target=".69collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Miles McBain</td>
   <td>TBD</td>
   <td>An R pipeline for creating and hosting collaborative Web VR environments.</td>
@@ -67,7 +66,7 @@ Given this work is evolving rapidly, a poster would be the perfect tool to engag
 </tr>
 <tr class="clickable" data-toggle="collapse" id="6" data-target=".6collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Kim Ki-Yeol</td>
   <td>TBD</td>
   <td>Squamous cell carcinoma analysis with R</td>
@@ -78,7 +77,7 @@ Given this work is evolving rapidly, a poster would be the perfect tool to engag
 </tr>
 <tr class="clickable" data-toggle="collapse" id="95" data-target=".95collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Erika Siregar</td>
   <td>TBD</td>
   <td>AnalevR: An Interactive R-Based Analysis Environment for Utilizing BPS-Statistics Indonesia Data</td>
@@ -90,7 +89,7 @@ BPS provides the data and analysis service (including the R modules) which are h
 </tr>
 <tr class="clickable" data-toggle="collapse" id="111" data-target=".111collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Yan Holtz</td>
   <td>TBD</td>
   <td>From Data to Viz</td>
@@ -115,7 +114,7 @@ The complete decision tree is also available in a static version through a poste
 </tr>
 <tr class="clickable" data-toggle="collapse" id="148" data-target=".148collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Goknur Giner</td>
   <td>TBD</td>
   <td>Pathway-VisualiseR</td>
@@ -126,7 +125,7 @@ The complete decision tree is also available in a static version through a poste
 </tr>
 <tr class="clickable" data-toggle="collapse" id="183" data-target=".183collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Edgar Santos-Fernandez</td>
   <td>TBD</td>
   <td>ActisoftR: a toolbox for processing and visualizing scored actigraphy data.</td>
@@ -137,7 +136,7 @@ The complete decision tree is also available in a static version through a poste
 </tr>
 <tr class="clickable" data-toggle="collapse" id="186" data-target=".186collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Hannah Coughlan</td>
   <td>TBD</td>
   <td>Integration and visualisation of high throughput genomics data with R</td>
@@ -149,7 +148,7 @@ However, the techniques to study chromosome structure (Hi-C) are often limited b
 </tr>
 <tr class="clickable" data-toggle="collapse" id="188" data-target=".188collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Vipavee Trivittayasil</td>
   <td>TBD</td>
   <td>MovingBubbles : Animated d3 bubble chart</td>
@@ -162,7 +161,7 @@ A line graph is usually used to portray time-series data. However when there are
 </tr>
 <tr class="clickable" data-toggle="collapse" id="189" data-target=".189collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Nicholas Spyrison</td>
   <td>TBD</td>
   <td>tourr; visualizing higher dimensions vs alternatives</td>
@@ -183,7 +182,7 @@ Journal of Scientific and Statistical Computing, 6(1), 128–143.
 </tr>
 <tr class="clickable" data-toggle="collapse" id="195" data-target=".195collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Motoyuki Oki</td>
   <td>TBD</td>
   <td>Time Series Digger : Automatic time series analysis for data science in R</td>
@@ -206,7 +205,7 @@ Our package and contributions should effectively work for R users that face simi
 </tr>
 <tr class="clickable" data-toggle="collapse" id="29" data-target=".29collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Volha Tryputsen</td>
   <td>TBD</td>
   <td>Antibody characterization with next generation sequencing using Group My Abs shiny app</td>
@@ -218,7 +217,7 @@ Shiny app "Group My Abs" was developed to apply biophysical properties for Ab ch
 </tr>
 <tr class="clickable" data-toggle="collapse" id="89" data-target=".89collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Johanna Tróchez</td>
   <td>TBD</td>
   <td>APPLICATION TO ANALYZE THE STUDENT DESERTION</td>
@@ -229,7 +228,7 @@ Shiny app "Group My Abs" was developed to apply biophysical properties for Ab ch
 </tr>
 <tr class="clickable" data-toggle="collapse" id="143" data-target=".143collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Gabriel Domingo</td>
   <td>TBD</td>
   <td>Use of R in Antitrust: The case of the Philippine Competition Commission</td>
@@ -247,7 +246,7 @@ Finally, we will discuss our efforts to expose more of our economists to R via h
 </tr>
 <tr class="clickable" data-toggle="collapse" id="187" data-target=".187collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Shian Su</td>
   <td>TBD</td>
   <td>Glimma: interactive graphics for gene expression analysis</td>
@@ -258,7 +257,7 @@ Finally, we will discuss our efforts to expose more of our economists to R via h
 </tr>
 <tr class="clickable" data-toggle="collapse" id="191" data-target=".191collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Adam Gruer</td>
   <td>TBD</td>
   <td>Using R and Process Control Charts to Help Hospital Management See The Woods For The Trees</td>
@@ -272,7 +271,7 @@ This poster discusses the technical and cultural challenges faced and the soluti
 </tr>
 <tr class="clickable" data-toggle="collapse" id="194" data-target=".194collapsed">
   <td>14:30</td>
-  <td>Poster lighting</td>
+  <td>Poster lightning</td>
   <td>Sharon Lee</td>
   <td>TBD</td>
   <td>Shiny EMMIXskew for symmetric and asymmetric mixture modelling</td>
@@ -941,7 +940,7 @@ We will discuss some examples, considering some changepoint models in particular
 </tr>
 <tr class="clickable" data-toggle="collapse" id="108" data-target=".108collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Alan Pearse</td>
   <td>TBD</td>
   <td>SSNDesign -- An R Package for Optimal Designs on Spatial Stream Networks</td>
@@ -952,7 +951,7 @@ We will discuss some examples, considering some changepoint models in particular
 </tr>
 <tr class="clickable" data-toggle="collapse" id="123" data-target=".123collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Tatiana Marci</td>
   <td>TBD</td>
   <td>Using Factor Mixture Analysis in Developmental Psychology: An Application to Research on Parent-child Attachment</td>
@@ -963,7 +962,7 @@ We will discuss some examples, considering some changepoint models in particular
 </tr>
 <tr class="clickable" data-toggle="collapse" id="11" data-target=".11collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Gi-Seop Lee</td>
   <td>TBD</td>
   <td>Evaluations of the machine learning models in the coastal habitat classification</td>
@@ -974,7 +973,7 @@ We will discuss some examples, considering some changepoint models in particular
 </tr>
 <tr class="clickable" data-toggle="collapse" id="80" data-target=".80collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Koji Makiyama</td>
   <td>TBD</td>
   <td>Magic Functions to Obtain Results from 'for' Loops in R</td>
@@ -985,7 +984,7 @@ We will discuss some examples, considering some changepoint models in particular
 </tr>
 <tr class="clickable" data-toggle="collapse" id="155" data-target=".155collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Yuya Matsumura</td>
   <td>TBD</td>
   <td>Easy Writing of Bayesian Optimizaion for Macine Learning</td>
@@ -997,7 +996,7 @@ However, it was troublesome to write codes for Bayesian optimization using those
 </tr>
 <tr class="clickable" data-toggle="collapse" id="161" data-target=".161collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Jeremy Forbes</td>
   <td>TBD</td>
   <td>Using Australian census data to describe electorates' socio-economic profiles at the time of a federal election.</td>
@@ -1018,7 +1017,7 @@ PS. An update can be provided closer to date. Research has only recently commenc
 </tr>
 <tr class="clickable" data-toggle="collapse" id="163" data-target=".163collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Jessica Bagnall</td>
   <td>TBD</td>
   <td>Analysing the voting patterns of the Senate of the 45th Australian Parliament via fully-visible Boltzmann machines</td>
@@ -1033,7 +1032,7 @@ We describe the required estimations and computations that are performed via our
 </tr>
 <tr class="clickable" data-toggle="collapse" id="168" data-target=".168collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Florian Schwendinger</td>
   <td>TBD</td>
   <td>Readability Prediction in R</td>
@@ -1046,7 +1045,7 @@ This research presents how a state-of-the-art readability prediction can be impl
 </tr>
 <tr class="clickable" data-toggle="collapse" id="178" data-target=".178collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Aswi Aswi</td>
   <td>TBD</td>
   <td>Comparison of different Bayesian spatio-temporal models using R packages</td>
@@ -1057,7 +1056,7 @@ This research presents how a state-of-the-art readability prediction can be impl
 </tr>
 <tr class="clickable" data-toggle="collapse" id="211" data-target=".211collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Janek Thomas</td>
   <td>TBD</td>
   <td>Automatic gradient boosting</td>
@@ -1068,7 +1067,7 @@ This research presents how a state-of-the-art readability prediction can be impl
 </tr>
 <tr class="clickable" data-toggle="collapse" id="212" data-target=".212collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Awdhesh Yadav</td>
   <td>TBD</td>
   <td>Household and Community factor on under-five mortality in India: An application of multilevel cox proportional hazard model</td>
@@ -1079,7 +1078,7 @@ This research presents how a state-of-the-art readability prediction can be impl
 </tr>
 <tr class="clickable" data-toggle="collapse" id="21" data-target=".21collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Jean-Michel Perraud</td>
   <td>TBD</td>
   <td>A suite of R packages for hydrological ensemble forecasting using Rcpp</td>
@@ -1090,7 +1089,7 @@ This research presents how a state-of-the-art readability prediction can be impl
 </tr>
 <tr class="clickable" data-toggle="collapse" id="67" data-target=".67collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Susanna Cramb</td>
   <td>TBD</td>
   <td>Bayesian disease mapping in R</td>
@@ -1104,7 +1103,7 @@ Here we examine seven Bayesian models suitable for disease mapping and implement
 </tr>
 <tr class="clickable" data-toggle="collapse" id="196" data-target=".196collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Rosemary Putler</td>
   <td>TBD</td>
   <td>Analysis of EHR Data and Circulating Inflammatory Mediators: Association with Severe Clostridium difficile Infection</td>
@@ -1118,7 +1117,7 @@ Because of the large number of potentially correlated predictors, our data prese
 </tr>
 <tr class="clickable" data-toggle="collapse" id="200" data-target=".200collapsed">
   <td>14:00</td>
-  <td>Lighting</td>
+  <td>Lightning</td>
   <td>Stuart Davie</td>
   <td>TBD</td>
   <td>A data driven approach to generating and scoring B2B leads</td>
@@ -1696,7 +1695,6 @@ After the talk the attendees should:
 The talk is aimed at those with some experience (or interest) in GeoSpatial analysis.</td>
 </tr>
 
-
   </table>
 </div>
 
@@ -1704,7 +1702,6 @@ The talk is aimed at those with some experience (or interest) in GeoSpatial anal
   <table id="reg-sum">
     <col width="40"> <col width="40"> <col width="40"> <col width=40"> <col width="280"> <col width="40">
     <th>Time</th> <th>Session</th> <th>Presenter</th> <th>Venue</th> <th>Title</th> <th>Keyworkds</th>
-
 <tr class="clickable" data-toggle="collapse" id="56" data-target=".56collapsed">
   <td>10:30</td>
   <td>Optimisation for model fitting</td>
