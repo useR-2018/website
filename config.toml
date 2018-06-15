@@ -38,7 +38,7 @@ paginate = 10
 [[menu.main]]
     parent = "Programme"
     name = "Info for presenters"
-    url = "/schedule/"
+    url = "/presenter/"
     weight = 3
 
 [[menu.main]]
