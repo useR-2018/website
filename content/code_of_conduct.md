@@ -45,7 +45,6 @@ Response team:
 - Rob Hyndman (rob.hyndman@monash.edu)
 - Miles McBain (milesmcbain@gmail.com)
 - Rhydwyn McGuire (Rhydwyn@rhydwyn.net)
-- Kerrie Mengersen (k.mengersen@qut.edu.au)
 - Jessie Roberts (jessie.roberts@qut.edu.au)
 - Nicholas Tierney (nicholas.tierney@gmail.com)
 
