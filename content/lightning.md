@@ -1,5 +1,5 @@
 +++
-title = "Talk Schedule"
+title = "Lightning Talk Schedule"
 +++
 
 **The talks will take place on 11-13 July 2018 (click the interested talk for its abstract). A datatable version is provided [here](../schedule-dt.html), if you're looking for a more easy-to-search & R-oriented format.** Information for presenters is [here](../presenter.html).
