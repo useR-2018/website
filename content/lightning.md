@@ -2,7 +2,7 @@
 title = "Lightning Talk Schedule"
 +++
 
-**The talks will take place on 11-13 July 2018 (click the interested talk for its abstract).   Information for presenters is [here](../presenter.html).
+The talks will take place on 11-13 July 2018 (click the interested talk for its abstract). Lightning talks will be 5 minutes, with room for discussion at the end of the session.  Information for presenters is [here](../presenter.html).
 
 <!-- Tab links -->
 <div class="tab">
