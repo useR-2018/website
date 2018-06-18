@@ -15,29 +15,29 @@ Wednesday lunch time will feature a conference buddy matching session, for parti
   <th>Title</th>
   <tr><th colspan="4">Wednesday </th></tr>
   <tr>
-  <td> 1:25 </td> <td> Opening </td> <td> Welcome to Country </td>
+  <td> 1:30 </td> <td> Opening </td> <td> Welcome to Country </td>
   </tr>
   <tr>
-  <td> 1:35 </td> <td> Keynote: Steph de Silva </td> <td> Beyond syntax, towards culture: the potentiality of deep open source communities </td>
+  <td> 1:45 </td> <td> Keynote: Steph de Silva </td> <td> Beyond syntax, towards culture: the potentiality of deep open source communities </td>
   </tr>
  <tr>
-  <td> 2:30 </td> <td> Poster lightning talks </td> <td> 30sec speed poster advertising </td>
+  <td> 2:40 </td> <td> Poster lightning talks </td> <td> 30sec speed poster advertising </td>
   </tr>
   <tr>
-  <td> 3:15 </td> <td> Afternoon tea </td> <td> Coffee, tea and snack provided </td>
+  <td> 3:00 </td> <td> Afternoon tea </td> <td> Coffee, tea and snack provided </td>
   </tr>
  <tr>
-  <td> 3:45 </td> <td> Talks </td> <td> Parallel sessions (6)  </td>
+  <td> 3:30 </td> <td> Talks </td> <td> Parallel sessions (6)  </td>
   </tr>
   <tr>
-  <td> 5:15 </td> <td> Break </td> <td> </td>
+  <td> 4:40 </td> <td> Break </td> <td> </td>
   </tr>
 <tr>
   <td> 5:30 </td> <td> Opening reception (Free event: Canapes and drinks provided) </td> <td> Poster session 1 </td>
   </tr>
   <tr><th colspan="4">Thursday </th></tr>
   <tr>
-  <td> 8:45 </td> <td> Gather and mingle </td> <td> Coffee, tea provided </td>
+  <td> 8:30 </td> <td> Gather and mingle </td> <td> Coffee, tea provided </td>
   </tr>
   <tr>
   <td> 9:05 </td> <td> Keynote: Heike Hofmann </td> <td> TBD </td>
@@ -49,7 +49,7 @@ Wednesday lunch time will feature a conference buddy matching session, for parti
   <td> 10:30 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
   </tr>
   <tr>
-  <td> 12:00 </td> <td> Lunch (provided) </td> <td> Poster session 2 </td>
+  <td> 11:50 </td> <td> Lunch (provided) </td> <td> Poster session 2 </td>
   </tr>
   <tr>
   <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  Adventures with R: Two stories of analyses and a new perspective on data </td>
@@ -67,14 +67,14 @@ Wednesday lunch time will feature a conference buddy matching session, for parti
   <td> 3:30 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
   </tr>
  <tr>
-  <td> 5:00 </td> <td> Break </td> <td> </td>
+  <td> 4:50 </td> <td> Break </td> <td> </td>
   </tr>
 <tr>
   <td> 6:00 </td> <td> Conference dinner (ticket event) </td> <td> Special surprise presentation, and trivia contest with prizes. </td>
   </tr>
  <tr><th colspan="4">Friday </th></tr>
   <tr>
-  <td> 8:45 </td> <td> Gather and mingle </td> <td> Coffee, tea provided </td>
+  <td> 8:30 </td> <td> Gather and mingle </td> <td> Coffee, tea provided </td>
   </tr>
   <tr>
   <td> 9:05 </td> <td> Keynote: Roger Peng </td> <td> Teaching R to New Users: From tapply to Tidyverse </td>
@@ -86,7 +86,7 @@ Wednesday lunch time will feature a conference buddy matching session, for parti
   <td> 10:30 </td> <td> Talks </td> <td> Parallel sessions (6) </td>
   </tr>
   <tr>
-  <td> 12:00 </td> <td> Lunch  (provided) </td> <td> Datathon posters and judging   </td>
+  <td> 11:50 </td> <td> Lunch  (provided) </td> <td> Datathon posters and judging   </td>
   </tr>
   <tr>
   <td> 1:00 </td> <td> Keynote: Thomas Lin Pedersen </td> <td>  The Grammar of Animation </td>
@@ -104,7 +104,7 @@ Wednesday lunch time will feature a conference buddy matching session, for parti
   <td> 3:30 </td> <td> Keynote: Jenny Bryan </td> <td> TBD </td>
   </tr>
  <tr>
-  <td> 4:30 </td> <td> Closing </td> <td> </td>
+  <td> 4:25 </td> <td> Closing </td> <td> </td>
   </tr>
 </table>
 
