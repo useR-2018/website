@@ -2,10 +2,11 @@
 title = "Information for presenters"
 +++
 
+Projectors in the rooms are 16:9, and have HDMI or VGA connections. You may need to have your own adapter if you want to use VGA with a Mac. Power will be available, but an Australian plug or converter is needed. It is a good idea to test out your slides during one of the breaks in the room that you will be speaking in. Rooms will have wifi, but don't expect extremely high bandwidth.
 
 ## Presentations
 
-Presentations will be 20 minutes in length. Pleae include a couple of minutes for questions at the end. You should bring your own laptop to connect up with the screen, or your talk on a USB, to load it on someone else's laptop. There will be wifi, if you need to connect to the web.
+Presentations will be 20 minutes in length. Please include a couple of minutes for questions at the end. You should bring your own laptop to connect up with the screen, or your talk on a USB, to load it on someone else's laptop. There will be wifi, if you need to connect to the web.
 
 ## Lightning talks
 
