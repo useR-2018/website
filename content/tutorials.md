@@ -137,7 +137,7 @@ Biecek, Przemyslaw. 2017. BreakDown: BreakDown Plots. https://CRAN.R-project.org
   <tr class="clickable" id="69" data-toggle="collapse" data-target=".69collapsed">
      <td>Max Kuhn</td>
     <td>Recipes for Data Processing</td>
-    <td>The tutorial is for people who do feature egnineering or need to include preprocessing with their models. 
+    <td>The tutorial is for people who do feature engineering or need to include preprocessing with their models. 
 </td>
  </tr>
   <tr class="collapse out budgets 69collapsed">
@@ -175,7 +175,7 @@ examples.
     </p></td>
   </tr>
   <tr class="clickable" id="84" data-toggle="collapse" data-target=".84collapsed">
-    <td>Dale Bryan-Brown</td>
+    <td>Dale Bryan-Brown and Brett Parker</td>
     <td>Spatial modelling using ‘raster’ package</td>
     <td>People interested in spatial modelling using satellite images, or other raster data sets. Worked examples will revolve around environmental modelling.</td>
   </tr>
