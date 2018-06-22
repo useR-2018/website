@@ -2,7 +2,13 @@
 title = "Tutorials"
 +++
 
-**The tutorials will take place on 10-11 July 2018. Click the tutorial for more information and register [here](https://user2018.r-project.org/registration/).**
+The tutorials will take place on 10-11 July 2018. Click the tutorial for more information and register [here](https://user2018.r-project.org/registration/).
+
+**There is a late-breaking change.** Heather Turner will not be able to make it to Australia. Her tutorial notes are available at  https://github.com/hturner/gnm-day-course. We are lucky that Max Kuhn from RStudio has stepped in to provide an alternative tutorial for that time slot. Details are below.
+
+**Information on handling preferences:** Thank you if you entered your tutorial preferences in our form. This has helped us keep tabs on numbers for each tutorial, and allocate presenters to room based on these numbers. We are now quite sure that we can handle all preferences with our room sizes. You can change your mind now! **We are not checking the records of your preferences, you can simply go to the tutorial of your choice in the session. No need to enter any new preferences.**
+
+**You will need your badge to get into the tutorial. It will be colour-coded depending on what session you have registered for.**
 
 <table id="reg-sum">
   <col width="60">
@@ -129,13 +135,14 @@ Biecek, Przemyslaw. 2017. BreakDown: BreakDown Plots. https://CRAN.R-project.org
     </p></td>
   </tr>
   <tr class="clickable" id="69" data-toggle="collapse" data-target=".69collapsed">
-     <td>Heather Turner</td>
-    <td>Generalized  Nonlinear Models using the gnm Package</td>
-    <td>People who wish to find out what generalized nonlinear models are and whether such models might be useful in their field of application</td>
+     <td>Max Kuhn</td>
+    <td>Recipes for Data Processing</td>
+    <td>The tutorial is for people who do feature egnineering or need to include preprocessing with their models. 
+</td>
  </tr>
   <tr class="collapse out budgets 69collapsed">
     <td colspan="4"><p>
-    The class of generalized linear models encompasses many tools commonly used in data analysis, including multiple linear regression, logistic regression, log-linear models, etc. But a linear predictor does not always capture the relationship we wish to model. Rather, a nonlinear predictor may provide a better description of the observed data, often with fewer and more interpretable parameters. This tutorial introduces the wider class of generalized nonlinear models (GNMs) and their implementation via the R package `gnm`.
+    R has an excellent framework for specifying models using formulas. While elegant and useful, it was designed in a time when models had small numbers of terms and complex preprocessing of data was not commonplace. As such, it has some limitations. In this tutorial, a new package called `recipes` is shown where the specification of model terms and preprocessing steps can be enumerated sequentially. The recipe can be estimated and applied to any dataset. Current options include simple transformations (log, Box-Cox, interactions, dummy variables, ...), signal extraction (PCA, PLS, ICA, MDS, ...), basis functions (splines, polynomials, ...), imputation methods, and others. An example is used to demonstrate the functionality. 
     </p></td>
   </tr>
   <tr class="clickable" id="72" data-toggle="collapse" data-target=".72collapsed">

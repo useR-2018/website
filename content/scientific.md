@@ -101,7 +101,7 @@ Wednesday lunch time will feature a conference buddy matching session, for parti
   <td> 3:00 </td> <td> Afternoon tea </td> <td> Coffee, tea and snack provided </td>
   </tr>
   <tr>
-  <td> 3:30 </td> <td> Keynote: Jenny Bryan </td> <td> TBD </td>
+  <td> 3:30 </td> <td> Keynote: Jenny Bryan </td> <td> Code smells and feels </td>
   </tr>
  <tr>
   <td> 4:25 </td> <td> Closing </td> <td> </td>
