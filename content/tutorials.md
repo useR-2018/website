@@ -27,7 +27,16 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>Disease risk modeling and visualization using R</td>
     <td>P8</td>
     <td>People who are interested in health surveillance or any subject that deals with spatially referenced data</td>
-    <td>TBA</td>
+    <td>Please come to the tutorial with R and RStudio installed, and ensure you have installed the following packages:
+
+install.packages(c("dplyr", "ggplot2", "leaflet", "geoR", "rgdal", "raster", "sp", "spdep", "SpatialEpi", "SpatialEpiApp"))
+
+The package rgdal in particular may take a long time to install depending on the system so you need to install all the packages before coming to the tutorial.
+
+We will also need the R package INLA. This package is not on CRAN as the creator says it is difficult to build the binaries. You can install it typing this:
+
+install.packages("INLA", repos = "https://inla.r-inla-download.org/R/stable", dep = TRUE)
+</td>
   </tr>
   <tr class="collapse out budgets 68collapsed">
     <td colspan="6"><p>
@@ -293,6 +302,23 @@ Rcpp.  This provides a natual bridge to the more recent
 RcppMLPACK package (which combines the MLPACK machine learning
 library with the Armadillo linear algebra library) from which we
 will study one or two examples.
+    </p></td>
+  </tr>
+  <tr class="clickable" id="82" data-toggle="collapse" data-target=".82collapsed">
+    <td>Charles Gray</td>
+    <td>Are you R Curious? (** This is a FREE tutorial.)</td>
+    <td>P9</td>
+    <td>Beginning users</td>
+    <td>Your laptop and enthusiasm</td>
+  </tr>
+  <tr class="collapse out budgets 82collapsed">
+    <td colspan="6"><p> 
+
+Been meaning to quit excel and learn R for ages but not managed to find the time? Or maybe you are just not quite sure what this R thing that everyone is talking about is? This is the workshop for you. 
+
+Or, have you had someone say, “It’s easy to use R. Just type R.”  or “Oh, I just use the lm() function.” and thought, huh? Sometimes R users can trivialise the process of getting started. 
+
+In this workshop, we aim to equip new R users with the confidence to problem-solve their way through getting set up with R and RStudio, and importing and exploring data in R. Developed through discussions amongst RLadies who also teach and communicate, we aim to visit the biggest potential pitfalls of your first data analysis in R. From installation issues with packages, to different data structures, to beginning exploratory data analysis and visualisation in R. 
     </p></td>
   </tr>
 </table>
