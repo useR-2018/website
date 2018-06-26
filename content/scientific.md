@@ -60,7 +60,7 @@ useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [h
   <td> 11:50 </td> <td> Lunch (provided) </td> <td> Poster session 2 </td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
-  <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  Adventures with R: Two stories of analyses and a new perspective on data </td>
+  <td> 1:00 </td> <td> Keynote: Bill Venables </td> <td>  Adventures with R: Two stories of analyses and a new perspective on data *(Click to see abstract)*</td>
   </tr>
   <tr class="collapse out budgets 3collapsed">
     <td colspan="3">
