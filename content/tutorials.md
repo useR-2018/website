@@ -269,7 +269,7 @@ examples.
     <td>xgboost and MXNet</td>
     <td>P11</td>
     <td>TBA</td>
-    <td>TBA</td>
+    <td> laptop running OSX/Windows/Linux with recent R release, preferably the latest R 3.5.0, and the R packages xgboost and mxnet. mxnet installation is bit tricky, see details for [linux](https://mxnet.incubator.apache.org/install/index.html?platform=Linux&language=R&processor=CPU), [OSX](https://mxnet.incubator.apache.org/install/index.html?platform=MacOS&language=R&processor=CPU), [Windows](https://mxnet.incubator.apache.org/install/index.html?platform=Windows&language=R&processor=CPU) </td>
   </tr>
   <tr class="collapse out budgets 85collapsed">
     <td colspan="6"><p> TBA
