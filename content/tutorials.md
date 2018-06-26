@@ -27,14 +27,8 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>Disease risk modeling and visualization using R</td>
     <td>P8</td>
     <td>People who are interested in health surveillance or any subject that deals with spatially referenced data</td>
-    <td>Please come to the tutorial with R and RStudio installed, and ensure you have installed the following packages:
-
-install.packages(c("dplyr", "ggplot2", "leaflet", "geoR", "rgdal", "raster", "sp", "spdep", "SpatialEpi", "SpatialEpiApp"))
-
-The package rgdal in particular may take a long time to install depending on the system so you need to install all the packages before coming to the tutorial.
-
-We will also need the R package INLA. This package is not on CRAN as the creator says it is difficult to build the binaries. You can install it typing this:
-
+    <td>Please come to the tutorial with R and RStudio installed, and ensure you have installed the following packages:"dplyr", "ggplot2", "leaflet", "geoR", "rgdal", "raster", "sp", "spdep", "SpatialEpi", "SpatialEpiApp". The package rgdal may take a long time to install depending on the system so best done ahead of time. We will also need the R package INLA, install it typing this:
+<p>
 install.packages("INLA", repos = "https://inla.r-inla-download.org/R/stable", dep = TRUE)
 </td>
   </tr>
