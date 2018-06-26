@@ -29,7 +29,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>People who are interested in health surveillance or any subject that deals with spatially referenced data</td>
     <td>Please come to the tutorial with R and RStudio installed, and ensure you have installed the following packages:"dplyr", "ggplot2", "leaflet", "geoR", "rgdal", "raster", "sp", "spdep", "SpatialEpi", "SpatialEpiApp". The package rgdal may take a long time to install depending on the system so best done ahead of time. We will also need the R package INLA, install it typing this:
 <p>
-install.packages("INLA", repos = "https://inla.r-inla-download.org/R/stable", dep = TRUE)
+<em>install.packages("INLA", repos = "https://inla.r-inla-download.org/R/stable", dep = TRUE)</em> </p>
 </td>
   </tr>
   <tr class="collapse out budgets 68collapsed">
