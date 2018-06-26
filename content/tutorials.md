@@ -148,7 +148,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>fasteR: ways to speed up R code</td>
     <td>P10</td>
     <td>Intermediate R programmers interested in speeding up their code</td>
-    <td>TBA</td>
+    <td> See instructions at https://github.com/tslumley/useRfasteR</td>
   </tr>
   <tr class="collapse out budgets 78collapsed">
     <td colspan="6"><p>
