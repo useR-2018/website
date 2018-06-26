@@ -34,7 +34,7 @@ useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [h
   <td> 3:30 </td> <td> Talks </td> <td> Parallel sessions (6)  </td>
   </tr>
   <tr>
-  <td> 4:50 </td> <td> RStudio keynote: Kelly O'Briant </td> <td> </td>
+  <td> 5:00 </td> <td> RStudio keynote: Kelly O'Briant </td> <td> </td>
   </tr>
 <tr>
   <td> 5:30 </td> <td> Opening reception (Free event: Canapes and drinks provided) </td> <td> Poster session 1 </td>
