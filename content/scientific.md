@@ -4,7 +4,7 @@ title = "Programme"
 
 useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [half-day tutorials Tuesday morning and afternoon, and Wednesday morning](https://user2018.r-project.org/tutorials/). Lunch, morning and afternoon teas are provided both days. The conference programme will begin after lunch on Wednesday, reception in the evening, and conference dinner Thursday evening. It will close late afternoon on Friday.
 
-Wednesday lunch time will feature a conference buddy matching session, for participants interested, and an R Ladies get together. 
+*Wednesday lunch time will feature a conference buddy matching session, for participants interested, and an R Ladies get together.* 
 
 <table id="reg-sum">
   <col width="60">
@@ -30,7 +30,7 @@ Wednesday lunch time will feature a conference buddy matching session, for parti
   <td> 3:30 </td> <td> Talks </td> <td> Parallel sessions (6)  </td>
   </tr>
   <tr>
-  <td> 4:40 </td> <td> Break </td> <td> </td>
+  <td> 4:50 </td> <td> RStudio keynote: Kelly O'Briant </td> <td> </td>
   </tr>
 <tr>
   <td> 5:30 </td> <td> Opening reception (Free event: Canapes and drinks provided) </td> <td> Poster session 1 </td>
