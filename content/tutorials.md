@@ -216,7 +216,7 @@ examples.
   </tr>
   <tr><th colspan="6">Wednesday Morning 9:00-12:30  Break 10:30-11:00 </th> </tr>
   <tr class="clickable" id="76" data-toggle="collapse" data-target=".76collapsed">
-    <td>Julie Josse</td>
+    <td>Julie Josse and Nick Tierney</td>
     <td>Missing values imputation</td>
     <td>P10</td>
     <td>People who want to know more about how dealing with missing values in their analysis and what is the available methods implemented - Basic knowledge of PCA and linear models are required</td>

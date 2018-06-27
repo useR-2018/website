@@ -14,6 +14,6 @@ Lightning talks will be 5 minutes in length. We will need to have these uploaded
 
 ## Posters
 
-Posters will be electronic. You can connect using HDMI from your laptop - ideal if you want to demo things interactively - or on a USB. The size of the TVs are 47", which is quite large. There are a few 55" TVs, which you can request, if this is our preference. TVs will be on special stand with a ledge to hold the laptop, or information sheets to distribute.
+Posters will be electronic. You can connect using HDMI from your laptop - ideal if you want to demo things interactively - or on a USB. The size of the TVs are 47", which is quite large. There are a few 55" TVs, which you can request, if this is our preference. TVs will be on special stand with a ledge to hold the laptop, or information sheets to distribute. TVs are in landscape orientation.
 
 Poster presenters will also have the option to do a **30 second** speed advertisement of there poster, after the first keynote. These will need to be uploaded ahead of time. 
