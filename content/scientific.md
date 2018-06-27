@@ -111,7 +111,7 @@ useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [h
   </tr>
   <tr class="collapse out budgets 5collapsed">
     <td colspan="3">
-		TBA
+		In the world of data visualisation much work has been put into defining a grammar for both static and interactive graphics. These efforts has often been coupled to the development of visualisation frameworks where the grammar has been reflected in the API design. Less attention has been devoted to a grammar of animation, and subsequently animation frameworks has often missed the breadth and composability that are the hallmark of grammar-driven visualisation frameworks. In this talk I will justify and present a grammar of animation and position it in relation to graphics and interactivity grammar, thus creating a clear division of responsibility between the three domains. I will present an R implementation of the grammar of animation which builds on top of the ggplot2 framework and made available as the gganimate package, Using examples with gganimate I'll show how the proposed grammar can be used to break down, and reason about, animated data visualisation, and how the grammar succinctly can describe very diverse animation operations.
   </tr>
  <tr>
   <td> 1:55 </td> <td> Break </td> <td> </td>
