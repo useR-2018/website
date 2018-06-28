@@ -8,7 +8,5 @@ R Ladies Australia, R Ladies New Zealand and R Ladies Remote are running a free 
 
 You [need to sign up here](https://goo.gl/forms/k3FqgLd7RRnnaKT43) to attend. (You need to be registered for useR! 2018 to participate. Please use the same email address used when you registered.)
 
-Following the tutorial there will also be a *newbies lunch*, where you can meet other conference goers, and, if you like, to be paired up with a conference buddy.
-
-
+Following the tutorial there will also be a newbies lunch and R-Ladies gathering on Wednesday at lunch. Here you can meet other conference goers, and, if you like, to be paired up with a conference buddy and network with R-Ladies from all over the world!
 

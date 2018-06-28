@@ -15,7 +15,6 @@ The aim of the data challenge is to inform us about biodiversity in Australia, a
 Entries can focus on any aspect of the data, and here are a few ideas to get you started:
 
 - What are the common species to see around Brisbane?
-- Have groups of organisms such as birds been shifting spatially over time? 
 - Are data observations spatially biased? 
 - How well do Australia's reserves and parks conserve species groups such as reptiles or mammals?
 - Have new species been identified evenly over time?
