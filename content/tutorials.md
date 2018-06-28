@@ -136,7 +136,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>The ultimate online collection toolbox: Combining RSelenium and Rvest</td>
     <td>P7</td>
     <td>Intermediate R users looking to explore online data collection</td>
-    <td>TBA</td>
+    <td> Installation details are [here](https://bit.ly/2Moe5nH)</td>
   </tr>
   <tr class="collapse out budgets 83collapsed">
     <td colspan="6"><p>Rvest from Hadley Wickham has become the go to package for all online collection or website interaction (web-scraping) tasks in R. Although the package is amazing, it is not able to interact with a webpage when the page is dynamically loaded through javascript. For the latter, we need to have a browser that we 'drive' around the website to collect/load and interact with objects. Welcome to Rselenium from John Harrison. The package provides the necessary tools that allows the user to drive a web-browser, from R using script commands. In this tutorial, we will be looking at installing RSelenium, learning basic commands, look at javascript tips and how to play well with others like rvest.
@@ -196,7 +196,11 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>Statistical Models for Sport in R</td>
     <td>P6</td>
     <td>Beginner to intermediate R users with an interest in sports</td>
-    <td>TBA</td>
+    <td>Please bring a laptop with R installed and install the following libraries via CRAN: dplyr, tidyr, ggplot2, rvest, jsonlite, stringr, mgcv, rjags,
+BradleyTerry2, lubridate, pitchRx. These  additional libraries should be installed via github using
+devtools: Rselenium (https://github.com/ropensci/RSelenium), deuce (https://github.com/skoval/deuce). There will also be part of the Web scraping material that will require
+Docker, which you can install here: https://docs.docker.com/install/.
+</td>
   </tr>
   <tr class="collapse out budgets 81collapsed">
     <td colspan="6"><p>The workshop will cover a number of skills and statistical models that are common in sports statistics and show how each can be implemented in R. The workshop will introduce participants to a range of R packages and real sports
@@ -280,7 +284,29 @@ examples.
     <td>Extending R with C++: Motivation, Introduction and Examples</td>
     <td>P8</td>
     <td>Beginning to intermediate users of R who want to go further and farther</td>
-    <td>TBA</td>
+    <td>Now, Rcpp is a fairly big topic, and it requires working compiler setup. This tends to be somewhere between easier-on-some and more-tedious-on-other
+systems with Windows arguably the most difficult. We say a bit more about
+this in the Rcpp FAQ [1] -- and we do not need more than R itself needs when
+compiling packages with C/C++/Fortran code is needed.  I have found in the
+past that I cannot simply assume /everybody/ gets this without help, so I
+tend to do a bit 'lecture' and hands-on exercise.  We will see if I manage to
+shift the balance a little. So if feel adventurous and want to take this on, I recommend:
+(1) a decent editor and environment; RStudio fits the bill for most people
+(2)  a working compiler: Linux and macOS generally have it (though macOS keeps
+  changing, and I don't use it myself so reach out to resources such as
+(3) CRAN packages Rcpp (of course) and RcppArmadillo
+
+A simple test to see if you are good, is to use Rcpp::evalCpp() on an expression:
+
+  R> Rcpp::evalCpp("6 * 7")
+  [1] 42
+
+This actually creates a miniscule C++ routine around the expression, and will
+only show the expected result if the setup is working.
+
+When things fails, the RStudio IDE tends to show a few hints so try that. If all this sounds insurmountable, do not despair. I still recommend the
+tutorial as I think we should find time to bend your laptop to do all this
+during conference breaks.</td>
   </tr>
   <tr class="collapse out budgets 82collapsed">
     <td colspan="6"><p> Rcpp has become the principal venue for extending R with compiled
