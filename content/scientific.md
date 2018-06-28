@@ -95,7 +95,7 @@ useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [h
   </tr>
   <tr class="collapse out budgets 4collapsed">
     <td colspan="3">
-		TBA
+The intentional ambiguity of the R language, inherited from the S language, is one of its defining features. Is it an interactive system for data analysis or is it a sophisticated programming language for software developers? The ability of R to cater to users who do not see themselves as programmers, but then allow them to slide gradually into programming, is an enduring quality of the language and is what has allowed it to gain significance over time. As the R community has grown in size and diversity, R’s ability to match the needs of the community has similarly grown. However, this growth has raised interesting questions about R’s value proposition today and how new users to R should be introduced to the system. I will discuss some lessons learned from my experience teaching R to new users and from observing the evolution of the language over the past 20 years.
   </tr>
  <tr>
   <td> 10:00 </td> <td> Morning tea </td> <td> Coffee, tea and snack provided </td>
