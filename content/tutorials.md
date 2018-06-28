@@ -136,7 +136,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>The ultimate online collection toolbox: Combining RSelenium and Rvest</td>
     <td>P7</td>
     <td>Intermediate R users looking to explore online data collection</td>
-    <td> Installation details are [here](https://bit.ly/2Moe5nH)</td>
+    <td> Installation details are at https://bit.ly/2Moe5nH</td>
   </tr>
   <tr class="collapse out budgets 83collapsed">
     <td colspan="6"><p>Rvest from Hadley Wickham has become the go to package for all online collection or website interaction (web-scraping) tasks in R. Although the package is amazing, it is not able to interact with a webpage when the page is dynamically loaded through javascript. For the latter, we need to have a browser that we 'drive' around the website to collect/load and interact with objects. Welcome to Rselenium from John Harrison. The package provides the necessary tools that allows the user to drive a web-browser, from R using script commands. In this tutorial, we will be looking at installing RSelenium, learning basic commands, look at javascript tips and how to play well with others like rvest.
