@@ -46,11 +46,11 @@ useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [h
   <td> 8:30 </td> <td> Gather and mingle </td> <td> Coffee, tea provided </td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
-  <td> 9:05 </td> <td> Keynote: Heike Hofmann </td> <td> TBA </td>
+  <td> 9:05 </td> <td> Keynote: Thomas Lin Pedersen </td> <td> The Grammar of Animation </td>
   </tr>
   <tr class="collapse out budgets 2collapsed">
     <td colspan="3">
-		TBA
+			In the world of data visualisation much work has been put into defining a grammar for both static and interactive graphics. These efforts has often been coupled to the development of visualisation frameworks where the grammar has been reflected in the API design. Less attention has been devoted to a grammar of animation, and subsequently animation frameworks has often missed the breadth and composability that are the hallmark of grammar-driven visualisation frameworks. In this talk I will justify and present a grammar of animation and position it in relation to graphics and interactivity grammar, thus creating a clear division of responsibility between the three domains. I will present an R implementation of the grammar of animation which builds on top of the ggplot2 framework and made available as the gganimate package, Using examples with gganimate I'll show how the proposed grammar can be used to break down, and reason about, animated data visualisation, and how the grammar succinctly can describe very diverse animation operations.
   </tr>
  <tr>
   <td> 10:00 </td> <td> Morning tea </td> <td> Coffee, tea and snack provided </td>
@@ -107,11 +107,11 @@ The intentional ambiguity of the R language, inherited from the S language, is o
   <td> 11:50 </td> <td> Lunch  (provided) </td> <td> Datathon posters and judging   </td>
   </tr>
   <tr class="clickable" data-toggle="collapse" id="5" data-target=".5collapsed">
-  <td> 1:00 </td> <td> Keynote: Thomas Lin Pedersen </td> <td>  The Grammar of Animation </td>
+  <td> 1:00 </td> <td> Keynote: Danielle Navarro </td> <td>  R for Psychological Science? </td>
   </tr>
   <tr class="collapse out budgets 5collapsed">
     <td colspan="3">
-		In the world of data visualisation much work has been put into defining a grammar for both static and interactive graphics. These efforts has often been coupled to the development of visualisation frameworks where the grammar has been reflected in the API design. Less attention has been devoted to a grammar of animation, and subsequently animation frameworks has often missed the breadth and composability that are the hallmark of grammar-driven visualisation frameworks. In this talk I will justify and present a grammar of animation and position it in relation to graphics and interactivity grammar, thus creating a clear division of responsibility between the three domains. I will present an R implementation of the grammar of animation which builds on top of the ggplot2 framework and made available as the gganimate package, Using examples with gganimate I'll show how the proposed grammar can be used to break down, and reason about, animated data visualisation, and how the grammar succinctly can describe very diverse animation operations.
+	Traditionally, R has been viewed as a language for data science and statistics. In the social sciences it has been extremely popular with researchers at the more quantitative end of the spectrum - but uptake has been less widespread outside of the more statistically inclined. I don't think the R language needs to be limited in this way. Since 2011 I've been teaching introductory research methods classes for undergraduates using R, running programming classes for R with postgraduate students, doing my own data analysis with R, implementing cognitive models with R and occasionally even running behavioural experiments in R. In this talk I reflect on some of these experiences - the good, the bad and the ugly - and discuss prospects and challenges for wider adoption R as a tool within the psychological sciences. 
   </tr>
  <tr>
   <td> 1:55 </td> <td> Break </td> <td> </td>
