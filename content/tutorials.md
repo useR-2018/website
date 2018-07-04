@@ -49,7 +49,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
   <tr class="clickable" data-toggle="collapse" id="71" data-target=".71collapsed">
    <td>Simon Jackson</td>
     <td>Wrangling data in the Tidyverse</td>
-    <td>Auditorium</td>
+    <td>P11</td>
     <td>Beginner-to-intermediate R users who want to improve the day-to-day quality and efficiency of their data wrangling skills</td>
     <td>Please remember to bring a laptop with R and RStudio installed. To speed things up, please also install the tidyverse package and familiarise yourself with RStudio projects. Data files will be made available online at the workshop.</td>
 </tr>
@@ -91,7 +91,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
   </tr>
   <tr class="collapse out budgets 80collapsed">
     <td colspan="6"><p>Complex machine learning models are frequently used in predictive modelling. There are a lot of examples for random forest like or boosting like models in medicine, finance, agriculture etc.
-      In this workshop we will show why and how one would analyse the structure of the black-box model.
+     ascending order In this workshop we will show why and how one would analyse the structure of the black-box model.
       <p>
       This will be a hands-on workshop with four parts. In each part there will be a short lecture (around 20-25 minutes) and then time for practice and discussion (around 20-25 min).
       <p>
@@ -171,7 +171,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
   <tr class="clickable" id="72" data-toggle="collapse" data-target=".72collapsed">
     <td>Kevin Kuo</td>
     <td>Deep learning with TensorFlow and Keras</td>
-    <td>Auditorium</td>
+    <td>P11</td>
     <td>Anyone interested in deep learning</td>
     <td>TBA</td>
   </tr>
@@ -224,7 +224,7 @@ examples.
     <td>Missing values imputation</td>
     <td>P10</td>
     <td>People who want to know more about how dealing with missing values in their analysis and what is the available methods implemented - Basic knowledge of PCA and linear models are required</td>
-    <td>TBA</td>
+    <td>For this tutorial, remember to come with your laptop, Rstudio and the following packages installed: "VIM", "naniar", "missMDA", "Amelia", "mice", "missForest", "FactoMineR", "tidyverse". Slides, course notes, data sets, and Rmarkdown analyses will be available on my web page: http://juliejosse.com/teaching/</td>
   </tr>
   <tr class="collapse out budgets 76collapsed">
     <td colspan="6"><p>
@@ -248,7 +248,7 @@ examples.
     <td>Quantile Generalized Additive Models: moving beyond Gaussianity</td>
     <td>P6</td>
     <td>The attendees should have a basic understanding of regression models and of the basic concepts underlying statistics and machine learning (e.g. probability densities, quantiles, etc).</td>
-    <td>TBA</td>
+    <td>Please bring your own laptop, with either R version 3.4.4 or 3.5 installed. On MAC you will also need to install XQuartz. Please install the mgcViz package from CRAN and use <code>devtools::install_github("mfasiolo/mgcFam")</code> to install mgcFam.  For some of the exercises you might also need the following packages from CRAN: <code>languageR</code>, <code>gamair</code> and <code>e1071</code>.</td>
   </tr>
   <tr class="collapse out budgets 70collapsed">
     <td colspan="6"><p>Generalized Additive Models (GAMs) models are an extension of traditional parametric regression models, which have proved highly useful for both predictive and inferential purposes in a wide variety of scientific and commercial applications. One reason behind the popularity of GAMs is that they strike an interesting balance between flexibility and interpretability, while being able to handle large data sets. The mgcv R package is arguably the state-of-the-art tool for fitting such models, hence the first half of this tutorial will introduce GAMs and mgcv, in the context of electricity demand forecasting. The second part of the tutorial will show how traditional GAMs can be extended to quantile GAMs, and how the latter can be fitted using the qgam R package. By the end of the tutorial the attendees should be able to build, fit and visualize traditional or quantile GAM models, using a combination of the mgcv, qgam and mgcViz R packages. This tutorial is aimed at a broad audience of statistical modellers, interested in using GAMs for predictive or inferential purposes. The models which will be presented in the tutorial have a very wide range of applicability, hence they should be of interest to practitioners in business intelligence, ecology, linguistics, epidemiology and geoscience to name a few.
