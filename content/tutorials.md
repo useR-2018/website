@@ -63,7 +63,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>Production-ready R: Getting started with R and docker</td>
     <td>P9</td>
     <td>Experience with using the command line and running basic scripts is helpful but not necessary. Some prior exposure to docker, git and cloud computing is helpful but no in depth knowledge is required.</td>
-    <td>TBA</td>
+    <td>The tutorial will have hands-on components, so it would be great if you can pre-install Docker on your laptop using the instructions here https://docs.docker.com/install/ . Once you have it installed you can type `docker run hello-world` at a console prompt to test it (try `sudo` if it complains). We will be testing out the Rstudio containers, so when you install docker please run `docker pull rocker/studio` and `docker pull rocker/geospatial` to download those images prior. And don't worry if you don't have a laptop or can't get things installed prior - we can assist or you can work alongside someone else for the exercises.</td>
   </tr>
   <tr class="collapse out budgets 74collapsed">
     <td colspan="6"><p>
@@ -87,7 +87,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>DALEX: Descriptive mAchine Learning EXplanations.  Tools for exploration, validation and explanation of complex machine learning models</td>
     <td>P10</td>
     <td>Applied data scientists, analysts interested in machine learning models.</td>
-    <td>TBA</td>
+    <td>Please bring a laptop with R and following libraries installed via CRAN <code>install.packages(c("DALEX", "breakDown", "live", "auditor", "randomForest", "ceterisParibus"))</code> </td>
   </tr>
   <tr class="collapse out budgets 80collapsed">
     <td colspan="6"><p>Complex machine learning models are frequently used in predictive modelling. There are a lot of examples for random forest like or boosting like models in medicine, finance, agriculture etc.
@@ -329,7 +329,7 @@ will study one or two examples.
     <td>Are you R Curious? (** This is a FREE tutorial.)</td>
     <td>P9</td>
     <td>Beginning users</td>
-    <td>Your laptop and enthusiasm</td>
+    <td>Your laptop and enthusiasm (installation guide is on https://github.com/softloud/rcurious/blob/master/explore/onboarding.Rmd )</td>
   </tr>
   <tr class="collapse out budgets 82collapsed">
     <td colspan="6"><p> 
