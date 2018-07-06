@@ -22,7 +22,7 @@
 }
 
 .bar.background-image-fixed-2 {
-  background: url('../img/user2018.png') center top no-repeat;
+  background: url('https://user2018.r-project.org/img/user_wall.png') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
