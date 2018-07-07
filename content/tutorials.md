@@ -160,7 +160,7 @@ The tutorials will take place on 10-11 July 2018. Click the tutorial for more in
     <td>Recipes for Data Processing</td>
     <td>P9</td>
     <td>The tutorial is for people who do feature engineering or need to include preprocessing with their models. 
-    <td>TBA</td>
+    <td>The audience should include people who do feature engineering or need to include preprocessing with their models. From a technical standpoint, some experience in modeling and R is a good idea. Basic tidyverse syntax will be reviewed. The materials will be added a few days before the tutorial. To install the required packages: 'AmesHousing', 'broom', 'kknn', 'recipes', 'rsample', 'tidyverse', 'yardstick', 'caret'. Notes are available https://github.com/topepo/user2018</td>
 </td>
  </tr>
   <tr class="collapse out budgets 69collapsed">
