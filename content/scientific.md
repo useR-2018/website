@@ -35,8 +35,12 @@ useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [h
  <tr>
   <td> 3:30 </td> <td> Talks </td> <td> Parallel sessions (6)  </td>
   </tr>
-  <tr>
-  <td> 5:00 </td> <td> RStudio keynote: Kelly O'Briant </td> <td> </td>
+  <tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
+  <td> 5:00 </td> <td> RStudio keynote: Kelly O'Briant </td> <td> RStudio 2018 - Who we are and what we do </td>
+  </tr>
+  <tr class="collapse out budgets 10collapsed">
+    <td colspan="3">
+		For over twenty years, R has been a programming language under development. In that time a collection of open source communities have sprung up around it. These communities have commonalities that are developing into a distinct programming subculture. The existence of a common subculture connecting these communities is important for two reasons: the power to create value and the potential to champion values. 
   </tr>
 <tr>
   <td> 5:30 </td> <td> Opening reception (Free event: Canapes and drinks provided) </td> <td> Poster session 1 </td>
