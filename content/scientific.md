@@ -2,6 +2,8 @@
 title = "Programme"
 +++
 
+**Videos of talks are available now at https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos** Thank you to [R Consortium](https://www.r-consortium.org) (with some assistance by [Microsoft](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)) for funding the recording, and Queensland local company [JPL Media](http://www.jplmedia.com.au) for the excellent work. 
+
 useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be [half-day tutorials Tuesday morning and afternoon, and Wednesday morning](https://user2018.r-project.org/tutorials/). Lunch, morning and afternoon teas are provided both days. The conference programme will begin after lunch on Wednesday, reception in the evening, and conference dinner Thursday evening. It will close late afternoon on Friday.
 
 *Wednesday lunch time will feature a conference buddy matching session, for participants interested, and an R Ladies get together.* 
