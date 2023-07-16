@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sponsor on useR! 2018</title>
+    <link>https://user2018.r-project.org/categories/sponsor/</link>
+    <description>Recent content in sponsor on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://user2018.r-project.org/categories/sponsor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interested in sponsoring useR! 2018?</title>
+      <link>https://user2018.r-project.org/blog/2017/12/02/sponsorship/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/12/02/sponsorship/</guid>
+      <description>useR! is the main annual meeting of the R community, and has been growing in attendance along with the language. This is the first time that the conference will be held outside Europe and the USA, and it will be an opportunity for a new cohort of the R community to come along, improve their skills and make connections across Australiasia and beyond.
+Sponsorship of useR! 2018 is an opportunity to visibly support the R community, to reach a large group of highly skilled data science professionals, support your organisation&amp;rsquo;s analytics or data science pipeline and to help make the conference a success.</description>
+    </item>
+    
+  </channel>
+</rss>

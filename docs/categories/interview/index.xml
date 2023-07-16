@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interview on useR! 2018</title>
+    <link>https://user2018.r-project.org/categories/interview/</link>
+    <description>Recent content in interview on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://user2018.r-project.org/categories/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview with Steph de Silva</title>
+      <link>https://user2018.r-project.org/blog/2018/05/30/interview-with-steph-de-silva/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/05/30/interview-with-steph-de-silva/</guid>
+      <description>This is the transcript of useR! 2018 keynote speaker Steph de Silva, self-described data hazmat and grief counsellor.
+ Earo: Can you please introduce yourself? What&amp;rsquo;s your name, what do you do?
+Steph: My name is Steph de Silva, and I&amp;rsquo;m a data science consultant. Recently, I moved down to Sydney, but in the last few years I&amp;rsquo;ve been working from rural New South Wales. I&amp;rsquo;m more of a generalist consultant rather than a specialist in any one field.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Thomas Lin Pedersen</title>
+      <link>https://user2018.r-project.org/blog/2018/04/18/interview-with-thomas-lin-pedersen/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/04/18/interview-with-thomas-lin-pedersen/</guid>
+      <description>This interview took place at the rStudio::conf in San Diego, in January, 2018. Some things cannot be translated from audio to text - and one thing that was hard to fully capture is Thomas’s upbeat, friendly, and positive attitude about just about everything.
+Nick: What is your name and occupation, and where do you live?
+Thomas: My name is Thomas Lin Pedersen. I live in Denmark, and am currently working at SKAT, the Danish taxation authority, where I’m developing tools for our other data scientists.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Roger Peng</title>
+      <link>https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/</guid>
+      <description>Roger Peng is Professor of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. His research focuses on statistical methods for environmental health problems. He is also a co-founder of the Johns Hopkins Data Science Specialization, the Simply Statistics blog, the Not So Standard Deviations podcast with Hilary Parker, and The Effort Report podcast with Elizabeth Matsui, and recipient of the 2016 Mortimer Spiegelman Award from the American Public Health Association.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>useR! 2018</title>
+    <link>https://user2018.r-project.org/</link>
+    <description>Recent content on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://user2018.r-project.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conference wifi</title>
+      <link>https://user2018.r-project.org/blog/2018/07/10/wifi/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/07/10/wifi/</guid>
+      <description>DataCamp is sponsoring higher speed wifi for the conference. Look for the DataCamp wifi and enter &amp;ldquo;freetrial&amp;rdquo; as the password to get connected.</description>
+    </item>
+    
+    <item>
+      <title>Last minute details</title>
+      <link>https://user2018.r-project.org/blog/2018/06/29/lastminute/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/06/29/lastminute/</guid>
+      <description>Travel details:  South Brisbane is the closest train station to the convention centre. Airtran is offering a airport train discount, details are on the web site. There are numerous ATMs where you can get Australian dollars. There are NO ATM fees for major banks, NAB, ANZ, Commonwealth, Westpac. It is also possible to exchange money throughhttps://transferwise.com/us/blog/currency-exchange-brisbane. Details on Australian power outlets is on https://www.power-plugs-sockets.com/australia/ You should not bring food into Australia, because customs is very strict on this.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Steph de Silva</title>
+      <link>https://user2018.r-project.org/blog/2018/05/30/interview-with-steph-de-silva/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/05/30/interview-with-steph-de-silva/</guid>
+      <description>This is the transcript of useR! 2018 keynote speaker Steph de Silva, self-described data hazmat and grief counsellor.
+ Earo: Can you please introduce yourself? What&amp;rsquo;s your name, what do you do?
+Steph: My name is Steph de Silva, and I&amp;rsquo;m a data science consultant. Recently, I moved down to Sydney, but in the last few years I&amp;rsquo;ve been working from rural New South Wales. I&amp;rsquo;m more of a generalist consultant rather than a specialist in any one field.</description>
+    </item>
+    
+    <item>
+      <title>Updates and news</title>
+      <link>https://user2018.r-project.org/blog/2018/05/17/updates/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/05/17/updates/</guid>
+      <description>FREE Introductory R tutorial, Wed AM: RCurious will run free of charge for whoever is interested, and wants to upskill some before the conference fun starts. Following this there will be a newbies lunch, where you can match up with a conference buddy, if you would like. You still need to sign up for the tutorial, on the Programme menu there is a link to the sign up page.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Thomas Lin Pedersen</title>
+      <link>https://user2018.r-project.org/blog/2018/04/18/interview-with-thomas-lin-pedersen/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/04/18/interview-with-thomas-lin-pedersen/</guid>
+      <description>This interview took place at the rStudio::conf in San Diego, in January, 2018. Some things cannot be translated from audio to text - and one thing that was hard to fully capture is Thomas’s upbeat, friendly, and positive attitude about just about everything.
+Nick: What is your name and occupation, and where do you live?
+Thomas: My name is Thomas Lin Pedersen. I live in Denmark, and am currently working at SKAT, the Danish taxation authority, where I’m developing tools for our other data scientists.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial preference</title>
+      <link>https://user2018.r-project.org/blog/2018/03/26/tute-preference/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/03/26/tute-preference/</guid>
+      <description>When you register, choose and pay for the tutorial sessions that you would like to participate in. The enter your specific preferences for each session here. We will do what we can to ensure that you get your first choice.</description>
+    </item>
+    
+    <item>
+      <title>Tentative programme</title>
+      <link>https://user2018.r-project.org/blog/2018/03/23/programme/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/03/23/programme/</guid>
+      <description>An outline of the scientific programme can now be found on the Programme tab. Titles for keynote talks will be completed as we get them. Based on the frequency of accepted abstract keywords, the parallel sessions will be organised (roughly) into six main themes, applications, models, algorithms, visualisation, community/education, bioinformatics. Thursday&amp;rsquo;s dinner programme will feature a short talk by John Mertic of the R Consortium about the funding available for open source projects.</description>
+    </item>
+    
+    <item>
+      <title>Deadlines extended</title>
+      <link>https://user2018.r-project.org/blog/2018/02/25/new-deadlines/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/02/25/new-deadlines/</guid>
+      <description>There have been a lot of deadlines in the last three weeks for the organisers. We are running a bit slow on reviewing abstract submissions and scholarship applications for useR! We need to push back the deadlines for early registration to March 30, 2018; and also can take abstract submissions until Mar 15.</description>
+    </item>
+    
+    <item>
+      <title>Scholarship applications</title>
+      <link>https://user2018.r-project.org/blog/2018/01/25/scholarships/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/01/25/scholarships/</guid>
+      <description>Scholarship applications are now closed.
+Do you need some financial help getting to useR! 2018? If so, apply for a scholarship. We have funding to provide a few scholarships already, and still hoping for getting more funding to award more. In addition R Ladies Melbourne are offering two $500 travel scholarships! Decisions on scholarships will be based on potential positive impact on the community of the applicant&amp;rsquo;s participation, encouraging diversity to balance participant demographics for a supportive environment, economic need, and available funds for scholarships.</description>
+    </item>
+    
+    <item>
+      <title>Interview with Roger Peng</title>
+      <link>https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/</guid>
+      <description>Roger Peng is Professor of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. His research focuses on statistical methods for environmental health problems. He is also a co-founder of the Johns Hopkins Data Science Specialization, the Simply Statistics blog, the Not So Standard Deviations podcast with Hilary Parker, and The Effort Report podcast with Elizabeth Matsui, and recipient of the 2016 Mortimer Spiegelman Award from the American Public Health Association.</description>
+    </item>
+    
+    <item>
+      <title>Abstract submission</title>
+      <link>https://user2018.r-project.org/blog/2018/01/18/abstracts/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/01/18/abstracts/</guid>
+      <description>Do you want to present a talk, poster or lightning talk at useR! 2018? You can submit an abstract here. Deadline for abstract submission is Mar 2.
+Abstracts will be reviewed on a rolling basis, with three acceptance rounds, approx first week of Feb, third week of Feb, and first week of Mar (before early registration deadline). If there are sufficient quality submissions on a topic a session will be formed early, and authors notified.</description>
+    </item>
+    
+    <item>
+      <title>Results of free registration lottery</title>
+      <link>https://user2018.r-project.org/blog/2018/01/18/free_reg/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2018/01/18/free_reg/</guid>
+      <description>Thank you to all the people who provided suggestions for this year&amp;rsquo;s meeting. All who chose to do so were entered into a draw for a free registration. This was conducted today, see the video of the draw below. The lucky winner is Hazel Kavili, who will be coming from Turkey!</description>
+    </item>
+    
+    <item>
+      <title>Print your own poster or postcard</title>
+      <link>https://user2018.r-project.org/blog/2017/12/13/postcards/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/12/13/postcards/</guid>
+      <description>If you would like to print your own postcard or poster for useR! 2018 here are links to the files:
+ [Postcard (pdf with print marks)]((https://user2018.r-project.org/img/poster_new_postcard_marks.pdf) Postcard (pdf) Poster (png)  </description>
+    </item>
+    
+    <item>
+      <title>Interested in sponsoring useR! 2018?</title>
+      <link>https://user2018.r-project.org/blog/2017/12/02/sponsorship/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/12/02/sponsorship/</guid>
+      <description>useR! is the main annual meeting of the R community, and has been growing in attendance along with the language. This is the first time that the conference will be held outside Europe and the USA, and it will be an opportunity for a new cohort of the R community to come along, improve their skills and make connections across Australiasia and beyond.
+Sponsorship of useR! 2018 is an opportunity to visibly support the R community, to reach a large group of highly skilled data science professionals, support your organisation&amp;rsquo;s analytics or data science pipeline and to help make the conference a success.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial proposals</title>
+      <link>https://user2018.r-project.org/blog/2017/11/20/tutorials/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/11/20/tutorials/</guid>
+      <description>Want to give a tutorial at useR! 2018? You can submit a proposal at https://goo.gl/forms/RR4UgCnMrgIiLJDk1.
+Tutorials are typically half day. We are planning on being able to cover reasonable travel costs of tutorial presenters. The deadline for submitting a proposal is Jan 15, 2018. Notification of proposal success will be early Feb.
+The examples of past tutorials are outlined in useR! 2017 Tutorials, which we’d like to see again.</description>
+    </item>
+    
+    <item>
+      <title>Keynote speakers</title>
+      <link>https://user2018.r-project.org/blog/2017/11/12/keynotes/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/11/12/keynotes/</guid>
+      <description>We are pleased to announce that the keynote speakers for useR! 2018 are Jenny Bryan, Steph de Silva, Heike Hofmann, Thomas Lin Pedersen, Roger Peng and Bill Venables.</description>
+    </item>
+    
+    <item>
+      <title>Provide your insight</title>
+      <link>https://user2018.r-project.org/blog/2017/06/14/survey/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/06/14/survey/</guid>
+      <description>Tell us what you would like to see at useR! 2018. Do you have ideas for tutorial topics and presenters, keynote speakers, services like child care, or sign language interpreters, or how scholarships should be awarded? Send us your ideas.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://user2018.r-project.org/blog/2017/06/13/registration/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/06/13/registration/</guid>
+      <description>We expect that registration will start Jan 2018.</description>
+    </item>
+    
+    <item>
+      <title>Abstract submission</title>
+      <link>https://user2018.r-project.org/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/abstract/</guid>
+      <description>Abstract submission is closed now.
+Click here if you are ready to submit an abstract to present a talk, poster or lightning talk, due by March 15, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct for UseR!2018</title>
+      <link>https://user2018.r-project.org/code_of_conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/code_of_conduct/</guid>
+      <description>The organizers of useR! 2018 are dedicated to providing a harassment-free conference experience for everyone regardless of gender, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
+All attendees, speakers, sponsors and volunteers at useR! 2018 are required to agree to the following code of conduct. Organizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all.
+We do not tolerate harassment of useR!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://user2018.r-project.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/contact/</guid>
+      <description>We are here to help you The contact email for the conference is Buseco-UseR2018@monash.edu. Completing the form below will send an email to that address.</description>
+    </item>
+    
+    <item>
+      <title>Data challenge</title>
+      <link>https://user2018.r-project.org/datathon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/datathon/</guid>
+      <description>Can you tell us something original and surprising about biodiversity in Australia? The Australian region has a large number of species that occur nowhere else in the world. In Australia, there are regions with many unique species. Where are these regions? Do lyrebirds and gang gang cockatoos occur in the same area?
+The data The Atlas of Living Australia hosts a vast array of curated data collected on living organisms across the country (and beyond).</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://user2018.r-project.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/faq/</guid>
+      <description>Is lunch provided?
+ YES! Every day, from Tuesday through Friday, lunch will be provided at the Convention Centre. In addition, morning and afternoon tea will be provided each day. The tutorials will have a half hour break for this.
+ I want to attend this event. Do you provide fellowship to bear the expenses?
+ Some scholarships for travel and registration expenses will be provided, on a competitive basis.</description>
+    </item>
+    
+    <item>
+      <title>Hotel discounts</title>
+      <link>https://user2018.r-project.org/hotels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/hotels/</guid>
+      <description>Rates are only available Jul 9-13. Other dates may be available at the discretion of the hotel.
+ Mantra Southbank Brisbane, 5% discount on best day rate, Promo Code &amp;ldquo;userRConference&amp;rdquo;. Do search once, gives you best rate, enter the code, then search again, and should be discounted price. Expires 10 June 2018. Morgan Suites $120 1br apartment per night, promo code &amp;ldquo;useR!&amp;rdquo;. Bookings can be made by phone or email as well as web site.</description>
+    </item>
+    
+    <item>
+      <title>Information for presenters</title>
+      <link>https://user2018.r-project.org/presenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/presenter/</guid>
+      <description>Projectors in the rooms are 16:9, and have HDMI or VGA connections. You may need to have your own adapter if you want to use VGA with a Mac. Power will be available, but an Australian plug or converter is needed. It is a good idea to test out your slides during one of the breaks in the room that you will be speaking in. Rooms will have wifi, but don&amp;rsquo;t expect extremely high bandwidth.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talk Schedule</title>
+      <link>https://user2018.r-project.org/lightning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/lightning/</guid>
+      <description>The talks will take place on 11-13 July 2018 (click the interested talk for its abstract). Lightning talks will be 5 minutes, with room for discussion at the end of the session. Information for presenters is here.
+&amp;lt;tr class=&amp;quot;clickable&amp;quot; data-toggle=&amp;quot;collapse&amp;quot; id=&amp;quot;110&amp;quot; data-target=&amp;quot;.110collapsed&amp;quot;&amp;gt; &amp;lt;td&amp;gt;14:00&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Lightning talk&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Yan Holtz&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;AUD&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Getting rich quick with R &amp;amp; Cryptocurrencies?&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;applications, streaming data&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Adrian Barnett&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;a href=&amp;quot;NA&amp;quot;&amp;gt;NA&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr class=&amp;quot;collapse out budgets 110collapsed&amp;quot;&amp;gt; &amp;lt;td colspan=&amp;quot;8&amp;quot;&amp;gt;Cryptocurrency has been a hot topic recently, with the Bitcoin price reaching 20k dollars in December 2017.</description>
+    </item>
+    
+    <item>
+      <title>Poster Schedule</title>
+      <link>https://user2018.r-project.org/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/poster/</guid>
+      <description>The talks will take place on 11-13 July 2018 (click the interested talk for its abstract). Poster presenters have the option to do a 30 second lightning talk after the first keynote, to advertise their poster. Information for presenters is here.
+&amp;lt;tr class=&amp;quot;clickable&amp;quot; data-toggle=&amp;quot;collapse&amp;quot; id=&amp;quot;36&amp;quot; data-target=&amp;quot;.36collapsed&amp;quot;&amp;gt; &amp;lt;td&amp;gt;14:40&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Poster lightning&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Shinichi Takayanagi&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;AUD&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;How LINE Corp Use R to Compete in a Data-Driven World&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;applications, reproducibility, Practical use of R language in business&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Simon Jackson&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr class=&amp;quot;collapse out budgets 36collapsed&amp;quot;&amp;gt; &amp;lt;td colspan=&amp;quot;7&amp;quot;&amp;gt;LINE is one of the most popular messaging applications in Asia developed by LINE corp.</description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>https://user2018.r-project.org/scientific/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/scientific/</guid>
+      <description>Videos of talks are available now at https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos Thank you to R Consortium (with some assistance by Microsoft) for funding the recording, and Queensland local company JPL Media for the excellent work.
+useR! 2018 will run Tuesday Jul 10 through Friday Jul 13, 2018. There will be half-day tutorials Tuesday morning and afternoon, and Wednesday morning. Lunch, morning and afternoon teas are provided both days. The conference programme will begin after lunch on Wednesday, reception in the evening, and conference dinner Thursday evening.</description>
+    </item>
+    
+    <item>
+      <title>R Curious</title>
+      <link>https://user2018.r-project.org/rcurious/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/rcurious/</guid>
+      <description>Are you curious about R? Do you want to brush up on your R skills before the conference kicks into full swing? Do you want to meet other newbies and mentors to build your R network?
+R Ladies Australia, R Ladies New Zealand and R Ladies Remote are running a free tutorial &amp;ldquo;R Curious&amp;rdquo; led by Charles Gray, with the support of many R Ladies. It is aimed at newcomers to R, to get you up and running with key skills.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://user2018.r-project.org/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/registration/</guid>
+      <description>The registration fees for useR! 2018 include access to talks and poster sessions, welcome reception, lunches, morning and afternoon tea each day. There are three levels of registration, industry, academic and student, each with early bird rates. The conference programme will run from Wednesday lunch time through Friday late afternoon. Tutorials are provided at a modest additional cost Tuesday all day and Wednesday morning. The conference dinner and childcare are available for extra fees, and have limited places.</description>
+    </item>
+    
+    <item>
+      <title>Scholarship application</title>
+      <link>https://user2018.r-project.org/scholarship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/scholarship/</guid>
+      <description>There will be a few scholarships available for travel to useR! 2018. We don&amp;rsquo;t yet know how many. If you would like to apply for a scholarship please complete the application form. We expect to make some awards before the early registraton deadline, but if more sponsorship funding comes in we may be able to offer more at later dates. Decisions on scholarships will be based on potential positive impact on the community of the applicant&amp;rsquo;s participation, encouraging diversity to balance participant demographics for a supportive environment, economic need, and available funds for scholarships.</description>
+    </item>
+    
+    <item>
+      <title>Social Programme</title>
+      <link>https://user2018.r-project.org/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/social/</guid>
+      <description>The reception will be held Wednesday night from 5:30pm. It is open to all registered attendees and guest. Snacks and drinks will be provided.
+Conference dinner will be Thursday night, and requires a ticket. There will be a trivia contest during dinner, with book prizes donated by CRC Press, Springer and Sage. The trivia quiz can be found here and the solution is here.
+For other possible activities see the Travel/Things to do page.</description>
+    </item>
+    
+    <item>
+      <title>Talk Schedule</title>
+      <link>https://user2018.r-project.org/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/schedule/</guid>
+      <description>The talks will take place on 11-13 July 2018 (click the interested talk for its abstract). A datatable version is provided here, if you&amp;rsquo;re looking for a more easy-to-search &amp;amp; R-oriented format. Information for presenters is here.
+ &amp;lt;tr class=&amp;quot;clickable&amp;quot; data-toggle=&amp;quot;collapse&amp;quot; id=&amp;quot;1&amp;quot; data-target=&amp;quot;.1collapsed&amp;quot;&amp;gt;  &amp;lt;tr class=&amp;quot;clickable&amp;quot; data-toggle=&amp;quot;collapse&amp;quot; id=&amp;quot;48&amp;quot; data-target=&amp;quot;.48collapsed&amp;quot;&amp;gt; &amp;lt;td&amp;gt;15:30&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Applications in society&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Richard Layton&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;P8&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Data, methods, and metrics for studying student persistence&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;applications, community/education, persistence metrics, intersectionality, longitudinal&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Jessie Roberts&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;a href=&amp;quot;https://speakerdeck.</description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://user2018.r-project.org/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/travel/</guid>
+      <description>Airport The closest airport is Brisbane International Airport. Twenty eight airlines fly directly into and out of Brisbane, including Qantas, Virgin Australia, Emirates, Etihad Airways, Singapore Airlines, Cathay Pacific Airways, China Airlines, China Eastern Airlines, China Southern Airlines, Korean Airlines, Thai Airways, Air Canada, and Air New Zealand.
+The airport is serviced by Brisbane’s airport rail link, Airtrain, which provides a cost effective and efficient service to travellers transferring to the City and the Convention Centre.</description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://user2018.r-project.org/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/tutorials/</guid>
+      <description>The tutorials will take place on 10-11 July 2018. Click the tutorial for more information and register here.
+There is a late-breaking change. Heather Turner will not be able to make it to Australia. Her tutorial notes are available at https://github.com/hturner/gnm-day-course. We are lucky that Max Kuhn from RStudio has stepped in to provide an alternative tutorial for that time slot. Details are below.
+Information on handling preferences: Thank you if you entered your tutorial preferences in our form.</description>
+    </item>
+    
+    <item>
+      <title>Visit Brisbane</title>
+      <link>https://user2018.r-project.org/visit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/visit/</guid>
+      <description>Lone Pine Koala Sanctuary Cuddle a koala and hand-feed kangaroos just minutes from Brisbane city at Lone Pine Koala Sanctuary, the world’s first and largest koala sanctuary. Get up close and personal with Australia’s unique wildlife including over 130 koalas. Travel to the sanctuary via an enjoyable river cruise from South Bank. More information. Recommended by visitor centre.
+Australia Zoo Undoubtedly a highlight of any visit to Queensland is a trip to Australia Zoo.</description>
+    </item>
+    
+  </channel>
+</rss>

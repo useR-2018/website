@@ -1,0 +1,244 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.bar.background-pentagon {
+  background: url('https://user2018.r-project.org/img/bg-pkgs.png') center center repeat;
+  border-top: solid 1px #999999;
+  border-bottom: solid 1px #999999;
+}
+
+.lead {
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.bar.background-image-fixed-2 {
+  background: url('https://user2018.r-project.org/img/user_wall.png') center top no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.home-carousel {
+  position: relative;
+  background: url('../img/bg.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 2.0s ease-out;
+  -moz-transition: all 2.0s ease-out;
+  transition: all 2.0s ease-out;
+}
+
+.home-carousel h1 {
+  font-weight: 700;
+  text-transform: none;
+  font-size: 46px;
+  letter-spacing: 0.08em;
+}
+
+.testimonials .item .testimonial .name-picture {
+  float: right;
+  width: 100%;
+  text-align: left;
+}
+
+.testimonials .item .testimonial .icon {
+    display: none;
+}
+
+.nav {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: square; }
+  .nav:before, .nav:after {
+    content: " ";
+    display: table; }
+  .nav:after {
+    clear: both; }
+  .nav > li {
+    position: relative;
+    display: block; }
+    .nav > li > a {
+      position: relative;
+      display: block;
+      padding: 10px 15px; }
+      .nav > li > a:hover, .nav > li > a:focus {
+        text-decoration: none;
+        background-color: #eeeeee; }
+    .nav > li.disabled > a {
+      color: #bbb; }
+      .nav > li.disabled > a:hover, .nav > li.disabled > a:focus {
+        color: #bbb;
+        text-decoration: none;
+        background-color: transparent;
+        cursor: not-allowed; }
+  .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: #eeeeee;
+    border-color: #5a9ddb; }
+  .nav .nav-divider {
+    height: 1px;
+    margin: 12.5px 0;
+    overflow: hidden;
+    background-color: #e5e5e5; }
+  .nav > li > a > img {
+    max-width: none; }
+
+.nav-pills > li {
+  float: left; }
+  .nav-pills > li > a {
+    border-radius: 3px; }
+  .nav-pills > li + li {
+    margin-left: 2px; }
+  .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #fff;
+    background-color: #5a9ddb; }
+
+.nav-stacked > li {
+  float: none; }
+  .nav-stacked > li + li {
+    margin-top: 2px;
+    margin-left: 0; }
+
+
+/* The checkcontainer */
+.checkcontainer {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: inherit;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.checkcontainer input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background-color: #eee;
+    border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.checkcontainer:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.checkcontainer input:checked ~ .checkmark {
+    background-color: #467fbf;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.checkcontainer input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.checkcontainer .checkmark:after {
+ 	top: 6.5px;
+	left: 6.5px;
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background: white;
+}
+
+#reg-sum {
+  font-family: inherit;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#reg-sum td, #reg-sum th {
+  border: 1px solid #eee;
+  padding: 8px;
+}
+
+/* #reg-sum tr:nth-child(even) {background-color: #f2f2f2;} */
+
+#reg-sum tr:hover {background-color: #eee;}
+
+#reg-sum th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #467fbf;
+  color: white;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #467fbf;
+  color: white;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  /* background-color: #2171b5; */
+  font-weight: bold;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #fc8d59;
+  font-weight: bold;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  /* padding: 6px 12px; */
+  /* border: 1px solid #ccc; */
+  border-top: none;
+}
+
+.tabcontent {
+  animation: fadeEffect 1s; /* Fading effect takes 1 second */
+}
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swag on useR! 2018</title>
+    <link>https://user2018.r-project.org/categories/swag/</link>
+    <description>Recent content in swag on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://user2018.r-project.org/categories/swag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Print your own poster or postcard</title>
+      <link>https://user2018.r-project.org/blog/2017/12/13/postcards/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/blog/2017/12/13/postcards/</guid>
+      <description>If you would like to print your own postcard or poster for useR! 2018 here are links to the files:
+ [Postcard (pdf with print marks)]((https://user2018.r-project.org/img/poster_new_postcard_marks.pdf) Postcard (pdf) Poster (png)  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on useR! 2018</title>
+    <link>https://user2018.r-project.org/tags/</link>
+    <description>Recent content in Tags on useR! 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://user2018.r-project.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>programme</title>
+      <link>https://user2018.r-project.org/tags/programme/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/tags/programme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>registration</title>
+      <link>https://user2018.r-project.org/tags/registration/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/tags/registration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sponsor</title>
+      <link>https://user2018.r-project.org/tags/sponsor/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/tags/sponsor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swag</title>
+      <link>https://user2018.r-project.org/tags/swag/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/tags/swag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interview</title>
+      <link>https://user2018.r-project.org/tags/interview/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>https://user2018.r-project.org/tags/survey/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://user2018.r-project.org/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
